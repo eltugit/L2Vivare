@@ -1,0 +1,3 @@
+Character Info: [Character: MrPutu[268881490] - Account: futon86 - IP: 138.199.31.141]
+Bug Type: General
+Message: i found a bug that we can use skin without apply the skin 

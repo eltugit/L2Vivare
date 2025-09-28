@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="40115" type="Weapon" name="Infinity God Cutter">
+		<set name="icon" val="iconv6.bm_the_sword_of_hero" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="40117" type="Weapon" name="Infinity God Shaper">
+		<set name="icon" val="iconv6.bm_the_dagger_of_hero" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="40119" type="Weapon" name="Infinity God Avenger">
+		<set name="icon" val="iconv6.bm_the_axe_of_hero" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="40128" type="Weapon" name="Infinity God Retributer">
+		<set name="icon" val="icon.weapon_R99_twohand_magic_blunt_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="40121" type="Weapon" name="Infinity God Slasher">
+		<set name="icon" val="iconv6.bm_the_two_handed_sword_of_hero" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="40123" type="Weapon" name="Infinity God Fighter">
+		<set name="icon" val="iconv6.bm_the_fist_of_hero" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="40125" type="Weapon" name="Infinity God Stormer">
+		<set name="icon" val="iconv6.bm_the_pole_of_hero" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="40127" type="Weapon" name="Infinity God Caster">
+		<set name="icon" val="iconv6.bm_the_mace_of_hero" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="40129" type="Weapon" name="Infinity God Buster">
+		<set name="icon" val="iconv6.bm_infinity_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="40130" type="Weapon" name="Infinity God Thrower">
+		<set name="icon" val="iconv6.bm_the_bow_of_hero" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="40132" type="Weapon" name="Infinity God Pincer">
+		<set name="icon" val="iconv6.bm_infinity_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="40134" type="Weapon" name="Infinity God Nagan">
+		<set name="icon" val="iconv6.bm_the_two_handed_sword_of_hero" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="40135" type="Weapon" name="Infinity God Shooter">
+		<set name="icon" val="iconv6.bm_infinity_shooter" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="40136" type="Weapon" name="Infinity God Dual Dagger">
+		<set name="icon" val="iconv6.bm_r_dualdagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="40137" type="Weapon" name="Infinity God Dual Sword">
+		<set name="icon" val="iconv6.bm_r_dualsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	
+</list>

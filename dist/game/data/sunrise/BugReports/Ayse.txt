@@ -1,0 +1,3 @@
+Character Info: [Character: Ayse[269000391] - Account: 226411zz - IP: 31.128.126.36]
+Bug Type: Balance
+Message: 123 

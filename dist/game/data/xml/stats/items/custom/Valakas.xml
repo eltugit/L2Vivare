@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="55654" type="Weapon" name="Valakas Rapier">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_cutter_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1280" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55655" type="Weapon" name="Valakas Sheutjeh">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_suitze_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1580" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55656" type="Weapon" name="Valakas Thrower">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_thrower_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55657" type="Weapon" name="Valakas Shaper">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_shaper_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55658" type="Weapon" name="Valakas Stormer">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_stormer_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="2010" />
+	</item>
+	<item id="55659" type="Weapon" name="Valakas Avenger">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_avenger_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+	</item>
+	<item id="55660" type="Weapon" name="Valakas Buster">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_buster_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="sword" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55661" type="Weapon" name="Valakas Fighter">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_fighter_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1550" />
+	</item>
+	<item id="55662" type="Weapon" name="Valakas Dual Daggers ">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_dual_dagger_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="11421" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="2050" />
+	</item>
+	<item id="55663" type="Weapon" name="Valakas Caster">
+		<set name="icon" val="SacriDragonWeaponTex.valakas_caster_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+	</item>
+	
+</list>

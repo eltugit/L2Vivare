@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="55709" type="Weapon" name="Shadow Cutter">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_onehand_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="55710" type="Weapon" name="Shadow Slasher">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_twohand_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55711" type="Weapon" name="Shadow Buster">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_magic_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="55712" type="Weapon" name="Shadow Retributer">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_magic_blunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55713" type="Weapon" name="Shadow Shaper">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_dagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="55714" type="Weapon" name="Shadow Fighter">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_fist" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55715" type="Weapon" name="Shadow Thrower">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_bow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55716" type="Weapon" name="Shadow Dual Cutter">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_dual_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55717" type="Weapon" name="Shadow Dual Shaper">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_dualdagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>	
+	<item id="55718" type="Weapon" name="Shadow Stormer">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_spear" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55719" type="Weapon" name="Shadow Rapier">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_onehand_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		
+	</item>
+	<item id="55720" type="Weapon" name="Shadow AncientSword">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_twohand_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientsword" />
+		<set name="bodypart" val="lrhand" />
+		
+	</item>
+	<item id="55721" type="Weapon" name="Shadow Crossbow">
+		<set name="icon" val="Avengers_Shadow_Weapons.weapon_shadow_crossbow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		
+	</item>
+	
+</list>

@@ -1,0 +1,3 @@
+Character Info: [Character: EmmaWatson[268706945] - Account: natoo - IP: 200.108.225.224]
+Bug Type: General
+Message: cleanse is for %. 

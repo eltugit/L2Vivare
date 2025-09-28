@@ -1,0 +1,3 @@
+Character Info: [Character: 111222[268515390] - Account: 01095988488 - IP: 197.43.106.51]
+Bug Type: General
+Message: www 

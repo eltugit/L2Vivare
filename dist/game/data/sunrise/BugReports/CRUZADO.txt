@@ -1,0 +1,3 @@
+Character Info: [Character: CRUZADO[268825098] - Account: xxmataoxx - IP: 201.86.226.26]
+Bug Type: General
+Message: Fixed 

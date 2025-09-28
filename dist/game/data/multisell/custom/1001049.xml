@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<item>
+    <ingredient id="100103" count="250" />
+	<ingredient id="100104" count="25" />
+    <production id="100109" count="1"/>
+</item>
+
+
+</list>

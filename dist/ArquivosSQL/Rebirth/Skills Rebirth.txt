@@ -1,0 +1,81 @@
+skillname
+==============================
+
+35200	1	a,Rebirth Guidance\0	a,After rebirth the hero can increase 5% of Accuracy.\0	a,none\0	a,none\0
+35200	2	a,Rebirth Guidance\0	a,After rebirth the hero can increase 10% of Accuracy.\0	a,none\0	a,none\0
+35200	3	a,Rebirth Guidance\0	a,After rebirth the hero can increase 15% of Accuracy.\0	a,none\0	a,none\0
+35201	1	a,Rebirth Haste\0	a,After rebirth the hero can increase 5% of Atk Spd.\0	a,none\0	a,none\0
+35201	2	a,Rebirth Haste\0	a,After rebirth the hero can increase 10% of Atk Spd.\0	a,none\0	a,none\0
+35201	3	a,Rebirth Haste\0	a,After rebirth the hero can increase 15% of Atk Spd.\0	a,none\0	a,none\0
+35202	1	a,Rebirth Health\0	a,After rebirth the hero can increase 5% of Max HP.\0	a,none\0	a,none\0
+35202	2	a,Rebirth Health\0	a,After rebirth the hero can increase 10% of Max HP.\0	a,none\0	a,none\0
+35202	3	a,Rebirth Health\0	a,After rebirth the hero can increase 15% of Max HP.\0	a,none\0	a,none\0
+35203	1	a,Rebirth Mana\0	a,After rebirth the hero can increase 5% of Max MP.\0	a,none\0	a,none\0
+35203	2	a,Rebirth Mana\0	a,After rebirth the hero can increase 10% of Max MP.\0	a,none\0	a,none\0
+35203	3	a,Rebirth Mana\0	a,After rebirth the hero can increase 15% of Max MP.\0	a,none\0	a,none\0
+35204	1	a,Rebirth Wind Walk\0	a,After rebirth the hero can increase 5% of Speed.\0	a,none\0	a,none\0
+35204	2	a,Rebirth Wind Walk\0	a,After rebirth the hero can increase 10% of Speed.\0	a,none\0	a,none\0
+35204	3	a,Rebirth Wind Walk\0	a,After rebirth the hero can increase 15% of Speed.\0	a,none\0	a,none\0
+35205	1	a,Rebirth Focus\0	a,After rebirth the hero can increase 5% of Critical Rate.\0	a,none\0	a,none\0
+35205	2	a,Rebirth Focus\0	a,After rebirth the hero can increase 10% of Critical Rate.\0	a,none\0	a,none\0
+35205	3	a,Rebirth Focus\0	a,After rebirth the hero can increase 15% of Critical Rate.\0	a,none\0	a,none\0
+35206	1	a,Rebirth Might\0	a,After rebirth the hero can increase 5% of P.Atk.\0	a,none\0	a,none\0
+35206	2	a,Rebirth Might\0	a,After rebirth the hero can increase 10% of P.Atk.\0	a,none\0	a,none\0
+35206	3	a,Rebirth Might\0	a,After rebirth the hero can increase 15% of P.Atk.\0	a,none\0	a,none\0
+35207	1	a,Rebirth Empower\0	a,After rebirth the hero can increase 5% of M.Atk.\0	a,none\0	a,none\0
+35207	2	a,Rebirth Empower\0	a,After rebirth the hero can increase 10% of M.Atk.\0	a,none\0	a,none\0
+35207	3	a,Rebirth Empower\0	a,After rebirth the hero can increase 15% of M.Atk.\0	a,none\0	a,none\0
+35208	1	a,Rebirth Shield\0	a,After rebirth the hero can increase 5% of P.Def.\0	a,none\0	a,none\0
+35208	2	a,Rebirth Shield\0	a,After rebirth the hero can increase 10% of P.Def.\0	a,none\0	a,none\0
+35208	3	a,Rebirth Shield\0	a,After rebirth the hero can increase 15% of P.Def.\0	a,none\0	a,none\0
+35209	1	a,Rebirth Magic Barrier\0	a,After rebirth the hero can increase 5% of M.Def.\0	a,none\0	a,none\0
+35209	2	a,Rebirth Magic Barrier\0	a,After rebirth the hero can increase 10% of M.Def.\0	a,none\0	a,none\0
+35209	3	a,Rebirth Magic Barrier\0	a,After rebirth the hero can increase 15% of M.Def.\0	a,none\0	a,none\0
+35210	1	a,Rebirth Agility\0	a,After rebirth the hero can increase 6 Evasion.\0	a,none\0	a,none\0
+35210	2	a,Rebirth Agility\0	a,After rebirth the hero can increase 11 Evasion.\0	a,none\0	a,none\0
+35210	3	a,Rebirth Agility\0	a,After rebirth the hero can increase 17 Evasion.\0	a,none\0	a,none\0
+35211	1	a,Rebirth Acumen\0	a,After rebirth the hero can increase 5% of Casting Speed.\0	a,none\0	a,none\0
+35211	2	a,Rebirth Acumen\0	a,After rebirth the hero can increase 10% of Casting Speed.\0	a,none\0	a,none\0
+35211	3	a,Rebirth Acumen\0	a,After rebirth the hero can increase 15% of Casting Speed.\0	a,none\0	a,none\0
+
+
+=====================================================
+
+skillgrp 
+
+35200	1	12	2	0	-1	0	0.00000000	0			icon.skill1240		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35200	2	12	2	0	-1	0	0.00000000	0			icon.skill1240		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35200	3	12	2	0	-1	0	0.00000000	0			icon.skill1240		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35201	1	12	2	0	-1	0	0.00000000	0			icon.skill1086		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35201	2	12	2	0	-1	0	0.00000000	0			icon.skill1086		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35201	3	12	2	0	-1	0	0.00000000	0			icon.skill1086		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35202	1	12	2	0	-1	0	0.00000000	0			icon.skill0212		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35202	2	12	2	0	-1	0	0.00000000	0			icon.skill0212		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35202	3	12	2	0	-1	0	0.00000000	0			icon.skill0212		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35203	1	12	2	0	-1	0	0.00000000	0			icon.skill0214		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35203	2	12	2	0	-1	0	0.00000000	0			icon.skill0214		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35203	3	12	2	0	-1	0	0.00000000	0			icon.skill0214		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35204	1	12	2	0	-1	0	0.00000000	0			icon.skill1204		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35204	2	12	2	0	-1	0	0.00000000	0			icon.skill1204		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35204	3	12	2	0	-1	0	0.00000000	0			icon.skill1204		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35205	1	12	2	0	-1	0	0.00000000	0			icon.skill1077		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35205	2	12	2	0	-1	0	0.00000000	0			icon.skill1077		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35205	3	12	2	0	-1	0	0.00000000	0			icon.skill1077		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35206	1	12	2	0	-1	0	0.00000000	0			icon.skill1068		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35206	2	12	2	0	-1	0	0.00000000	0			icon.skill1068		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35206	3	12	2	0	-1	0	0.00000000	0			icon.skill1068		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35207	1	12	2	0	-1	0	0.00000000	0			icon.skill1059		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35207	2	12	2	0	-1	0	0.00000000	0			icon.skill1059		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35207	3	12	2	0	-1	0	0.00000000	0			icon.skill1059		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35208	1	12	2	0	-1	0	0.00000000	0			icon.skill0291		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35208	2	12	2	0	-1	0	0.00000000	0			icon.skill0291		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35208	3	12	2	0	-1	0	0.00000000	0			icon.skill0291		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35209	1	12	2	0	-1	0	0.00000000	0			icon.skill1526		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35209	2	12	2	0	-1	0	0.00000000	0			icon.skill1526		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35209	3	12	2	0	-1	0	0.00000000	0			icon.skill1526		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35210	1	12	2	0	-1	0	0.00000000	0			icon.skill0171		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35210	2	12	2	0	-1	0	0.00000000	0			icon.skill0171		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35210	3	12	2	0	-1	0	0.00000000	0			icon.skill0171		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35211	1	12	2	0	-1	0	0.00000000	0			icon.skill0164		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35211	2	12	2	0	-1	0	0.00000000	0			icon.skill0164		0	0	0	a,none\0	0	-1	-1	0	a,none\0
+35211	3	12	2	0	-1	0	0.00000000	0			icon.skill0164		0	0	0	a,none\0	0	-1	-1	0	a,none\0

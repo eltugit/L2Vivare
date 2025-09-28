@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/skills.xsd">
+    <skill id="77530" levels="1" name="Common (SHIELD AND SIGIL)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            71769,1,5.56;71770,1,5.56;71833,1,5.56;71834,1,5.56;31011,1,5.56;32014,1,5.56;32011,1,5.56;31012,1,5.56;32019,1,5.56;40755,1,5.56;40756,1,5.56;40757,1,5.56;40758,1,5.56;40759,1,5.56;40760,1,5.56;40761,1,5.56;40762,1,5.56;40763,1,5.56
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77531" levels="1" name="Less Common (SHIELD AND SIGIL)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            50500,1,12.50;32013,1,12.50;55560,1,12.50;55561,1,12.50;71731,1,12.50;71732,1,12.50;71750,1,12.50;71751,1,12.50
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77532" levels="1" name="Mid Grade (SHIELD AND SIGIL)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            60087,1,7.14;60088,1,7.14;40764,1,7.14;40765,1,7.14;40766,1,7.14;40767,1,7.14;40768,1,7.14;40769,1,7.14;40770,1,7.14;40771,1,7.14;40772,1,7.14;40773,1,7.14;40774,1,7.14;40775,1,7.14
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77533" levels="1" name="High Grade (SHIELD AND SIGIL)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            71876,1,25.00;71877,1,25.00;71895,1,25.00;71896,1,25.00
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77534" levels="1" name="Epic Grade (SHIELD AND SIGIL)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            32012,1,20.00;71855,1,20.00;71856,1,20.00;71975,1,20.00;70628,1,20.00
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77535" levels="1" name="Legendary Grade (SHIELD AND SIGIL)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            41694,1,6.67;41695,1,6.67;41676,1,6.67;41677,1,6.67;32211,1,6.67;43116,1,6.67;43120,1,6.67;43124,1,6.67;43128,1,6.67;43132,1,6.67;70000,1,6.67;70007,1,6.67;70008,1,6.67;70009,1,6.67;32005,1,6.67
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+</list>

@@ -1,0 +1,20 @@
+<list>
+	<set name="refreshAllStatisticsIn" val="3600" />
+	<category name="PvP">
+	    <type name="PvP Kill" type="pvp_victories" refreshTime="weekly" additionalText="Kill(s)" >
+            <reward rank="1" id="100108" type="Item" min="250" max="250" chance="100" party="false"/>
+			<reward rank="2" id="100108" type="Item" min="125" max="125" chance="100" party="false"/>
+			<reward rank="3" id="100108" type="Item" min="50" max="50" chance="100" party="false"/>
+        </type>
+		<type name="Assistance" type="assist_on_kill" refreshTime="weekly" additionalText="Assist(s)">
+            <reward rank="1" id="100108" type="Item" min="250" max="250" chance="100" party="false"/>
+			<reward rank="2" id="100108" type="Item" min="125" max="125" chance="100" party="false"/>
+			<reward rank="3" id="100108" type="Item" min="50" max="50" chance="100" party="false"/>
+        </type>
+		<type name="PvP Defeat" type="pvp_defeats" refreshTime="weekly" additionalText="Death(s)" >
+            <reward rank="1" id="100108" type="Item" min="100" max="100" chance="100" party="false"/>
+			<reward rank="2" id="100108" type="Item" min="50" max="50" chance="100" party="false"/>
+			<reward rank="3" id="100108" type="Item" min="25" max="25" chance="100" party="false"/>
+        </type>
+    </category>
+</list>

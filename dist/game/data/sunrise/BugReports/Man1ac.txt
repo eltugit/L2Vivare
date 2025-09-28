@@ -1,0 +1,3 @@
+Character Info: [Character: Man1ac[268451941] - Account: xyaazqq1 - IP: 186.156.108.148]
+Bug Type: Balance
+Message: provoke no work correctly in zone farm 

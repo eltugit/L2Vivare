@@ -1,0 +1,3 @@
+Character Info: [Character: LordSummuns[268593443] - Account: magiko - IP: 168.197.25.43]
+Bug Type: General
+Message: I just noticed that the bonus of the buff counter critical doesnt work '-' it is supose to add 100% crit damage when activated .. not realy its not working, look for it please. Best regarts! 

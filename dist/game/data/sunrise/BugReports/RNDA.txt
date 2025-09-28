@@ -1,0 +1,3 @@
+Character Info: [Character: RNDA[268515821] - Account: rand242 - IP: 84.108.232.214]
+Bug Type: Balance
+Message: Full Ghost hunter has 3.1k pdef Full 20 

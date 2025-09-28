@@ -1,0 +1,3 @@
+Character Info: [Character: TheBallads[268473131] - Account: xxvickxx - IP: 190.234.163.180]
+Bug Type: General
+Message: no me deja usar el Alt+b Teleport me sale incorrect item acount 

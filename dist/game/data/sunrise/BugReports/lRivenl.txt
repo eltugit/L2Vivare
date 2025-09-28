@@ -1,0 +1,3 @@
+Character Info: [Character: lRivenl[268689423] - Account: farmhardy - IP: 177.17.124.48]
+Bug Type: Balance
+Message: Mage class are too resistent, dont take damage 

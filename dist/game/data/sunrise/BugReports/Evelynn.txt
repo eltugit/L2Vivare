@@ -1,0 +1,3 @@
+Character Info: [Character: Evelynn[268445283] - Account: ejbm - IP: 138.36.225.39]
+Bug Type: Balance
+Message: Pliz fix warp 1 segundo depois de usa o delay 

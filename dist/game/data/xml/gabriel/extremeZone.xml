@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/gabriel/extremeZone.xsd">
+	<extremezone npcId="80009" name="Sailren" imageName="sailren">
+        <locationSpawnRaidBoss x="27298" y="-6846" z="-1970" />
+        <playerTeleport>
+            <locationTeleportPlayer x="28351" y="-6071" z="-1974" />
+            <locationTeleportPlayer x="26440" y="-6444" z="-1971" />
+            <locationTeleportPlayer x="28276" y="-7669" z="-1973" />
+        </playerTeleport>
+        <locationSpawnNpc x="27298" y="-6846" z="-1970" />
+        <zoneInfo name="Sailren Checker" id="80009" minZ="-3800" maxZ="-3500">
+            <node X="6584" Y="-19573" />
+            <node X="7179" Y="-19263" />
+            <node X="7408" Y="-19946" />
+            <node X="6840" Y="-20167" />
+        </zoneInfo>
+    </extremezone>
+	<extremezone npcId="80012" name="Baylor" imageName="baylor">
+        <locationSpawnRaidBoss x="153569" y="142075" z="-12737" />
+        <playerTeleport>
+            <locationTeleportPlayer x="153011" y="142976" z="-12739" />
+            <locationTeleportPlayer x="153430" y="141029" z="-12739" />
+            <locationTeleportPlayer x="154638" y="142435" z="-12739" />
+        </playerTeleport>
+        <locationSpawnNpc x="153576" y="142072" z="-12736" />
+        <zoneInfo name="Baylor Checker" id="80012" minZ="-12300" maxZ="-12200">
+            <node X="148560" Y="143440" />
+            <node X="148094" Y="143515" />
+            <node X="148228" Y="143972" />
+            <node X="148722" Y="143853" />
+        </zoneInfo>
+    </extremezone>
+	<extremezone npcId="80014" name="Darion" imageName="darion">
+        <locationSpawnRaidBoss x="178296" y="-85592" z="-7216" />
+        <playerTeleport>
+            <locationTeleportPlayer x="175688" y="-85592" z="-7216" />
+        </playerTeleport>
+        <locationSpawnNpc x="178296" y="-85560" z="-7216" />
+        <zoneInfo name="Darion Checker" id="80014" minZ="-2900" maxZ="-2800">
+            <node X="178296" Y="-85768" />
+            <node X="178312" Y="-85400" />
+            <node X="178488" Y="-85592" />
+            <node X="178120" Y="-85576" />
+        </zoneInfo>
+    </extremezone>
+</list>

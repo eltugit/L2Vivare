@@ -1,0 +1,3 @@
+Character Info: [Character: KillSwitch[268451653] - Account: haloran - IP: 177.130.134.71]
+Bug Type: General
+Message: Ta dando pra bugar buffs, da seguinte forma, se vc toamr cancel-buff e se buffar os buffs se stackam, por ex: tomo cancel no Improved combat e me buffo com might os 2 stackam. Disc: Haloran#4071 

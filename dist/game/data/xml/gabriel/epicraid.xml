@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Zone id needs to be the same ID as the npcId from raidboss!-->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/gabriel/epicraid.xsd">
+	
+	<epicraid npcId="80001" name="Baium" imageName="baium">
+        <locationSpawnRaidBoss x="115203" y="16625" z="10073" />
+        <playerTeleport>
+            <locationTeleportPlayer x="113115" y="14512" z="10076" />
+            <locationTeleportPlayer x="116746" y="15860" z="10076" />
+            <locationTeleportPlayer x="113344" y="17608" z="10076" />
+        </playerTeleport>
+        <locationTeleZone x="115208" y="16648" z="6992" />
+        <locationSpawnNpc x="112738" y="14151" z="10073" />
+        <zoneInfo name="Baium Checker" id="80001" minZ="10070" maxZ="10080">
+            <node X="112799" Y="13837" />
+            <node X="112434" Y="14200" />
+            <node X="112662" Y="14442" />
+            <node X="113041" Y="14065" />
+        </zoneInfo>
+    </epicraid>
+	<epicraid npcId="80002" name="Queen Ant" imageName="queenant">
+        <locationSpawnRaidBoss x="-21610" y="181594" z="-5720" />
+        <playerTeleport>
+            <locationTeleportPlayer x="-22633" y="183885" z="-5723" />
+            <locationTeleportPlayer x="-21507" y="179362" z="-5835" />
+            <locationTeleportPlayer x="-20629" y="183804" z="-5723" />
+        </playerTeleport>
+        <locationTeleZone x="-9976" y="176064" z="-4149" />
+        <locationSpawnNpc x="-21608" y="181592" z="-5720" />
+        <zoneInfo name="Queen Ant Checker" id="80002" minZ="-5330" maxZ="-5310">
+            <node X="-14523" Y="176715" />
+            <node X="-14452" Y="177208" />
+            <node X="-14996" Y="177246" />
+            <node X="-15139" Y="176803" />
+            <node X="-14821" Y="176558" />
+        </zoneInfo>
+    </epicraid>
+	<epicraid npcId="80003" name="Antharas" imageName="antharas">
+        <locationSpawnRaidBoss x="177137" y="114899" z="-7709" />
+        <playerTeleport>
+            <locationTeleportPlayer x="179985" y="114838" z="-7709" />
+            <locationTeleportPlayer x="176856" y="112404" z="-7709" />
+            <locationTeleportPlayer x="176342" y="116450" z="-7709" />
+        </playerTeleport>
+        <locationTeleZone x="146373" y="111740" z="-3568" />
+        <locationSpawnNpc x="154368" y="121283" z="-3810" />
+        <zoneInfo name="Antharas Checker" id="80003" minZ="-3850" maxZ="-3790">
+            <node X="154125" Y="121595" />
+            <node X="154021" Y="121137" />
+            <node X="154490" Y="120695" />
+            <node X="154891" Y="121599" />
+            <node X="154550" Y="121664" />
+        </zoneInfo>
+    </epicraid>
+    <epicraid npcId="80004" name="Valakas" imageName="valakas">
+        <locationSpawnRaidBoss x="212346" y="-114056" z="-1638" />
+        <playerTeleport>
+            <locationTeleportPlayer x="214841" y="-115926" z="-1637" />
+            <locationTeleportPlayer x="213118" y="-112367" z="-1638" />
+            <locationTeleportPlayer x="210844" y="-115191" z="-1637" />
+        </playerTeleport>
+        <locationTeleZone x="186371" y="-116074" z="-1576" />
+        <locationSpawnNpc x="193307" y="-113185" z="-1344" />
+        <zoneInfo name="Valakas Checker" id="80004" minZ="-1020" maxZ="-700">
+            <node X="190388" Y="-105016" />
+            <node X="190372" Y="-105973" />
+            <node X="189522" Y="-106059" />
+            <node X="189465" Y="-105192" />
+        </zoneInfo>
+    </epicraid>
+	<epicraid npcId="80005" name="Freya" imageName="freya">
+        <locationSpawnRaidBoss x="114712" y="-114811" z="-11210" />
+        <playerTeleport>
+            <locationTeleportPlayer x="116354" y="-114799" z="-10988" />
+            <locationTeleportPlayer x="114704" y="-116954" z="-11081" />
+            <locationTeleportPlayer x="113088" y="-114798" z="-10988" />
+        </playerTeleport>
+        <locationTeleZone x="116161" y="-125751" z="-3256" />
+        <locationSpawnNpc x="102708" y="-125655" z="-2848" />
+        <zoneInfo name="Freya Checker" id="80005" minZ="-2900" maxZ="-2800">
+            <node X="102336" Y="-125392" />
+            <node X="103015" Y="-125323" />
+            <node X="103202" Y="-126044" />
+            <node X="102486" Y="-126134" />
+        </zoneInfo>
+    </epicraid>
+	<epicraid npcId="80006" name="Frintezza" imageName="frintezza">
+        <locationSpawnRaidBoss x="-87788" y="-153289" z="-9180" />
+        <playerTeleport>
+            <locationTeleportPlayer x="-87789" y="-151910" z="-9173" />
+            <locationTeleportPlayer x="-87772" y="-154648" z="-9173" />
+            <locationTeleportPlayer x="-89253" y="-153293" z="-9173" />
+            <locationTeleportPlayer x="-86308" y="-153238" z="-9173" />
+        </playerTeleport>
+        <locationTeleZone x="189730" y="-69667" z="-2568" />
+        <locationSpawnNpc x="181389" y="-78683" z="-2730" />
+        <zoneInfo name="Frintezza Checker" id="80006" minZ="-2750" maxZ="-2730">
+            <node X="181606" Y="-78467" />
+            <node X="181607" Y="-78897" />
+            <node X="181178" Y="-78896" />
+            <node X="181174" Y="-78469" />
+        </zoneInfo>
+    </epicraid>
+	<epicraid npcId="80007" name="Core" imageName="core">
+        <locationSpawnRaidBoss x="17723" y="108915" z="-6493" />
+        <playerTeleport>
+            <locationTeleportPlayer x="17688" y="111841" z="-6585" />
+            <locationTeleportPlayer x="18955" y="110175" z="-6446" />
+            <locationTeleportPlayer x="16519" y="110181" z="-6446" />
+        </playerTeleport>
+        <locationTeleZone x="17723" y="115630" z="-6585" />
+        <locationSpawnNpc x="17717" y="112895" z="-6585" />
+        <zoneInfo name="Core Checker" id="80007" minZ="-6600" maxZ="-6500">
+            <node X="17433" Y="112616" />
+            <node X="18012" Y="112616" />
+            <node X="18010" Y="113195" />
+            <node X="17429" Y="113193" />
+        </zoneInfo>
+    </epicraid>
+	<epicraid npcId="80008" name="Orfen" imageName="orfen">
+        <locationSpawnRaidBoss x="43758" y="17225" z="-4395" />
+        <playerTeleport>
+            <locationTeleportPlayer x="46223" y="17452" z="-4331" />
+            <locationTeleportPlayer x="42636" y="18349" z="-4373" />
+            <locationTeleportPlayer x="43338" y="15946" z="-4397" />
+        </playerTeleport>
+        <locationTeleZone x="65464" y="27173" z="-3750" />
+        <locationSpawnNpc x="43736" y="17208" z="-4400" />
+        <zoneInfo name="Orfen Checker" id="80008" minZ="-3800" maxZ="-3700">
+            <node X="63137" Y="26416" />
+            <node X="63327" Y="25992" />
+            <node X="63738" Y="26193" />
+            <node X="63553" Y="26616" />
+        </zoneInfo>
+    </epicraid>
+	<epicraid npcId="80010" name="Beleth" imageName="beleth">
+        <locationSpawnRaidBoss x="16328" y="213144" z="-9354" />
+        <playerTeleport>
+            <locationTeleportPlayer x="16328" y="214840" z="-9352" />
+            <locationTeleportPlayer x="16312" y="211528" z="-9352" />
+            <locationTeleportPlayer x="14488" y="213128" z="-9352" />
+        </playerTeleport>
+        <locationTeleZone x="-23368" y="249416" z="-3216" />
+        <locationSpawnNpc x="-27304" y="255608" z="-2000" />
+    </epicraid>
+</list>

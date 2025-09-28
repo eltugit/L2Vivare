@@ -1,0 +1,114 @@
+<html>
+<title>Lineage 2 Vivare - Community Board</title>
+<body><br>
+<table width=755>
+<tr>
+<center>
+<td align=center valign=top>
+<table border=0 cellpadding=0 cellspacing=0 width=769 height=440>
+<tr>
+<td valign="top" align="center">
+<table width=755 height=468>
+<tr>
+<td width=755>
+<table border=0 cellspacing=0 cellpadding=0 width=755>
+<tr>
+<td height=10></td>
+</tr>
+<tr>
+
+%template%
+
+<td width=800>
+<table width=550 height=180>
+<tr>
+<td valign="top" align="center">
+<table border=0 width=536 height=480 cellspacing=4
+cellpadding=3
+background="l2ui_ct1.ComboBox_DF_Dropmenu_Bg">
+<tr>
+<td width=550 align=left valign=top>
+
+
+<table width=550 height=23
+background="l2ui_ct1.Windows_DF_Drawer_Bg">
+<tr>
+<td width=416 align=center
+valign=center>
+<font name="CreditTextNormal"
+color="FF6633">Welcome to L2Vivare</font>
+</td>
+</tr>
+</table>
+
+
+<table width=550 height=440 bgcolor=000000>
+<tr>
+<td width=550 height=440 align=left
+valign=center>
+    <br>
+    <br>
+<center>Hello<font
+name="CreditTextNormal"
+color=669900> %name%</font>
+</font>, Here you can find all the items, just type your name!
+    <center>
+<br1>
+   <table>
+       <tr>
+       <td height=50>
+           <edit var="itemName" width=300 height=35>
+       </td>
+       <td>
+           <button value="Search" action="bypass gab_itembroker_search $itemName" width=90 height=35 back=L2UI_CT1.Button_DF_Down fore=L2UI_CT1.Button_DF>
+       </td>
+           <td>
+           <button value="Reset Search" action="bypass gab_itembroker_editVar searchString all" width=90 height=35 back=L2UI_CT1.Button_DF_Down fore=L2UI_CT1.Button_DF>
+       </td>
+       </tr>
+
+   </table>
+<br1>
+    <center>
+        <table>
+            <tr>
+                <td><button value="Player Shops Sell" action="bypass gab_itembroker_editVar typeOfStore sell" width=110 height=30 back=L2UI_CT1.Button_DF_Down fore=L2UI_CT1.Button_DF></td>
+                <td><button value="Player Shops Buy" action="bypass gab_itembroker_editVar typeOfStore buy" width=110 height=30 back=L2UI_CT1.Button_DF_Down fore=L2UI_CT1.Button_DF></td>
+            </tr>
+            
+        </table>
+    </center>
+<table>
+    %change%
+</table>
+
+    %nav%
+
+</td>
+</tr>
+</table>
+
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</center>
+</tr>
+</table>
+</body>
+</html>

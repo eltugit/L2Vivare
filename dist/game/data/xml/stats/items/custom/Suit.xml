@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+	<item id="55600" type="Armor" name="Holy King Suit">
+		<set name="icon" val="LineageCustom6.king_ico" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55601" type="Armor" name="Sheriff Suit">
+		<set name="icon" val="L2Gabri1.viRUS_Icon.viRUS_003_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55602" type="Armor" name="Samurai Suit">
+		<set name="icon" val="BranchSys3.iconArmar.g_co_japan_general_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55603" type="Armor" name="Blue Captain Suit">
+		<set name="icon" val="iconv6.pirate_blue_change" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55604" type="Armor" name="Robot Suit">
+		<set name="icon" val="BranchSys3.icon.g_co_sf_u" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55605" type="Armor" name="Army Suit">
+		<set name="icon" val="BranchSys3.icon.g_co_military_u" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55606" type="Armor" name="Maid Suit">
+		<set name="icon" val="BranchSys3.icon.g_co_cutie_maid" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55608" type="Armor" name="Christmas Suit">
+		<set name="icon" val="ChristmasTex.armor_ev_santas_clothes" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55609" type="Armor" name="Dark Assassin Suit">
+		<set name="icon" val="LineageCustom2.ico.Asm_ico" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55610" type="Armor" name="Crusader Suit">
+		<set name="icon" val="LineageUniqueTex.uniqarmor_icon" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55611" type="Armor" name="Anakim Suit">
+		<set name="icon" val="LineageCustom2.anakim_ico" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55612" type="Armor" name="Ninja Suit">
+		<set name="icon" val="BranchSys3.icon1.g_co_ninja_u" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55613" type="Armor" name="Navy Suit">
+		<set name="icon" val="Uniform_As.navy_uniform_a_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55614" type="Armor" name="Halloween Suit">
+		<set name="icon" val="LineageCustom3.hwn_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55615" type="Armor" name="Dark Knight Suit">
+		<set name="icon" val="Uniform_As.Dark_Kninght" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55616" type="Armor" name="School Suit A">
+		<set name="icon" val="Uniform_As.Br_schoollook" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55617" type="Armor" name="School Suit B">
+		<set name="icon" val="Uniform_As.Br_schoollook" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55618" type="Armor" name="Captain Suit">
+		<set name="icon" val="Uniform_As.captain_a_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55619" type="Armor" name="Pirate Suit">
+		<set name="icon" val="LineageCustom5.pirate_ico" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55620" type="Armor" name="Musketeer Suit">
+		<set name="icon" val="LineageCustom5.mst_ico" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55621" type="Armor" name="White Assassin Suit">
+		<set name="icon" val="LineageCustom2.ico.Asmw_ico" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="55622" type="Armor" name="White Halloween Suit">
+		<set name="icon" val="LineageCustom3.mgc_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="33009" type="Armor" name="Chinese Red Suit">
+        <set name="icon" val="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_u_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="33010" type="Armor" name="Chinese Green Suit">
+        <set name="icon" val="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_a_b_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="33011" type="Armor" name="Chinese Blue Suit">
+        <set name="icon" val="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_b_g_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="33012" type="Armor" name="Chinese Pink Suit">
+        <set name="icon" val="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_c_g_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="48036" type="Armor" name="Holy Priest Suit">
+        <set name="icon" val="LineageCustom20.mon" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="48038" type="Armor" name="Guard Suit">
+        <set name="icon" val="LineageCustom101.suit03" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="48040" type="Armor" name="Bear Suit">
+        <set name="icon" val="LineageCustom101.suit01" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="48042" type="Armor" name="Valkyrie Suit">
+        <set name="icon" val="LineageCustom101.valkyrie_chest_change_0" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="70928" type="Armor" name="Phase Suit">
+        <set name="icon" val="AeronSuits4.Phasian" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="70929" type="Armor" name="Shiny Phase Suit">
+        <set name="icon" val="AeronSuits5.Phasian" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="32909" type="Armor" name="Silver Suit">
+        <set name="icon" val="light.viRUS_Icon.viRUS_001_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="32606" type="Armor" name="Bat Man Suit">
+        <set name="icon" val="L2Lionna2018.viRUS_Icon.viRUS_034_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="70924" type="Armor" name="Cat Suit">
+        <set name="icon" val="icon.accessory_cat_the_cat_cap_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="70925" type="Armor" name="Wolf Suit">
+        <set name="icon" val="AeronIcons.barbarian_chest_change_0" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="70926" type="Armor" name="White Knight Suit">
+        <set name="icon" val="AeronIcons.white_knight_suit" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="70927" type="Armor" name="Hank Bok Suit">
+        <set name="icon" val="AeronIcons.ev_kr_traditional_dress" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="61020" type="Armor" name="Freya Suit">
+        <set name="icon" val="Infinite_Set_AS.freya_robe_upbody" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="70914" type="Armor" name="Black Navy Suit">
+        <set name="icon" val="AeronIcons.blacknavy" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="alldress" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="1000" />
+        <set name="price" val="5000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="80025" type="Armor" name="Tatto A Suit">
+		<set name="icon" val="icons.g_co_tatu" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="80026" type="Armor" name="Tatto B Suit">
+		<set name="icon" val="icons.g_co_tatu" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	<item id="80027" type="Armor" name="Tatto C Suit">
+		<set name="icon" val="icons.g_co_tatu" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="CLOTH" />
+		<set name="weight" val="1000" />
+	</item>
+	
+</list>

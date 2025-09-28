@@ -1,0 +1,3 @@
+Character Info: [Character: Kangaceiro[268817096] - Account: kangaceiro - IP: 177.35.18.67]
+Bug Type: General
+Message: Quando estamos na arena de pvp, os buffs da caveira do Necro somem, então temos que ficar toda vez tendo que buffa-la 

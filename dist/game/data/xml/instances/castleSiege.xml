@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="castleSiege" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="instance.xsd">
+    <doorlist>
+        <door doorId="23220001" />
+        <door doorId="23220002" />
+        <door doorId="23220005" />
+        <door doorId="23220006" />
+    </doorlist>
+</instance>

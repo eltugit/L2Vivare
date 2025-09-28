@@ -1,0 +1,3 @@
+Character Info: [Character: IncorrecTarget[268616142] - Account: pollegarnott - IP: 179.34.24.119]
+Bug Type: General
+Message: Vei tem itens sumindo direto inventario , da um help ai 2 vez acointeceu ja do nada tmj .. 

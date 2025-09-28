@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--Zone id needs to be the same ID as the npcId from raidboss!-->
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/gabriel/pvpInstance.xsd">
+
+    <zone name="Wasteland">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="-17125" y="209525" z="-3664" />
+            <locationTeleportPlayer x="-13852" y="209937" z="-3651" />
+            <locationTeleportPlayer x="-17010" y="206808" z="-3667" />
+            <locationTeleportPlayer x="-17613" y="212819" z="-3707" />
+        </playerTeleport>
+		<locationSpawnRaidBoss bossId="80011" x="-16079" y="209063" z="-3664" />
+    </zone>
+	<zone name="Iris Lake">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="52344" y="82824" z="-3344" />
+            <locationTeleportPlayer x="54984" y="84504" z="-3568" />
+            <locationTeleportPlayer x="57432" y="86712" z="-3712" />
+            <locationTeleportPlayer x="54744" y="88120" z="-3536" />
+        </playerTeleport>
+		<locationSpawnRaidBoss bossId="80013" x="57208" y="85992" z="-3696" />
+    </zone>
+	<zone name="Antharas Nest">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="180240" y="114802" z="-7708" />
+            <locationTeleportPlayer x="175970" y="117653" z="-7708" />
+            <locationTeleportPlayer x="175538" y="112448" z="-7708" />
+            <locationTeleportPlayer x="177610" y="114889" z="-7708" />
+        </playerTeleport>
+    </zone>
+	<zone name="Forsaken Plains">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="170344" y="42648" z="-4832" />
+            <locationTeleportPlayer x="172616" y="41752" z="-4944" />
+            <locationTeleportPlayer x="174760" y="43256" z="-4832" />
+            <locationTeleportPlayer x="172904" y="44408" z="-4880" />
+        </playerTeleport>
+    </zone>
+	<zone name="Primavel Isle">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="6031" y="-23651" z="-3723" />
+            <locationTeleportPlayer x="8503" y="-23644" z="-3722" />
+            <locationTeleportPlayer x="11403" y="-24394" z="-3644" />
+            <locationTeleportPlayer x="7671" y="-20873" z="-3449" />
+        </playerTeleport>
+    </zone>
+	<zone name="Abandoned Mines">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="144424" y="-171608" z="-1776" />
+            <locationTeleportPlayer x="142024" y="-171944" z="-1776" />
+            <locationTeleportPlayer x="141432" y="-169272" z="-1752" />
+            <locationTeleportPlayer x="139000" y="-169448" z="-1536" />
+        </playerTeleport>
+    </zone>
+    <zone name="Varka Village">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="108136" y="-54184" z="-2496" />
+            <locationTeleportPlayer x="111032" y="-53640" z="-2800" />
+            <locationTeleportPlayer x="111528" y="-56792" z="-2720" />
+            <locationTeleportPlayer x="115336" y="-55896" z="-2656" />
+        </playerTeleport>
+    </zone>
+	<zone name="The Ant Nest">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="-14232" y="188616" z="-4208" />
+            <locationTeleportPlayer x="-16920" y="190200" z="-4176" />
+            <locationTeleportPlayer x="-19912" y="188456" z="-4200" />
+            <locationTeleportPlayer x="-16600" y="186248" z="-4448" />
+        </playerTeleport>
+    </zone>
+	<zone name="Monastery of Silence">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="106872" y="-87848" z="-2944" />
+            <locationTeleportPlayer x="110696" y="-87800" z="-3264" />
+            <locationTeleportPlayer x="110408" y="-85320" z="-3392" />
+            <locationTeleportPlayer x="109736" y="-82104" z="-3392" />
+        </playerTeleport>
+    </zone>
+	<zone name="Elven Fortress">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="33384" y="74072" z="-3712" />
+            <locationTeleportPlayer x="29032" y="74984" z="-3776" />
+            <locationTeleportPlayer x="30344" y="73128" z="-3632" />
+            <locationTeleportPlayer x="31800" y="76600" z="-3472" />
+        </playerTeleport>
+    </zone>
+	<zone name="Battered Lands">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="3096" y="239656" z="-3040" />
+            <locationTeleportPlayer x="4648" y="236088" z="-3264" />
+            <locationTeleportPlayer x="2376" y="233832" z="-3344" />
+            <locationTeleportPlayer x="760" y="235320" z="-3264" />
+        </playerTeleport>
+    </zone>
+	<zone name="Plains Lizardmen">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="87736" y="85560" z="-3104" />
+            <locationTeleportPlayer x="87384" y="82696" z="-3232" />
+            <locationTeleportPlayer x="84184" y="85336" z="-3168" />
+            <locationTeleportPlayer x="90408" y="85432" z="-3488" />
+        </playerTeleport>
+    </zone>
+	<zone name="Forgotten Gateway">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="192901" y="22392" z="-3614" />
+            <locationTeleportPlayer x="187049" y="25748" z="-3736" />
+            <locationTeleportPlayer x="186745" y="15320" z="-3323" />
+            <locationTeleportPlayer x="185350" y="20323" z="-3270" />
+        </playerTeleport>
+    </zone>
+	<zone name="Valley">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="130440" y="114424" z="-3760" />
+            <locationTeleportPlayer x="128184" y="115784" z="-3776" />
+            <locationTeleportPlayer x="127112" y="113976" z="-3520" />
+            <locationTeleportPlayer x="124440" y="115192" z="-3696" />
+        </playerTeleport>
+    </zone>
+	<zone name="Valley of Saint">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="80028" y="-78013" z="-4044" />
+            <locationTeleportPlayer x="77563" y="-81159" z="-3624" />
+            <locationTeleportPlayer x="82233" y="-81298" z="-3710" />
+            <locationTeleportPlayer x="80334" y="-79340" z="-4041" />
+            <locationTeleportPlayer x="85055" y="-82729" z="-3561" />
+            <locationTeleportPlayer x="86669" y="-86426" z="-3184" />
+        </playerTeleport>
+    </zone>
+	<zone name="Varka Silenos">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="127048" y="-38552" z="-3568" />
+            <locationTeleportPlayer x="128648" y="-41000" z="-3424" />
+            <locationTeleportPlayer x="126872" y="-43752" z="-3616" />
+            <locationTeleportPlayer x="123832" y="-43800" z="-3264" />
+        </playerTeleport>
+    </zone>
+	<zone name="Hot Springs">
+        <!--  Minimum of 4 Locations       -->
+        <playerTeleport>
+            <locationTeleportPlayer x="143965" y="-110191" z="-3519" />
+            <locationTeleportPlayer x="141225" y="-105249" z="-3624" />
+            <locationTeleportPlayer x="144279" y="-102944" z="-3547" />
+            <locationTeleportPlayer x="147043" y="-106169" z="-3255" />
+        </playerTeleport>
+    </zone>
+
+</list>

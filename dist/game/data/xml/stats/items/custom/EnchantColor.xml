@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+    <item id="72000" type="Armor" name="Skin - Pure Red">
+        <set name="icon" val="AeronIcons.red" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="20" />
+    </item>
+    <item id="72001" type="Armor" name="Skin - Pure Green">
+        <set name="icon" val="AeronIcons.green" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="21" />
+    </item>
+    <item id="72002" type="Armor" name="Skin - Pure Blue">
+        <set name="icon" val="AeronIcons.blue" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="22" />
+    </item>
+    <item id="72003" type="Armor" name="Skin - Pure White">
+        <set name="icon" val="AeronIcons.white" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="23" />
+    </item>
+    <item id="72004" type="Armor" name="Skin - Pure Yellow">
+        <set name="icon" val="AeronIcons.yellow" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="24" />
+    </item>
+    <item id="72005" type="Armor" name="Skin - Pure Light Blue">
+        <set name="icon" val="AeronIcons.lightblue" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="25" />
+    </item>
+    <item id="72006" type="Armor" name="Skin - Pure Purple">
+        <set name="icon" val="AeronIcons.purple" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="26" />
+    </item>
+    <item id="72007" type="Armor" name="Skin - Pure Orange">
+        <set name="icon" val="AeronIcons.orange" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="27" />
+    </item>
+    <item id="72008" type="Armor" name="Skin - Pure Pink">
+        <set name="icon" val="AeronIcons.pink" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="28" />
+    </item>
+    <item id="72009" type="Armor" name="Skin - Pure Lime">
+        <set name="icon" val="AeronIcons.lime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="29" />
+    </item>
+    <item id="72010" type="Armor" name="Skin - Pure Indigo">
+        <set name="icon" val="AeronIcons.indigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="30" />
+    </item>
+    <item id="72011" type="Armor" name="Skin - Pure Emerald">
+        <set name="icon" val="AeronIcons.emerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="31" />
+    </item>
+    <item id="72012" type="Armor" name="Skin - Pure Cyan">
+        <set name="icon" val="AeronIcons.cyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="32" />
+    </item>
+    <item id="72013" type="Armor" name="Skin - Purple and White">
+        <set name="icon" val="AeronIcons.purplewhite" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="33" />
+    </item>
+    <item id="72014" type="Armor" name="Skin - Yellow and White">
+        <set name="icon" val="AeronIcons.yellowwhite" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="34" />
+    </item>
+    <item id="72015" type="Armor" name="Skin - Light Blue and White">
+        <set name="icon" val="AeronIcons.lightbluewhite" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="35" />
+    </item>
+    <item id="72016" type="Armor" name="Skin - Red and White">
+        <set name="icon" val="AeronIcons.redwhite" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="36" />
+    </item>
+    <item id="72017" type="Armor" name="Skin - Green and White">
+        <set name="icon" val="AeronIcons.greenwhite" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="37" />
+    </item>
+    <item id="72018" type="Armor" name="Skin - Blue and White">
+        <set name="icon" val="AeronIcons.bluewhite" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="38" />
+    </item>
+    <item id="72019" type="Armor" name="Skin - Red and Blue">
+        <set name="icon" val="AeronIcons.redblue" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="39" />
+    </item>
+    <item id="72020" type="Armor" name="Skin - Red and Green">
+        <set name="icon" val="AeronIcons.redgreen" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="40" />
+    </item>
+    <item id="72021" type="Armor" name="Skin - Blue and Green">
+        <set name="icon" val="AeronIcons.bluegreen" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="41" />
+    </item>
+    <item id="72022" type="Armor" name="Skin - White and Orange">
+        <set name="icon" val="AeronIcons.whiteorange" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="42" />
+    </item>
+    <item id="72023" type="Armor" name="Skin - White and Pink">
+        <set name="icon" val="AeronIcons.whitepink" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="43" />
+    </item>
+    <item id="72024" type="Armor" name="Skin - White and Lime">
+        <set name="icon" val="AeronIcons.whitelime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="44" />
+    </item>
+    <item id="72025" type="Armor" name="Skin - White and Indigo">
+        <set name="icon" val="AeronIcons.whiteindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="45" />
+    </item>
+    <item id="72026" type="Armor" name="Skin - White and Emerald">
+        <set name="icon" val="AeronIcons.whiteemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="46" />
+    </item>
+    <item id="72027" type="Armor" name="Skin - Blue and Purple">
+        <set name="icon" val="AeronIcons.bluepurple" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="47" />
+    </item>
+    <item id="72028" type="Armor" name="Skin - White and Cyan">
+        <set name="icon" val="AeronIcons.whitecyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="48" />
+    </item>
+    <item id="72030" type="Armor" name="Skin - Green and Orange">
+        <set name="icon" val="AeronIcons.greenorange" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="50" />
+    </item>
+    <item id="72031" type="Armor" name="Skin - Red and Orange">
+        <set name="icon" val="AeronIcons.redorange" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="51" />
+    </item>
+    <item id="72032" type="Armor" name="Skin - Yellow and Orange">
+        <set name="icon" val="AeronIcons.yelloworange" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="52" />
+    </item>
+    <item id="72033" type="Armor" name="Skin - Purple and Orange">
+        <set name="icon" val="AeronIcons.purpleorange" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="53" />
+    </item>
+    <item id="72034" type="Armor" name="Skin - Light Blue and Orange">
+        <set name="icon" val="AeronIcons.lightblueorange" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="54" />
+    </item>
+    <item id="72035" type="Armor" name="Skin - Green and Light Blue">
+        <set name="icon" val="AeronIcons.greenlightblue" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="55" />
+    </item>
+    <item id="72036" type="Armor" name="Skin - Yellow and Purple">
+        <set name="icon" val="AeronIcons.yellowpurple" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="56" />
+    </item>
+    <item id="72037" type="Armor" name="Skin - Red and Pink">
+        <set name="icon" val="AeronIcons.redpink" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="57" />
+    </item>
+    <item id="72038" type="Armor" name="Skin - Green and Pink">
+        <set name="icon" val="AeronIcons.greenpink" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="58" />
+    </item>
+    <item id="72039" type="Armor" name="Skin - Blue and Pink">
+        <set name="icon" val="AeronIcons.bluepink" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="59" />
+    </item>
+    <item id="72040" type="Armor" name="Skin - Green and Purple">
+        <set name="icon" val="AeronIcons.greenpurple" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="60" />
+    </item>
+    <item id="72041" type="Armor" name="Skin - Yellow and Pink">
+        <set name="icon" val="AeronIcons.yellowpink" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="61" />
+    </item>
+    <item id="72042" type="Armor" name="Skin - Light Blue and Pink">
+        <set name="icon" val="AeronIcons.lightbluepink" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="62" />
+    </item>
+    <item id="72043" type="Armor" name="Skin - Purple and Pink">
+        <set name="icon" val="AeronIcons.purplepink" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="63" />
+    </item>
+    <item id="72044" type="Armor" name="Skin - Orange and Pink">
+        <set name="icon" val="AeronIcons.orangepink" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="64" />
+    </item>
+    <item id="72045" type="Armor" name="Skin - Red and Purple">
+        <set name="icon" val="AeronIcons.redpurple" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="65" />
+    </item>
+    <item id="72046" type="Armor" name="Skin - Green and Yellow">
+        <set name="icon" val="AeronIcons.greenyellow" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="66" />
+    </item>
+    <item id="72047" type="Armor" name="Skin - Green and Lime">
+        <set name="icon" val="AeronIcons.greenlime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="67" />
+    </item>
+    <item id="72048" type="Armor" name="Skin - Red and Lime">
+        <set name="icon" val="AeronIcons.redlime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="68" />
+    </item>
+    <item id="72049" type="Armor" name="Skin - Blue and Lime">
+        <set name="icon" val="AeronIcons.bluelime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="69" />
+    </item>
+    <item id="72050" type="Armor" name="Skin - Light Blue and Lime">
+        <set name="icon" val="AeronIcons.lightbluelime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="70" />
+    </item>
+    <item id="72051" type="Armor" name="Skin - Yellow and Lime">
+        <set name="icon" val="AeronIcons.yellowlime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="71" />
+    </item>
+    <item id="72052" type="Armor" name="Skin - Purple and Lime">
+        <set name="icon" val="AeronIcons.purplelime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="72" />
+    </item>
+    <item id="72053" type="Armor" name="Skin - Orange and Lime">
+        <set name="icon" val="AeronIcons.orangelime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="73" />
+    </item>
+    <item id="72054" type="Armor" name="Skin - Pink and Lime">
+        <set name="icon" val="AeronIcons.pinklime" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="74" />
+    </item>
+    <item id="72055" type="Armor" name="Skin - Red and Yellow">
+        <set name="icon" val="AeronIcons.redyellow" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="75" />
+    </item>
+    <item id="72056" type="Armor" name="Skin - Blue and Yellow">
+        <set name="icon" val="AeronIcons.blueyellow" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="76" />
+    </item>
+    <item id="72057" type="Armor" name="Skin - Red and Indigo">
+        <set name="icon" val="AeronIcons.redindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="77" />
+    </item>
+    <item id="72058" type="Armor" name="Skin - Green and Indigo">
+        <set name="icon" val="AeronIcons.greenindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="78" />
+    </item>
+    <item id="72059" type="Armor" name="Skin - Blue and Indigo">
+        <set name="icon" val="AeronIcons.blueindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="79" />
+    </item>
+    <item id="72060" type="Armor" name="Skin - Yellow and Indigo">
+        <set name="icon" val="AeronIcons.yellowindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="80" />
+    </item>
+    <item id="72061" type="Armor" name="Skin - Purple and Indigo">
+        <set name="icon" val="AeronIcons.purpleindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="81" />
+    </item>
+    <item id="72062" type="Armor" name="Skin - Light Blue and Indigo">
+        <set name="icon" val="AeronIcons.lightblueindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="82" />
+    </item>
+    <item id="72063" type="Armor" name="Skin - Orange and Indigo">
+        <set name="icon" val="AeronIcons.orangeindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="83" />
+    </item>
+    <item id="72064" type="Armor" name="Skin - Pink and Indigo">
+        <set name="icon" val="AeronIcons.pinkindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="84" />
+    </item>
+    <item id="72065" type="Armor" name="Skin - Lime and Indigo">
+        <set name="icon" val="AeronIcons.limeindigo" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="85" />
+    </item>
+    <item id="72066" type="Armor" name="Skin - Red and Light Blue">
+        <set name="icon" val="AeronIcons.redlightblue" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="86" />
+    </item>
+    <item id="72067" type="Armor" name="Skin - Blue and Light Blue">
+        <set name="icon" val="AeronIcons.bluelightblue" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="87" />
+    </item>
+    <item id="72068" type="Armor" name="Skin - Red and Emerald">
+        <set name="icon" val="AeronIcons.redemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="88" />
+    </item>
+    <item id="72069" type="Armor" name="Skin - Green and Emerald">
+        <set name="icon" val="AeronIcons.greenemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="89" />
+    </item>
+    <item id="72070" type="Armor" name="Skin - Blue and Emerald">
+        <set name="icon" val="AeronIcons.blueemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="90" />
+    </item>
+    <item id="72071" type="Armor" name="Skin - Yellow and Emerald">
+        <set name="icon" val="AeronIcons.yellowemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="91" />
+    </item>
+    <item id="72072" type="Armor" name="Skin - Purple and Emerald">
+        <set name="icon" val="AeronIcons.purpleemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="92" />
+    </item>
+    <item id="72073" type="Armor" name="Skin - Light Blue and Emerald">
+        <set name="icon" val="AeronIcons.lightblueemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="93" />
+    </item>
+    <item id="72074" type="Armor" name="Skin - Orange and Emerald">
+        <set name="icon" val="AeronIcons.orangeemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="94" />
+    </item>
+    <item id="72075" type="Armor" name="Skin - Pink and Emerald">
+        <set name="icon" val="AeronIcons.pinkemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="95" />
+    </item>
+    <item id="72076" type="Armor" name="Skin - Lime and Emerald">
+        <set name="icon" val="AeronIcons.limeemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="96" />
+    </item>
+    <item id="72077" type="Armor" name="Skin - Indigo and Emerald">
+        <set name="icon" val="AeronIcons.indigoemerald" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="97" />
+    </item>
+    <item id="72078" type="Armor" name="Skin - Light Blue and Yellow">
+        <set name="icon" val="AeronIcons.lightblueyellow" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="98" />
+    </item>
+    <item id="72079" type="Armor" name="Skin - Red and Cyan">
+        <set name="icon" val="AeronIcons.redcyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="99" />
+    </item>
+    <item id="72080" type="Armor" name="Skin - Green and Cyan">
+        <set name="icon" val="AeronIcons.greencyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="100" />
+    </item>
+    <item id="72081" type="Armor" name="Skin - Blue and Cyan">
+        <set name="icon" val="AeronIcons.bluecyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="101" />
+    </item>
+    <item id="72082" type="Armor" name="Skin - Yellow and Cyan">
+        <set name="icon" val="AeronIcons.yellowcyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="102" />
+    </item>
+    <item id="72083" type="Armor" name="Skin - Purple and Cyan">
+        <set name="icon" val="AeronIcons.purplecyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="103" />
+    </item>
+    <item id="72084" type="Armor" name="Skin - Light Blue and Cyan">
+        <set name="icon" val="AeronIcons.lightbluecyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="104" />
+    </item>
+    <item id="72085" type="Armor" name="Skin - Orange and Cyan">
+        <set name="icon" val="AeronIcons.orangecyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="105" />
+    </item>
+    <item id="72086" type="Armor" name="Skin - Pink and Cyan">
+        <set name="icon" val="AeronIcons.pinkcyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="106" />
+    </item>
+    <item id="72087" type="Armor" name="Skin - Lime and Cyan">
+        <set name="icon" val="AeronIcons.limecyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="107" />
+    </item>
+    <item id="72088" type="Armor" name="Skin - Indigo and Cyan">
+        <set name="icon" val="AeronIcons.indigocyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="108" />
+    </item>
+    <item id="72089" type="Armor" name="Skin - Emerald and Cyan">
+        <set name="icon" val="AeronIcons.emeraldcyan" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="109" />
+    </item>
+    <item id="72090" type="Armor" name="Skin - Light Blue and Purple">
+        <set name="icon" val="AeronIcons.lightbluepurple" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="110" />
+    </item>
+    <item id="72091" type="Armor" name="Skin - Blue and Orange">
+        <set name="icon" val="AeronIcons.blueorange" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="111" />
+    </item>
+    <item id="72092" type="Armor" name="Skin - Void">
+        <set name="icon" val="AeronIcons.void" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <set name="handler" val="DressMeItem" />
+        <set name="DressMeEnchant" val="112" />
+    </item>
+
+</list>

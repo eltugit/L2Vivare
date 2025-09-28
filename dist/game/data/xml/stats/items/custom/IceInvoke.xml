@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="33346" type="Weapon" name="Ice Invoke Cutter">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="33348" type="Weapon" name="Ice Invoke Shaper">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_dagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="33351" type="Weapon" name="Ice Invoke Avenger">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_blunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="33353" type="Weapon" name="Ice Invoke Singer">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_two_hand_staff" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="33347" type="Weapon" name="Ice Invoke Slasher">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_two_hand_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="33349" type="Weapon" name="Ice Invoke Fighter">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_dualfist" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="33350" type="Weapon" name="Ice Invoke Stormer">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_pole" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="33352" type="Weapon" name="Ice Invoke Caster">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_staff" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="33354" type="Weapon" name="Ice Invoke Thrower">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_bow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="33355" type="Weapon" name="Ice Invoke Pincer">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_rapier" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="33357" type="Weapon" name="Ice Invoke Nagan">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_ancientsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="33356" type="Weapon" name="Ice Invoke Shooter">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_shooter" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="33358" type="Weapon" name="Ice Invoke Dual Dagger">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_dual_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="33359" type="Weapon" name="Ice Invoke Dual Sword">
+		<set name="icon" val="LineageWeapons4_AS.frozen_weapon_dual_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	
+</list>

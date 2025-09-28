@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="51502" type="Weapon" name="Odyssey Cutter">
+		<set name="icon" val="Odyssey_Weapons_AS.sword_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="51520" type="Weapon" name="Odyssey Shaper">
+		<set name="icon" val="Odyssey_Weapons_AS.dagger_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="51508" type="Weapon" name="Odyssey Avenger">
+		<set name="icon" val="Odyssey_Weapons_AS.hummer_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="51514" type="Weapon" name="Odyssey Retributer">
+		<set name="icon" val="Odyssey_Weapons_AS.hummer_2h_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="51505" type="Weapon" name="Odyssey Slasher">
+		<set name="icon" val="Odyssey_Weapons_AS.sword2h_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="51523" type="Weapon" name="Odyssey Fighter">
+		<set name="icon" val="Odyssey_Weapons_AS.fist_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="51529" type="Weapon" name="Odyssey Stormer">
+		<set name="icon" val="Odyssey_Weapons_AS.pole_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="51511" type="Weapon" name="Odyssey Caster">
+		<set name="icon" val="Odyssey_Weapons_AS.stuff1h_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="51517" type="Weapon" name="Odyssey Singer">
+		<set name="icon" val="Odyssey_Weapons_AS.stuff2h_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="51543" type="Weapon" name="Odyssey Buster">
+		<set name="icon" val="Odyssey_Weapons_AS.swordm_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="51526" type="Weapon" name="Odyssey Thrower">
+		<set name="icon" val="Odyssey_Weapons_AS.bow_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="51532" type="Weapon" name="Odyssey Pincer">
+		<set name="icon" val="Odyssey_Weapons_AS.rapier_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="51535" type="Weapon" name="Odyssey Nagan">
+		<set name="icon" val="Odyssey_Weapons_AS.sword2hk_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="51538" type="Weapon" name="Odyssey Shooter">
+		<set name="icon" val="Odyssey_Weapons_AS.crossbow_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="51542" type="Weapon" name="Odyssey Dual Dagger">
+		<set name="icon" val="Odyssey_Weapons_AS.2dagger_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="51541" type="Weapon" name="Odyssey Dual Sword">
+		<set name="icon" val="Odyssey_Weapons_AS.2sword_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	
+</list>

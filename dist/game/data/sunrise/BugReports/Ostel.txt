@@ -1,0 +1,3 @@
+Character Info: [Character: Ostel[268545713] - Account: invictus - IP: 138.122.88.203]
+Bug Type: General
+Message: server ta falindo aos poucos movimenta mais 

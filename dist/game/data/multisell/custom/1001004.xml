@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+	<item>
+		
+		<production id="14164" count="1" />
+	</item>
+	
+    <item>
+		
+		<production id="14163" count="1" />
+	</item>
+
+	<item>
+		
+		<production id="14165" count="1" />
+	</item>
+
+	<!-- Vorpal Necklace -->
+	<item>
+		
+		<production id="15722" count="1" />
+	</item>
+
+	<!-- Vorpal Earring -->
+	<item>
+		
+		<production id="15721" count="1" />
+	</item>
+
+	<!-- Vorpal Ring -->
+	<item>
+		
+		<production id="15720" count="1" />
+	</item>
+	
+	<item>
+		
+		<production id="15725" count="1" />
+	</item>
+	
+    <item>
+		
+		<production id="15724" count="1" />
+	</item>
+
+	<item>
+		
+		<production id="15723" count="1" />
+	</item>
+	
+	<item>
+		
+		<production id="9456" count="1" />
+	</item>
+	
+    <item>
+		
+		<production id="9455" count="1" />
+	</item>
+
+	<item>
+		
+		<production id="9457" count="1" />
+	</item>
+	
+	 
+  
+</list>

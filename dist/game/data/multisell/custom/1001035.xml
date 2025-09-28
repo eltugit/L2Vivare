@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71977" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71978" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71979" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71980" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71981" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71982" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71983" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71984" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71985" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71986" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71987" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71988" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71989" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71990" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71991" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71992" count="1"/>
+</item>
+
+
+
+</list>

@@ -1,0 +1,3 @@
+Character Info: [Character: LessQQMorePewPew[268460620] - Account: xa0s - IP: 5.54.60.105]
+Bug Type: General
+Message: DB BUG 

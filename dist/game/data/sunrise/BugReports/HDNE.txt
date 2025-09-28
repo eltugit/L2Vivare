@@ -1,0 +1,3 @@
+Character Info: [Character: HDNE[268499809] - Account: laflame97 - IP: 178.59.181.158]
+Bug Type: Fatal
+Message: Olympiad Geodata is garbage, you have to fix this. People lose match cause of it. Thanks in advance! 

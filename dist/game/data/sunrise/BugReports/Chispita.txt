@@ -1,0 +1,3 @@
+Character Info: [Character: Chispita[268572530] - Account: chalo001 - IP: 181.226.34.8]
+Bug Type: General
+Message: tamaño de letras del sistema hace que se desconfigure el menu 

@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="55544" type="Weapon" name="Emerald Cutter">
+		<set name="icon" val="icon.weapon_R99_onehand_sword_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="55545" type="Weapon" name="Emerald Shaper">
+		<set name="icon" val="icon.weapon_R99_dagger_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="55546" type="Weapon" name="Emerald Avenger">
+		<set name="icon" val="icon.weapon_R99_onehand_magic_blunt_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="55547" type="Weapon" name="Emerald Retributer">
+		<set name="icon" val="icon.weapon_R99_twohand_magic_blunt_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55548" type="Weapon" name="Emerald Slasher">
+		<set name="icon" val="icon.weapon_R99_twohand_sword_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55549" type="Weapon" name="Emerald Fighter">
+		<set name="icon" val="icon.weapon_R99_fist_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55550" type="Weapon" name="Emerald Stormer">
+		<set name="icon" val="icon.weapon_R99_spear_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55551" type="Weapon" name="Emerald Caster">
+		<set name="icon" val="icon.weapon_R99_onehand_magic_blunt_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="55552" type="Weapon" name="Emerald Singer">
+		<set name="icon" val="icon.weapon_R99_twohand_magic_blunt_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55553" type="Weapon" name="Emerald Buster">
+		<set name="icon" val="icon.weapon_R99_onehand_magic_sword_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="55554" type="Weapon" name="Emerald Thrower">
+		<set name="icon" val="icon.weapon_R99_bow_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55555" type="Weapon" name="Emerald Pincer">
+		<set name="icon" val="icon.weapon_R99_onehand_magic_sword_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55556" type="Weapon" name="Emerald Nagan">
+		<set name="icon" val="icon.weapon_R99_twohand_sword_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55557" type="Weapon" name="Emerald Shooter">
+		<set name="icon" val="icon.weapon_R99_crossbow_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55558" type="Weapon" name="Emerald Dual Dagger">
+		<set name="icon" val="icon.weapon_R99_dual_dagger_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="55559" type="Weapon" name="Emerald Dual Sword">
+		<set name="icon" val="icon.weapon_R99_dual_sword_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71714" type="Weapon" name="Blue Emerald Cutter">
+		<set name="icon" val="AeronIcons.sw_blue_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71715" type="Weapon" name="Blue Emerald Shaper">
+		<set name="icon" val="AeronIcons.sw_blue_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71716" type="Weapon" name="Blue Emerald Avenger">
+		<set name="icon" val="AeronIcons.sw_blue_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71717" type="Weapon" name="Blue Emerald Retributer">
+		<set name="icon" val="AeronIcons.sw_blue_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71718" type="Weapon" name="Blue Emerald Slasher">
+		<set name="icon" val="AeronIcons.sw_blue_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71719" type="Weapon" name="Blue Emerald Fighter">
+		<set name="icon" val="AeronIcons.sw_blue_fist" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71720" type="Weapon" name="Blue Emerald Stormer">
+		<set name="icon" val="AeronIcons.sw_blue_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71721" type="Weapon" name="Blue Emerald Caster">
+		<set name="icon" val="AeronIcons.sw_blue_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71722" type="Weapon" name="Blue Emerald Singer">
+		<set name="icon" val="AeronIcons.sw_blue_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71723" type="Weapon" name="Blue Emerald Buster">
+		<set name="icon" val="AeronIcons.sw_blue_magicsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71724" type="Weapon" name="Blue Emerald Thrower">
+		<set name="icon" val="AeronIcons.sw_blue_bow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71725" type="Weapon" name="Blue Emerald Pincer">
+		<set name="icon" val="AeronIcons.sw_blue_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71726" type="Weapon" name="Blue Emerald Nagan">
+		<set name="icon" val="AeronIcons.sw_blue_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71727" type="Weapon" name="Blue Emerald Shooter">
+		<set name="icon" val="AeronIcons.sw_blue_crossbow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71728" type="Weapon" name="Blue Emerald Dual Dagger">
+		<set name="icon" val="AeronIcons.sw_blue_dualdagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71729" type="Weapon" name="Blue Emerald Dual Sword">
+		<set name="icon" val="AeronIcons.sw_blue_dual" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71733" type="Weapon" name="Red Emerald Cutter">
+		<set name="icon" val="AeronIcons.sw_red_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71734" type="Weapon" name="Red Emerald Shaper">
+		<set name="icon" val="AeronIcons.sw_red_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71735" type="Weapon" name="Red Emerald Avenger">
+		<set name="icon" val="AeronIcons.sw_red_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71736" type="Weapon" name="Red Emerald Retributer">
+		<set name="icon" val="AeronIcons.sw_red_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71737" type="Weapon" name="Red Emerald Slasher">
+		<set name="icon" val="AeronIcons.sw_red_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71738" type="Weapon" name="Red Emerald Fighter">
+		<set name="icon" val="AeronIcons.sw_red_fist" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71739" type="Weapon" name="Red Emerald Stormer">
+		<set name="icon" val="AeronIcons.sw_red_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71740" type="Weapon" name="Red Emerald Caster">
+		<set name="icon" val="AeronIcons.sw_red_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71741" type="Weapon" name="Red Emerald Singer">
+		<set name="icon" val="AeronIcons.sw_red_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71742" type="Weapon" name="Red Emerald Buster">
+		<set name="icon" val="AeronIcons.sw_red_magicsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71743" type="Weapon" name="Red Emerald Thrower">
+		<set name="icon" val="AeronIcons.sw_red_bow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71744" type="Weapon" name="Red Emerald Pincer">
+		<set name="icon" val="AeronIcons.sw_red_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71745" type="Weapon" name="Red Emerald Nagan">
+		<set name="icon" val="AeronIcons.sw_red_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71746" type="Weapon" name="Red Emerald Shooter">
+		<set name="icon" val="AeronIcons.sw_red_crossbow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71747" type="Weapon" name="Red Emerald Dual Dagger">
+		<set name="icon" val="AeronIcons.sw_red_dualdagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71748" type="Weapon" name="Red Emerald Dual Sword">
+		<set name="icon" val="AeronIcons.sw_red_dual" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71859" type="Weapon" name="Green Emerald Cutter">
+		<set name="icon" val="AeronIcons.sw_green_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71860" type="Weapon" name="Green Emerald Shaper">
+		<set name="icon" val="AeronIcons.sw_green_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71861" type="Weapon" name="Green Emerald Avenger">
+		<set name="icon" val="AeronIcons.sw_green_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71862" type="Weapon" name="Green Emerald Retributer">
+		<set name="icon" val="AeronIcons.sw_green_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71863" type="Weapon" name="Green Emerald Slasher">
+		<set name="icon" val="AeronIcons.sw_green_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71864" type="Weapon" name="Green Emerald Fighter">
+		<set name="icon" val="AeronIcons.sw_green_fist" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71865" type="Weapon" name="Green Emerald Stormer">
+		<set name="icon" val="AeronIcons.sw_green_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71866" type="Weapon" name="Green Emerald Caster">
+		<set name="icon" val="AeronIcons.sw_green_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71867" type="Weapon" name="Green Emerald Singer">
+		<set name="icon" val="AeronIcons.sw_green_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71868" type="Weapon" name="Green Emerald Buster">
+		<set name="icon" val="AeronIcons.sw_green_magicsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71869" type="Weapon" name="Green Emerald Thrower">
+		<set name="icon" val="AeronIcons.sw_green_bow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71870" type="Weapon" name="Green Emerald Pincer">
+		<set name="icon" val="AeronIcons.sw_green_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71871" type="Weapon" name="Green Emerald Nagan">
+		<set name="icon" val="AeronIcons.sw_green_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71872" type="Weapon" name="Green Emerald Shooter">
+		<set name="icon" val="AeronIcons.sw_green_crossbow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71873" type="Weapon" name="Green Emerald Dual Dagger">
+		<set name="icon" val="AeronIcons.sw_green_dualdagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71874" type="Weapon" name="Green Emerald Dual Sword">
+		<set name="icon" val="AeronIcons.sw_green_dual" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71878" type="Weapon" name="Purple Emerald Cutter">
+		<set name="icon" val="AeronIcons.sw_purple_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71879" type="Weapon" name="Purple Emerald Shaper">
+		<set name="icon" val="AeronIcons.sw_purple_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71880" type="Weapon" name="Purple Emerald Avenger">
+		<set name="icon" val="AeronIcons.sw_purple_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71881" type="Weapon" name="Purple Emerald Retributer">
+		<set name="icon" val="AeronIcons.sw_purple_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71882" type="Weapon" name="Purple Emerald Slasher">
+		<set name="icon" val="AeronIcons.sw_purple_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71883" type="Weapon" name="Purple Emerald Fighter">
+		<set name="icon" val="AeronIcons.sw_purple_fist" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71884" type="Weapon" name="Purple Emerald Stormer">
+		<set name="icon" val="AeronIcons.sw_purple_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71885" type="Weapon" name="Purple Emerald Caster">
+		<set name="icon" val="AeronIcons.sw_purple_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71886" type="Weapon" name="Purple Emerald Singer">
+		<set name="icon" val="AeronIcons.sw_purple_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71887" type="Weapon" name="Purple Emerald Buster">
+		<set name="icon" val="AeronIcons.sw_purple_magicsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71888" type="Weapon" name="Purple Emerald Thrower">
+		<set name="icon" val="AeronIcons.sw_purple_bow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71889" type="Weapon" name="Purple Emerald Pincer">
+		<set name="icon" val="AeronIcons.sw_purple_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71890" type="Weapon" name="Purple Emerald Nagan">
+		<set name="icon" val="AeronIcons.sw_purple_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71891" type="Weapon" name="Purple Emerald Shooter">
+		<set name="icon" val="AeronIcons.sw_purple_crossbow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71892" type="Weapon" name="Purple Emerald Dual Dagger">
+		<set name="icon" val="AeronIcons.sw_purple_dualdagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71893" type="Weapon" name="Purple Emerald Dual Sword">
+		<set name="icon" val="AeronIcons.sw_purple_dual" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71897" type="Weapon" name="Black Emerald Cutter">
+		<set name="icon" val="AeronIcons.sw_black_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71898" type="Weapon" name="Black Emerald Shaper">
+		<set name="icon" val="AeronIcons.sw_black_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71899" type="Weapon" name="Black Emerald Avenger">
+		<set name="icon" val="AeronIcons.sw_black_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71900" type="Weapon" name="Black Emerald Retributer">
+		<set name="icon" val="AeronIcons.sw_black_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71901" type="Weapon" name="Black Emerald Slasher">
+		<set name="icon" val="AeronIcons.sw_black_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71902" type="Weapon" name="Black Emerald Fighter">
+		<set name="icon" val="AeronIcons.sw_black_fist" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71903" type="Weapon" name="Black Emerald Stormer">
+		<set name="icon" val="AeronIcons.sw_black_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71904" type="Weapon" name="Black Emerald Caster">
+		<set name="icon" val="AeronIcons.sw_black_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71905" type="Weapon" name="Black Emerald Singer">
+		<set name="icon" val="AeronIcons.sw_black_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71906" type="Weapon" name="Black Emerald Buster">
+		<set name="icon" val="AeronIcons.sw_black_magicsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71907" type="Weapon" name="Black Emerald Thrower">
+		<set name="icon" val="AeronIcons.sw_black_bow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71908" type="Weapon" name="Black Emerald Pincer">
+		<set name="icon" val="AeronIcons.sw_black_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71909" type="Weapon" name="Black Emerald Nagan">
+		<set name="icon" val="AeronIcons.sw_black_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71910" type="Weapon" name="Black Emerald Shooter">
+		<set name="icon" val="AeronIcons.sw_black_crossbow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71911" type="Weapon" name="Black Emerald Dual Dagger">
+		<set name="icon" val="AeronIcons.sw_black_dualdagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71912" type="Weapon" name="Black Emerald Dual Sword">
+		<set name="icon" val="AeronIcons.sw_black_dual" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71916" type="Weapon" name="White Emerald Cutter">
+		<set name="icon" val="AeronIcons.sw_white_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71917" type="Weapon" name="White Emerald Shaper">
+		<set name="icon" val="AeronIcons.sw_white_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71918" type="Weapon" name="White Emerald Avenger">
+		<set name="icon" val="AeronIcons.sw_white_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71919" type="Weapon" name="White Emerald Retributer">
+		<set name="icon" val="AeronIcons.sw_white_1hblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71920" type="Weapon" name="White Emerald Slasher">
+		<set name="icon" val="AeronIcons.sw_white_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71921" type="Weapon" name="White Emerald Fighter">
+		<set name="icon" val="AeronIcons.sw_white_fist" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71922" type="Weapon" name="White Emerald Stormer">
+		<set name="icon" val="AeronIcons.sw_white_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71923" type="Weapon" name="White Emerald Caster">
+		<set name="icon" val="AeronIcons.sw_white_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71924" type="Weapon" name="White Emerald Singer">
+		<set name="icon" val="AeronIcons.sw_white_magicblunt" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71925" type="Weapon" name="White Emerald Buster">
+		<set name="icon" val="AeronIcons.sw_white_magicsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71926" type="Weapon" name="White Emerald Thrower">
+		<set name="icon" val="AeronIcons.sw_white_bow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71927" type="Weapon" name="White Emerald Pincer">
+		<set name="icon" val="AeronIcons.sw_white_sword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71928" type="Weapon" name="White Emerald Nagan">
+		<set name="icon" val="AeronIcons.sw_white_2hsword" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71929" type="Weapon" name="White Emerald Shooter">
+		<set name="icon" val="AeronIcons.sw_white_crossbow" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71930" type="Weapon" name="White Emerald Dual Dagger">
+		<set name="icon" val="AeronIcons.sw_white_dualdagger" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71931" type="Weapon" name="White Emerald Dual Sword">
+		<set name="icon" val="AeronIcons.sw_white_dual" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	
+</list>

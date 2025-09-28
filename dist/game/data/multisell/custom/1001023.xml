@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="120" id="13757" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14801" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="120" id="13758" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14802" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="120" id="13759" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14803" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="120" id="13760" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14804" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="120" id="13761" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14805" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="120" id="13762" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14806" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="120" id="13763" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14807" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="120" id="13764" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14808" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="120" id="13765" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14809" />
+	</item>
+	
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="80" id="13757" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="80" id="13758" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="80" id="13759" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="80" id="13760" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="80" id="13761" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="80" id="13762" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="80" id="13763" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="80" id="13764" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Gludio Territory Badge -->
+		<ingredient count="80" id="13765" />
+		<!-- Gludio Guard Earring -->
+		<production count="1" id="14819" />
+	</item>
+	
+
+
+</list>

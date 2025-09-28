@@ -1,0 +1,3 @@
+Character Info: [Character: DeathWalker[269143652] - Account: maciekobar - IP: 178.235.179.44]
+Bug Type: General
+Message: Class transfer is bugged at interface patch version (human class for sure, idk about others). When question mark (?) appears for class change and i click it, nothing appears. Had to install no interface patch and only then could have changed my class 

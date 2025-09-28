@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/npcs.xsd">
+    <npc id="1605" displayId="1605" level="85" type="L2Monster" name="Juju Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1606" displayId="1606" level="85" type="L2Monster" name="Astarot Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1607" displayId="1607" level="85" type="L2Monster" name="Volver Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1608" displayId="1608" level="85" type="L2Monster" name="Isadora Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1609" displayId="1609" level="85" type="L2Monster" name="Melis Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1610" displayId="1610" level="85" type="L2Monster" name="Exile Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1611" displayId="1611" level="85" type="L2Monster" name="Embryo Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1612" displayId="1612" level="85" type="L2Monster" name="Anakazel Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1613" displayId="1613" level="85" type="L2Monster" name="Phasian Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1614" displayId="1614" level="85" type="L2Monster" name="Wizard Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1615" displayId="1615" level="85" type="L2Monster" name="Anakazel2 Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1616" displayId="1616" level="85" type="L2Monster" name="Volver Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1617" displayId="1617" level="85" type="L2Monster" name="Melis Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1618" displayId="1618" level="85" type="L2Monster" name="Exile Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1619" displayId="1619" level="85" type="L2Monster" name="Embryo Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1620" displayId="1620" level="85" type="L2Monster" name="Anakazel Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1621" displayId="1621" level="85" type="L2Monster" name="Anakazel2 Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1622" displayId="1622" level="85" type="L2Monster" name="Beleth Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1623" displayId="1623" level="85" type="L2Monster" name="Anakim Heaven Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1624" displayId="1624" level="85" type="L2Monster" name="Queen Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1625" displayId="1625" level="85" type="L2Monster" name="Hell Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1626" displayId="1626" level="85" type="L2Monster" name="Beleth Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1627" displayId="1627" level="85" type="L2Monster" name="Anakim Heaven Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="1628" displayId="1628" level="85" type="L2Monster" name="Hell Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+    <npc id="51596" displayId="51596" level="85" type="L2Monster" name="Anakim Agathion" usingServerSideName="true" title="Gabriel" usingServerSideTitle="true">
+        <!-- Confirmed CT2.5 -->
+        <race>DRAGON</race>
+        <sex>FEMALE</sex>
+        <stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+            <vitals hp="2951.85588" hpRegen="8.5" mp="1743.0" mpRegen="3" />
+            <attack physical="931.81944" magical="636.31188" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+            <defence physical="349.77477" magical="255.95" />
+            <attribute>
+                <defence fire="60" water="100" wind="60" earth="60" holy="80" dark="80" default="50" />
+            </attribute>
+            <speed>
+                <walk ground="60" />
+                <run ground="160" />
+            </speed>
+        </stats>
+        <status undying="false" />
+        <skillList>
+            <skill id="4416" level="3" />	<!--Beasts-->
+            <skill id="4408" level="1" />	<!--HP Increase (1x)-->
+            <skill id="4409" level="1" />	<!--MP Increase (1x)-->
+            <skill id="4410" level="11" />	<!--Average P. Atk.-->
+            <skill id="4411" level="11" />	<!--Average M. Atk.-->
+            <skill id="4412" level="11" />	<!--Average P. Def.-->
+            <skill id="4413" level="11" />	<!--Average M. Def.-->
+            <skill id="4414" level="2" />	<!--Standard Type-->
+            <skill id="4415" level="13" />	<!--Two-handed Sword-->
+
+            <skill id="66381" level="2" />	<!--Guard Soul Beam-->
+            <skill id="66386" level="1" />	<!--Guard Earth Rise-->
+            <skill id="66387" level="1" />	<!--Guard Earthquake-->
+        </skillList>
+        <exCrtEffect>true</exCrtEffect>
+        <sNpcPropHpRate>2</sNpcPropHpRate>
+        <ai type="ARCHER" aggroRange="300" clanHelpRange="500" isAggressive="false">
+            <clanList>
+                <clan>DARK</clan>
+            </clanList>
+        </ai>
+
+        <dropLists>
+            <death>
+                <group chance="23.095">
+                    <item id="5541" min="1" max="1" chance="28.8662"/>
+                    <item id="8627" min="1" max="1" chance="19.6813"/>
+                    <item id="8633" min="1" max="1" chance="25.47"/>
+                    <item id="8894" min="1" max="1" chance="6.4624"/>
+                    <item id="8895" min="1" max="1" chance="4.245"/>
+                    <item id="8956" min="1" max="1" chance="2.1541"/>
+                    <item id="8762" min="1" max="1" chance="13.121"/>
+                </group>
+            </death>
+        </dropLists>
+        <collision>
+            <radius normal="25.0" />
+            <height normal="35.0" />
+        </collision>
+    </npc>
+
+</list>

@@ -1,0 +1,3 @@
+Character Info: [Character: Currila[268936832] - Account: mrdeyvid1 - IP: 177.157.0.237]
+Bug Type: General
+Message: I cannot buy talisman in Donation area 

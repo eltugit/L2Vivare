@@ -1,0 +1,3 @@
+Character Info: [Character: BellaXD[269048397] - Account: xerem12 - IP: 177.193.141.148]
+Bug Type: General
+Message: geodata desaparece toda hora 

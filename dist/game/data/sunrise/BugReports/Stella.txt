@@ -1,0 +1,3 @@
+Character Info: [Character: Stella[268512867] - Account: kenn - IP: 37.120.203.83]
+Bug Type: Balance
+Message: fortune seeker pvp nao tem damage n esta certo 

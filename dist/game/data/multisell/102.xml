@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/multisell.xsd">
+<!--	<npcs>-->
+<!--		<npc>31688</npc> &lt;!&ndash; Grand Olympiad Manager &ndash;&gt;-->
+<!--	</npcs>-->
+	<item>
+		<ingredient id="13722" count="100" />
+		
+		<production id="-300" count="100" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="500" />
+		
+		<production id="9627" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="2500" />
+		
+		<production id="100145" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="25000" />
+		
+		<production id="13753" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="25000" />
+		
+		<production id="13754" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="25000" />
+		
+		<production id="13752" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="100000" />
+		
+		<production id="34009" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="100000" />
+		
+		<production id="34010" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="100000" />
+		
+		<production id="34011" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="100000" />
+		
+		<production id="34012" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="100000" />
+		
+		<production id="34013" count="1" />
+	</item><!-- Лс-84 Простой -->
+	<item>
+		<ingredient id="13722" count="100000" />
+		
+		<production id="34014" count="1" />
+	</item><!-- Лс-84 Простой -->
+</list>

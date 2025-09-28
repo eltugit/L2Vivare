@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="100100" type="EtcItem" name="Epic Fragment">
+        <set name="icon" val="icon.change_elemental_crystal" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="STEEL" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+    </item>
+    <item id="100101" type="EtcItem" name="Billion Bar">
+        <set name="icon" val="icon.ticket_i00" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="STEEL" />
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+    </item>
+    <item id="100102" type="EtcItem" name="Tournament Victory">
+        <set name="icon" val="icon.etc_ancient_crown_i02" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="STEEL" />        
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+    </item>
+    <item id="100103" type="EtcItem" name="Event Medal">
+        <set name="icon" val="icon.etc_scroll_of_memory_i00" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="STEEL" />        
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+    </item>
+    <item id="100104" type="EtcItem" name="Vote Ticket">
+        <set name="icon" val="icon.etc_royal_membership_i00" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="STEEL" />       
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+    </item>
+    <item id="100105" type="EtcItem" name="Festival Adena">
+        <set name="icon" val="icon.etc_coin_of_fair_i00" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="STEEL" />       
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+    </item>
+    <item id="100106" type="EtcItem" name="Golden Apiga">
+        <set name="icon" val="icon.etc_pig_adena_i00" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="STEEL" />       
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+    </item>
+    <item id="100107" type="EtcItem" name="PvP Ranking">
+        <set name="icon" val="icon.etc_trophy_i00" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="STEEL" />       
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+    </item>
+	<item id="100108" type="EtcItem" name="Donate Coin">
+		<set name="icon" val="icon.mouse_coin_i00" />
+		<set name="material" val="LIQUID" />		
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+	</item>
+	<item id="100109" type="EtcItem" name="Super Skin Box">
+        <set name="icon" val="BoxIcon.NevesOma_lcoin_box_i03" />
+        <set name="default_action" val="CAPSULE" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="PAPER" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+        <set name="is_stackable" val="true" />
+        <set name="is_premium" val="true" />
+        <set name="is_oly_restricted" val="true" />
+        <set name="handler" val="ItemSkills" />
+        <set name="item_skill" val="77500-1" />
+        <set name="for_npc" val="true" />
+    </item>
+	<item id="100110" type="EtcItem" name="Clan Point">
+		<set name="icon" val="icon.etc_nectar_i00" />
+		<set name="material" val="LIQUID" />		
+		<set name="is_stackable" val="true" />
+		<set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+	</item>
+	<item id="99888" type="EtcItem" name="Apply the Skin">
+        <set name="icon" val="icon.etc_trophy_i00" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="STEEL" />
+        <set name="price" val="100" />
+        <set name="is_stackable" val="true" />
+    </item>
+	<item id="43223" type="Armor" name="Vote Bracelet 12 hours">
+		<set name="icon" val="icon.high_agathion_bracelet_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rbracelet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="170" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="unequip_skill" val="3267-1" />
+		<set name="item_skill" val="3327-1" />
+		<set name="time" val="720" />
+		<for>
+		    <add stat="maxCp" val="500" />
+			<add stat="maxHp" val="500" />
+			<add stat="pAtk" val="500" />
+			<add stat="mAtk" val="500" />
+		</for>
+	</item>
+	<item id="100111" type="Armor" name="Vivare of Bracelet">
+		<set name="icon" val="icon.high_agathion_bracelet_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="rbracelet" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="170" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="SILVER" />
+		<set name="weight" val="150" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="unequip_skill" val="3267-1" />
+		<set name="item_skill" val="3327-1" />
+		<set name="time" val="43200" />
+		<for>
+		    <add stat="maxCp" val="700" />
+			<add stat="maxHp" val="700" />
+			<add stat="pAtk" val="700" />
+			<add stat="mAtk" val="700" />
+		</for>
+	</item>
+	<item id="100112" type="Armor" name="Talisman - STR">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8498-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100113" type="Armor" name="Talisman - DEX">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8499-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100114" type="Armor" name="Talisman - CON">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8500-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100115" type="Armor" name="Talisman - WIT">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8502-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100116" type="Armor" name="Talisman - INT">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8501-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100117" type="Armor" name="Talisman - MEN">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8503-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100118" type="Armor" name="Talisman - Resistance to Stun">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8504-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100119" type="Armor" name="Talisman - Resistance to Sleep">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8505-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100120" type="Armor" name="Talisman - Resistance to Hold">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8506-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100121" type="Armor" name="Talisman - Paralyze Resistance">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8507-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100122" type="Armor" name="Talisman - ALL STAT">
+		<set name="icon" val="icon.etc_talisman_event_i02" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8508-1" />
+		<set name="time" val="43200" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100123" type="Armor" name="Talisman - STR">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8498-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100124" type="Armor" name="Talisman - DEX">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8499-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100125" type="Armor" name="Talisman - CON">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8500-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100126" type="Armor" name="Talisman - WIT">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8502-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100127" type="Armor" name="Talisman - INT">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8501-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100128" type="Armor" name="Talisman - MEN">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8503-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100129" type="Armor" name="Talisman - Resistance to Stun">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8504-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100130" type="Armor" name="Talisman - Resistance to Sleep">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8505-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100131" type="Armor" name="Talisman - Resistance to Hold">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8506-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100132" type="Armor" name="Talisman - Paralyze Resistance">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8507-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100133" type="Armor" name="Talisman - ALL STAT">
+		<set name="icon" val="icon.etc_talisman_event_i02" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8508-1" />
+		<set name="time" val="10080" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100134" type="Armor" name="Talisman - STR">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8498-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100135" type="Armor" name="Talisman - DEX">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8499-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100136" type="Armor" name="Talisman - CON">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8500-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100137" type="Armor" name="Talisman - WIT">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8502-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100138" type="Armor" name="Talisman - INT">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8501-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100139" type="Armor" name="Talisman - MEN">
+		<set name="icon" val="icon.etc_talisman_event_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8503-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100140" type="Armor" name="Talisman - Resistance to Stun">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8504-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100141" type="Armor" name="Talisman - Resistance to Sleep">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8505-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100142" type="Armor" name="Talisman - Resistance to Hold">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8506-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100143" type="Armor" name="Talisman - Paralyze Resistance">
+		<set name="icon" val="icon.etc_talisman_event_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8507-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100144" type="Armor" name="Talisman - ALL STAT">
+		<set name="icon" val="icon.etc_talisman_event_i02" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="deco1" />
+		<set name="material" val="GOLD" />
+		<set name="equip_reuse_delay" val="30" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="true" />
+		<set name="is_depositable" val="false" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="8508-1" />
+		<set name="time" val="2880" />
+		<set name="useSkillDisTime" val="6" />
+	</item>
+	<item id="100145" type="EtcItem" name="Talisman Reward Box">
+        <set name="icon" val="Icon.etc_golden_spice_comp_i00" />
+        <set name="default_action" val="CAPSULE" />
+        <set name="immediate_effect" val="true" />
+        <set name="material" val="PAPER" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="true" />
+        <set name="is_stackable" val="true" />
+        <set name="is_premium" val="true" />
+        <set name="is_oly_restricted" val="true" />
+        <set name="handler" val="ItemSkills" />
+        <set name="item_skill" val="77501-1" />
+        <set name="for_npc" val="true" />
+    </item>
+	
+</list>

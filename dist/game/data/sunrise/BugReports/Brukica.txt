@@ -1,0 +1,3 @@
+Character Info: [Character: Brukica[268594181] - Account: newcrap213 - IP: 87.116.164.18]
+Bug Type: Misuse
+Message: Vorpal Light {PVP} doesn't work. 

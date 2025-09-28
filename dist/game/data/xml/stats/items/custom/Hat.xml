@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+   
+
+    <item id="26906" type="Armor" name="Robot Helmet">
+        <set name="icon" val="BranchSys3.icon.g_co_sf_hair" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="31658" type="Armor" name="Pirate Bandana">
+        <set name="icon" val="LineageCustom5.H_pirate_ico" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="35730" type="Armor" name="Tribal Leader">
+        <set name="icon" val="CustomAccessoryTex.Nagval_Hat_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="35722" type="Armor" name="Samurai Helmet">
+        <set name="icon" val="BranchSys3.iconArmor.g_co_japan_general_hair_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="35715" type="Armor" name="Golden Noblesse Tiara">
+        <set name="icon" val="iconv6.accessory_noblesse2_tiara_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="26862" type="Armor" name="Colourful Beach Hat">
+        <set name="icon" val="BranchSys3.icon.g_beach_cap" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="26863" type="Armor" name="Halloween Hat">
+        <set name="icon" val="BranchSys3.icon.g_halloween_magic_hat" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="40005" type="Armor" name="Holy King Hat">
+        <set name="icon" val="L2Gabri1.viRUS_Icon.viRUS_h002_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="40006" type="Armor" name="Sheriff Hat">
+        <set name="icon" val="L2Gabri1.viRUS_Icon.viRUS_h003_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="40011" type="Armor" name="Red Musketeer Hat">
+        <set name="icon" val="L2Gabri1.viRUS_Icon.viRUS_008_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="32735" type="Armor" name="Guardian Helmet">
+        <set name="icon" val="LineageArmor9.viRUS_Icon.viRUS_007_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    
+    <item id="48041" type="Armor" name="Bear Helmet">
+        <set name="icon" val="LineageCustom101.Bear_Hat" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="48043" type="Armor" name="Valkyrie Helmet">
+        <set name="icon" val="LineageCustom101.accessory_wolf_cap_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="70626" type="Armor" name="Wings of Heaven Circlet">
+        <set name="icon" val="AeronWeapons4.hat2" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="70627" type="Armor" name="Devil Mask">
+        <set name="icon" val="AeronWeapons4.hat1" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="70629" type="Armor" name="Paragon Crown">
+        <set name="icon" val="AeronCustomArmor.Hat" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="70630" type="Armor" name="Pandemonium Crown">
+        <set name="icon" val="AeronCustomArmor.Hat2" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32601" type="Armor" name="Musketeer Cat Head">
+        <set name="icon" val="L2Lionna2018.viRUS_Icon.viRUS_002_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32603" type="Armor" name="White Wolf Head">
+        <set name="icon" val="L2Lionna2018.viRUS_Icon.viRUS_003_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32607" type="Armor" name="Bat Man Ears">
+        <set name="icon" val="L2Lionna2018.viRUS_Icon.viRUS_034_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32613" type="Armor" name="Valakas Helmet">
+        <set name="icon" val="L2Lionna2018.viRUS_Icon.viRUS_082_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="57692" type="Armor" name="General Hat">
+        <set name="icon" val="LineageAccessory5.g_hair_peakless_cap_m_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="57693" type="Armor" name="Flowers Hat">
+        <set name="icon" val="LineageAccessory5.pi_flowerhat_for_lady" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="57695" type="Armor" name="Admiral Hat">
+        <set name="icon" val="LineageAccessory5.pi_navy_cap" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="57696" type="Armor" name="Flower Crown">
+        <set name="icon" val="LineageAccessory5.pi_forgetmenot_cap" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="57697" type="Armor" name="Archer Hat">
+        <set name="icon" val="LineageAccessory5.pi_silverchaperon" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="57698" type="Armor" name="Frintezza Crown">
+        <set name="icon" val="LineageAccessory5.freya_hair_accessary" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32732" type="Armor" name="Shaolin Hat">
+        <set name="icon" val="LineageArmor9.viRUS_Icon.viRUS_004_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32734" type="Armor" name="Dubai Hood">
+        <set name="icon" val="LineageArmor9.viRUS_Icon.viRUS_006_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32736" type="Armor" name="Legionary Helmet">
+        <set name="icon" val="LineageArmor9.viRUS_Icon.viRUS_008_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32737" type="Armor" name="Annonymous Mask">
+        <set name="icon" val="LineageArmor9.viRUS_Icon.viRUS_009_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32739" type="Armor" name="Elegia Mask">
+        <set name="icon" val="LineageArmor9.viRUS_Icon.viRUS_011_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32740" type="Armor" name="Captain America Helmet">
+        <set name="icon" val="LineageArmor9.viRUS_Icon.viRUS_012_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    
+    <item id="32911" type="Armor" name="Lanninster Helmet">
+        <set name="icon" val="light.viRUS_Icon.viRUS_002_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+    <item id="32912" type="Armor" name="Dragon Helmet">
+        <set name="icon" val="light.viRUS_Icon.viRUS_003_h_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="55727" type="Armor" name="White Assassin Hat">
+        <set name="icon" val="bettu.ico_ranger_hat" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="55728" type="Armor" name="Dark Assassin Hat">
+        <set name="icon" val="bettu.ico_ranger_hat" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31851" type="Armor" name="White Headphones">
+        <set name="icon" val="CustomAccessoryTex.Phone_Hat_White_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31859" type="Armor" name="White Daisy Hat">
+        <set name="icon" val="CustomAccessoryTex.Sumhat_Hat_White_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31862" type="Armor" name="Blue Sobrero">
+        <set name="icon" val="CustomAccessoryTex.Sombrero_Hat_Blue_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31863" type="Armor" name="Orange Sobrero">
+        <set name="icon" val="CustomAccessoryTex.Sombrero_Hat_Orange_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31864" type="Armor" name="Blue Glasses">
+        <set name="icon" val="CustomAccessoryTex.Shades_Hat_Blue_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31865" type="Armor" name="Orange Glasses">
+        <set name="icon" val="CustomAccessoryTex.Shades_Hat_Orange_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31878" type="Armor" name="Blue Vooddoo">
+        <set name="icon" val="CustomAccessoryTex.Voodoo2_Hat_Blue_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31879" type="Armor" name="Green Vooddoo">
+        <set name="icon" val="CustomAccessoryTex.Voodoo2_Hat_Green_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31880" type="Armor" name="Purple Voodoo">
+        <set name="icon" val="CustomAccessoryTex.Voodoo2_Hat_Purple_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31881" type="Armor" name="Red Voodoo">
+        <set name="icon" val="CustomAccessoryTex.Voodoo2_Hat_Red_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31882" type="Armor" name="White Beak">
+        <set name="icon" val="CustomAccessoryTex.Break_Hat_White_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31883" type="Armor" name="Brown Beak">
+        <set name="icon" val="CustomAccessoryTex.Break_Hat_Brown_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31884" type="Armor" name="Zodiac">
+        <set name="icon" val="CustomAccessoryTex.Hatter_Hat_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31886" type="Armor" name="Brown Pipe">
+        <set name="icon" val="CustomAccessoryTex.Trubka_Hat_Brown_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31887" type="Armor" name="White Pipe">
+        <set name="icon" val="CustomAccessoryTex.Trubka_Hat_White_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31888" type="Armor" name="Yellow Metal">
+        <set name="icon" val="CustomAccessoryTex.Bio_Hat_Blue_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31889" type="Armor" name="Golden Metal">
+        <set name="icon" val="CustomAccessoryTex.Bio_Hat_Red_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31890" type="Armor" name="Silver Metal">
+        <set name="icon" val="CustomAccessoryTex.Bio_Hat_White_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31891" type="Armor" name="Skeleton Fullface">
+        <set name="icon" val="CustomAccessoryTex.Vual_Hat_Black_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31896" type="Armor" name="Orange Peacemaker">
+        <set name="icon" val="CustomAccessoryTex.Mtg_Hat_Red_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31897" type="Armor" name="Blue Peacemaker">
+        <set name="icon" val="CustomAccessoryTex.Mtg_Hat_Blue_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31898" type="Armor" name="Black Peacemaker">
+        <set name="icon" val="CustomAccessoryTex.Mtg_Hat_Black_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31899" type="Armor" name="Green Peacemaker">
+        <set name="icon" val="CustomAccessoryTex.Mtg_Hat_Green_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31901" type="Armor" name="Blue Winter A">
+        <set name="icon" val="CustomAccessoryTex.Ushan_Hat_Blue_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+	<item id="31904" type="Armor" name="Blue Winter B">
+        <set name="icon" val="CustomAccessoryTex.Pomp_Hat_Blue_i" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="hairall" />
+        <set name="material" val="WOOD" />
+        <set name="weight" val="10" />
+        
+    </item>
+
+</list>

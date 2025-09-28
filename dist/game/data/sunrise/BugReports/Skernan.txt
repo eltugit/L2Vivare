@@ -1,0 +1,3 @@
+Character Info: [Character: Skernan[268503771] - Account: michela94 - IP: 94.68.107.245]
+Bug Type: Other
+Message: i think i found a bug with the trickster lethal , i think it doesnt work at all 

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="90048" type="Weapon" name="Baium Shaper">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_shaper_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="90049" type="Weapon" name="Baium Cutter">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_cutter_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="90050" type="Weapon" name="Baium Slasher">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_slasher_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="90051" type="Weapon" name="Baium Avenger">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_avenger_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="90052" type="Weapon" name="Baium Retributer">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_retributer_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="90053" type="Weapon" name="Baium Fighter">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_fighter_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="90054" type="Weapon" name="Baium Stormer">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_stormer_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="90055" type="Weapon" name="Baium Thrower">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_thrower_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="90056" type="Weapon" name="Baium Buster">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_buster_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="90057" type="Weapon" name="Baium Caster">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_caster_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="90058" type="Weapon" name="Baium Singer">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_singer_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="90059" type="Weapon" name="Baium Pincer">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_rapier_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="90060" type="Weapon" name="Baium Nagan">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_slasher_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="90061" type="Weapon" name="Baium Shooter">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_shooter_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="90062" type="Weapon" name="Baium Dual Sword">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_dualsword_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="90063" type="Weapon" name="Baium Dual Dagger">
+		<set name="icon" val="L2HydronsWeaponsTex.bai_dualdagger_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	
+</list>

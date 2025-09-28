@@ -1,0 +1,3 @@
+Character Info: [Character: Radaphant[268472601] - Account: kushpower04 - IP: 127.0.0.1]
+Bug Type: General
+Message: Buged .getreward, i vote in page u restard server and no give reward 

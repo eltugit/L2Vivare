@@ -1,0 +1,3 @@
+Character Info: [Character: Chase[269634665] - Account: xchase - IP: 180.190.38.222]
+Bug Type: General
+Message: why i cant get a reward? i already voted but i cant get any reward...i used .getreward but it says that i didnt voted 

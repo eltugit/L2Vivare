@@ -1,0 +1,3 @@
+Character Info: [Character: Xhuu[268819988] - Account: kevindb2 - IP: 177.45.175.217]
+Bug Type: General
+Message: arruma o disarm do db, n ta entrando quase nunca 

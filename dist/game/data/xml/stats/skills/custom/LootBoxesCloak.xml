@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/skills.xsd">
+    <skill id="77518" levels="1" name="Common (CLOAK)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            55011,1,11.11;55012,1,11.11;55013,1,11.11;55014,1,11.11;55015,1,11.11;55016,1,11.11;55017,1,11.11;55018,1,11.11;55019,1,11.11
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77519" levels="1" name="Less Common (CLOAK)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            34025,1,10.00;34026,1,10.00;55000,1,10.00;55001,1,10.00;55002,1,10.00;55003,1,10.00;55004,1,10.00;55005,1,10.00;55006,1,10.00;55007,1,10.00
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77520" levels="1" name="Mid Grade (CLOAK)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            90001,1,11.11;90002,1,11.11;90003,1,11.11;90004,1,11.11;90005,1,11.11;90007,1,11.11;90008,1,11.11;90010,1,11.11;90011,1,11.11
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77521" levels="1" name="High Grade (CLOAK)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            34015,1,20.00;36050,1,20.00;40014,1,20.00;55536,1,20.00;32744,1,20.00
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77522" levels="1" name="Epic Grade (CLOAK)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            81013,1,16.67;90000,1,16.67;90006,1,16.67;90009,1,16.67;32745,1,16.67;58006,1,16.67
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+    <skill id="77523" levels="1" name="Legendary Grade (CLOAK)">
+        <!-- Confirmed CT2.5 -->
+        <table name="#extractableItems">
+            50023,1,9.09;50024,1,9.09;50025,1,9.09;50026,1,9.09;31555,1,9.09;34009,1,9.09;34010,1,9.09;34011,1,9.09;34012,1,9.09;34013,1,9.09;34014,1,9.09
+        </table>
+        <set name="blockedInOlympiad" val="true" />
+        <set name="capsuled_items_skill" val="#extractableItems" />
+        <set name="isMagic" val="2" /> <!-- Static Skill -->
+        <set name="itemConsumeCount" val="1" />
+        <set name="operateType" val="A1" />
+        <set name="targetType" val="SELF" />
+        <cond msgId="129">
+            <and>
+                <player invSize="10" />
+                <player weight="80" />
+            </and>
+        </cond>
+        <for>
+            <effect name="RestorationRandom" noicon="1" />
+        </for>
+    </skill>
+</list>

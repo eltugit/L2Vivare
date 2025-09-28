@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="55664" type="Weapon" name="Lindvior Rapier">
+		<set name="icon" val="SacriDragonWeaponTex.lind_cutter_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1280" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55665" type="Weapon" name="Lindvior Nagan">
+		<set name="icon" val="SacriDragonWeaponTex.lind_slasher_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientsword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1800" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55666" type="Weapon" name="Lindvior Sheutjeh">
+		<set name="icon" val="SacriDragonWeaponTex.lind_suitze_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1580" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55667" type="Weapon" name="Lindvior Cutter">
+		<set name="icon" val="SacriDragonWeaponTex.lind_cutter_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="sword" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55668" type="Weapon" name="Lindvior Slasher">
+		<set name="icon" val="SacriDragonWeaponTex.lind_slasher_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1740" />
+	</item>
+	<item id="55669" type="Weapon" name="Lindvior Thrower">
+		<set name="icon" val="SacriDragonWeaponTex.lind_thrower_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55670" type="Weapon" name="Lindvior Shaper">
+		<set name="icon" val="SacriDragonWeaponTex.lind_shaper_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55671" type="Weapon" name="Lindvior Stormer">
+		<set name="icon" val="SacriDragonWeaponTex.lind_stormer_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="2010" />
+	</item>
+	<item id="55672" type="Weapon" name="Lindvior Avenger">
+		<set name="icon" val="SacriDragonWeaponTex.lind_avenger_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+	</item>
+	<item id="55673" type="Weapon" name="Lindvior Buster">
+		<set name="icon" val="SacriDragonWeaponTex.lind_buster_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="sword" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55674" type="Weapon" name="Lindvior Fighter">
+		<set name="icon" val="SacriDragonWeaponTex.lind_fighter_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1550" />
+	</item>
+	<item id="55675" type="Weapon" name="Lindvior Dual Sword ">
+		<set name="icon" val="SacriDragonWeaponTex.lind_dual_sword_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55676" type="Weapon" name="Lindvior Dual Daggers ">
+		<set name="icon" val="SacriDragonWeaponTex.lind_dual_dagger_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="11421" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="2050" />
+	</item>
+	<item id="55677" type="Weapon" name="Lindvior Singer">
+		<set name="icon" val="SacriDragonWeaponTex.lind_caster_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+	</item>
+	<item id="55678" type="Weapon" name="Lindvior Caster">
+		<set name="icon" val="SacriDragonWeaponTex.lind_caster_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="WOOD" />
+		<set name="weight" val="1080" />
+	</item>
+	
+</list>

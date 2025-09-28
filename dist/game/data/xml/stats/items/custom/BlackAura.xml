@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="71961" type="Weapon" name="Black Aura Cutter">
+		<set name="icon" val="AeronWeapons4.sword1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71964" type="Weapon" name="Black Aura Shaper">
+		<set name="icon" val="AeronWeapons4.dagger1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71962" type="Weapon" name="Black Aura Avenger">
+		<set name="icon" val="AeronWeapons4.axe1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71965" type="Weapon" name="Black Aura Retributer">
+		<set name="icon" val="AeronWeapons4.2axe1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71968" type="Weapon" name="Black Aura Slasher">
+		<set name="icon" val="AeronWeapons4.2sword1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71967" type="Weapon" name="Black Aura Fighter">
+		<set name="icon" val="AeronWeapons4.fist1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71966" type="Weapon" name="Black Aura Stormer">
+		<set name="icon" val="AeronWeapons4.pole1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71969" type="Weapon" name="Black Aura Caster">
+		<set name="icon" val="AeronWeapons4.mace1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71963" type="Weapon" name="Black Aura Singer">
+		<set name="icon" val="AeronWeapons4.Staff1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71960" type="Weapon" name="Black Aura Buster">
+		<set name="icon" val="icon.weapon_R99_onehand_magic_sword_pvp_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71971" type="Weapon" name="Black Aura Thrower">
+		<set name="icon" val="AeronWeapons4.bow1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71972" type="Weapon" name="Black Aura Pincer">
+		<set name="icon" val="AeronWeapons4.rapier1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71973" type="Weapon" name="Black Aura Nagan">
+		<set name="icon" val="AeronWeapons4.asword1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71974" type="Weapon" name="Black Aura Shooter">
+		<set name="icon" val="AeronWeapons4.cbow1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71976" type="Weapon" name="Black Aura Dual Dagger">
+		<set name="icon" val="icon.dual_dagger_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71970" type="Weapon" name="Black Aura Dual Sword">
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	
+</list>

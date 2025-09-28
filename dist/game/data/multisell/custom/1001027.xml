@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+<item>
+    <ingredient id="100105" count="5000" />
+	<ingredient id="100106" count="10000" />
+	<ingredient id="100101" count="3" />
+<production id="20519" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="2500" />
+	<ingredient id="100106" count="5000" />
+	<ingredient id="100101" count="1" />
+<production id="20520" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="5000" />
+	<ingredient id="100106" count="10000" />
+	<ingredient id="100101" count="3" />
+<production id="22015" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="2500" />
+	<ingredient id="100106" count="5000" />
+	<ingredient id="100101" count="1" />
+<production id="22017" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="5000" />
+	<ingredient id="100106" count="10000" />
+	<ingredient id="100101" count="3" />
+<production id="22014" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="2500" />
+	<ingredient id="100106" count="5000" />
+	<ingredient id="100101" count="1" />
+<production id="22016" count="1"/>
+</item>
+	
+<item>
+    <ingredient id="100105" count="50000" />
+	<ingredient id="100106" count="100000" />
+	<ingredient id="100101" count="30" />
+<production id="20521" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="25000" />
+	<ingredient id="100106" count="50000" />
+	<ingredient id="100101" count="15" />
+<production id="20522" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="50000" />
+	<ingredient id="100106" count="100000" />
+	<ingredient id="100101" count="30" />
+<production id="22019" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="25000" />
+	<ingredient id="100106" count="50000" />
+	<ingredient id="100101" count="15" />
+<production id="22021" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="50000" />
+	<ingredient id="100106" count="100000" />
+	<ingredient id="100101" count="30" />
+<production id="22018" count="1"/>
+</item>
+<item>
+    <ingredient id="100105" count="25000" />
+	<ingredient id="100106" count="50000" />
+	<ingredient id="100101" count="15" />
+<production id="22020" count="1"/>
+</item>
+<item>
+	<ingredient id="13722" count="100000" />
+	<ingredient id="100101" count="30" />
+<production id="20521" count="1"/>
+</item>
+<item>
+	<ingredient id="13722" count="50000" />
+	<ingredient id="100101" count="15" />
+<production id="20522" count="1"/>
+</item>
+<item>
+	<ingredient id="13722" count="100000" />
+	<ingredient id="100101" count="30" />
+<production id="22019" count="1"/>
+</item>
+<item>
+	<ingredient id="13722" count="50000" />
+	<ingredient id="100101" count="15" />
+<production id="22021" count="1"/>
+</item>
+<item>
+	<ingredient id="13722" count="100000" />
+	<ingredient id="100101" count="30" />
+<production id="22018" count="1"/>
+</item>
+<item>
+	<ingredient id="13722" count="50000" />
+	<ingredient id="100101" count="15" />
+<production id="22020" count="1"/>
+</item>
+<item>
+	<ingredient id="100100" count="1250" />
+	<ingredient id="100101" count="30" />
+<production id="20521" count="1"/>
+</item>
+<item>
+	<ingredient id="100100" count="625" />
+	<ingredient id="100101" count="15" />
+<production id="20522" count="1"/>
+</item>
+<item>
+	<ingredient id="100100" count="1250" />
+	<ingredient id="100101" count="30" />
+<production id="22019" count="1"/>
+</item>
+<item>
+	<ingredient id="100100" count="625" />
+	<ingredient id="100101" count="15" />
+<production id="22021" count="1"/>
+</item>
+<item>
+	<ingredient id="100100" count="1250" />
+	<ingredient id="100101" count="30" />
+<production id="22018" count="1"/>
+</item>
+<item>
+	<ingredient id="100100" count="625" />
+	<ingredient id="100101" count="15" />
+<production id="22020" count="1"/>
+</item>
+<item>
+	<ingredient id="100108" count="375" />
+<production id="20521" count="1"/>
+</item>
+<item>
+	<ingredient id="100108" count="125" />
+<production id="20522" count="1"/>
+</item>
+<item>
+	<ingredient id="100108" count="375" />
+<production id="22019" count="1"/>
+</item>
+<item>
+	<ingredient id="100108" count="125" />
+<production id="22021" count="1"/>
+</item>
+<item>
+	<ingredient id="100108" count="375" />
+<production id="22018" count="1"/>
+</item>
+<item>
+	<ingredient id="100108" count="125" />
+<production id="22020" count="1"/>
+</item>
+
+</list>

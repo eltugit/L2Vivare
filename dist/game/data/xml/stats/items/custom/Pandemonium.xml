@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+	<item id="70704" type="Armor" name="Pandemonium Armor">
+        <set name="icon" val="AeronCustomArmor.Suit1" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="LIGHT" />
+        <set name="bodypart" val="chest" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="1680" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="BRONZE" />
+        <set name="weight" val="4140" />
+        <set name="price" val="35000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="70705" type="Armor" name="Pandemonium Leggings">
+        <set name="icon" val="icon.armor_t95_l_i03" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="LIGHT" />
+        <set name="bodypart" val="legs" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="1050" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="SCALE_OF_DRAGON" />
+        <set name="weight" val="1320" />
+        <set name="price" val="21876000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="70706" type="Armor" name="Pandemonium Gloves">
+        <set name="icon" val="icon.armor_t95_g_i03" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="gloves" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="560" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="LEATHER" />
+        <set name="weight" val="510" />
+        <set name="price" val="11667000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+    <item id="70707" type="Armor" name="Pandemonium Boots">
+        <set name="icon" val="icon.armor_t95_b_i03" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="feet" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="560" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="LEATHER" />
+        <set name="weight" val="1070" />
+        <set name="price" val="11667000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+</list>

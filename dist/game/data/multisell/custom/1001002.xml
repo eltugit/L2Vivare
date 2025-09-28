@@ -1,0 +1,2083 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<!-- Periel Sword -->
+	<item>
+		
+		
+		<production id="15829" count="1" />
+	</item>
+
+	<!-- Periel Sword -->
+	<item>
+		
+		
+		<production id="15830" count="1" />
+	</item>
+
+	<!-- Periel Sword -->
+	<item>
+		
+		
+		<production id="15831" count="1" />
+	</item>
+
+	<!-- Skull Edge -->
+	<item>
+		
+		
+		<production id="15832" count="1" />
+	</item>
+
+	<!-- Skull Edge -->
+	<item>
+		
+		
+		<production id="15833" count="1" />
+	</item>
+
+	<!-- Skull Edge -->
+	<item>
+		
+		
+		<production id="15834" count="1" />
+	</item>
+
+	<!-- Vigwik Axe -->
+	<item>
+		
+		
+		<production id="15835" count="1" />
+	</item>
+
+	<!-- Vigwik Axe -->
+	<item>
+		
+		
+		<production id="15836" count="1" />
+	</item>
+
+	<!-- Vigwik Axe -->
+	<item>
+		
+		
+		<production id="15837" count="1" />
+	</item>
+
+	<!-- Devilish Maul -->
+	<item>
+		
+		
+		<production id="15838" count="1" />
+	</item>
+
+	<!-- Devilish Maul -->
+	<item>
+		
+		
+		<production id="15839" count="1" />
+	</item>
+
+	<!-- Devilish Maul -->
+	<item>
+		
+		
+		<production id="15840" count="1" />
+	</item>
+
+	<!-- Feather Eye Blade -->
+	<item>
+		
+		
+		<production id="15841" count="1" />
+	</item>
+
+	<!-- Feather Eye Blade -->
+	<item>
+		
+		
+		<production id="15842" count="1" />
+	</item>
+
+	<!-- Feather Eye Blade -->
+	<item>
+		
+		
+		<production id="15843" count="1" />
+	</item>
+
+	<!-- Octo Claw -->
+	<item>
+		
+		
+		<production id="15844" count="1" />
+	</item>
+
+	<!-- Octo Claw -->
+	<item>
+		
+		
+		<production id="15845" count="1" />
+	</item>
+
+	<!-- Octo Claw -->
+	<item>
+		
+		
+		<production id="15846" count="1" />
+	</item>
+
+	<!-- Doubletop Spear -->
+	<item>
+		
+		
+		<production id="15847" count="1" />
+	</item>
+
+	<!-- Doubletop Spear -->
+	<item>
+		
+		
+		<production id="15848" count="1" />
+	</item>
+
+	<!-- Doubletop Spear -->
+	<item>
+		
+		
+		<production id="15849" count="1" />
+	</item>
+
+	<!-- Rising Star -->
+	<item>
+		
+		
+		<production id="15850" count="1" />
+	</item>
+
+	<!-- Rising Star -->
+	<item>
+		
+		
+		<production id="15851" count="1" />
+	</item>
+
+	<!-- Rising Star -->
+	<item>
+		
+		
+		<production id="15852" count="1" />
+	</item>
+
+	<!-- Black Visage -->
+	<item>
+		
+		
+		<production id="15853" count="1" />
+	</item>
+
+	<!-- Black Visage -->
+	<item>
+		
+		
+		<production id="15854" count="1" />
+	</item>
+
+	<!-- Black Visage -->
+	<item>
+		
+		
+		<production id="15855" count="1" />
+	</item>
+
+	<!-- Veniplant Sword -->
+	<item>
+		
+		
+		<production id="15856" count="1" />
+	</item>
+
+	<!-- Veniplant Sword -->
+	<item>
+		
+		
+		<production id="15857" count="1" />
+	</item>
+
+	<!-- Veniplant Sword -->
+	<item>
+		
+		
+		<production id="15858" count="1" />
+	</item>
+
+	<!-- Skull Carnium Bow -->
+	<item>
+		
+		
+		<production id="15859" count="1" />
+	</item>
+
+	<!-- Skull Carnium Bow -->
+	<item>
+		
+		
+		<production id="15860" count="1" />
+	</item>
+
+	<!-- Skull Carnium Bow -->
+	<item>
+		
+		
+		<production id="15861" count="1" />
+	</item>
+
+	<!-- Gemtail Rapier -->
+	<item>
+		
+		
+		<production id="15862" count="1" />
+	</item>
+
+	<!-- Gemtail Rapier -->
+	<item>
+		
+		
+		<production id="15863" count="1" />
+	</item>
+
+	<!-- Gemtail Rapier -->
+	<item>
+		
+		
+		<production id="15864" count="1" />
+	</item>
+
+	<!-- Finale Blade -->
+	<item>
+		
+		
+		<production id="15865" count="1" />
+	</item>
+
+	<!-- Finale Blade -->
+	<item>
+		
+		
+		<production id="15866" count="1" />
+	</item>
+
+	<!-- Finale Blade -->
+	<item>
+		
+		
+		<production id="15867" count="1" />
+	</item>
+
+	<!-- Dominion Crossbow -->
+	<item>
+		
+		
+		<production id="15868" count="1" />
+	</item>
+
+	<!-- Dominion Crossbow -->
+	<item>
+		
+		
+		<production id="15869" count="1" />
+	</item>
+
+	<!-- Dominion Crossbow -->
+	<item>
+		
+		
+		<production id="15870" count="1" />
+	</item>
+
+	<!-- Periel Dual Sword -->
+	<item>
+		
+		
+		<production id="16154" count="1" />
+	</item>
+
+	<!-- Skull Edge Dual Daggers -->
+	<item>
+		
+		
+		<production id="16152" count="1" />
+	</item>
+	
+	<!-- Vesper Avenger - Health -->
+  <item>
+    
+    <production id="14137" count="1"/>
+  </item>
+
+  <!-- Vesper Avenger - HP Drain -->
+  <item>
+    
+    <production id="14136" count="1"/>
+  </item>
+
+  <!-- Vesper Avenger - HP Regeneration -->
+  <item>
+    
+    <production id="14138" count="1"/>
+  </item>
+
+  <!-- Vesper Buster - Acumen -->
+  <item>
+    
+    <production id="14125" count="1"/>
+  </item>
+
+  <!-- Vesper Buster - Magic Hold -->
+  <item>
+    
+    <production id="14126" count="1"/>
+  </item>
+
+  <!-- Vesper Buster - Mana Up -->
+  <item>
+    
+    <production id="14124" count="1"/>
+  </item>
+
+  <!-- Vesper Caster -->
+  <item>
+    
+    <production id="14142" count="1"/>
+  </item>
+
+  <!-- Vesper Caster - Mana Up -->
+  <item>
+    
+    <production id="14144" count="1"/>
+  </item>
+
+  <!-- Vesper Caster - MP Regeneration -->
+  <item>
+    
+    <production id="14143" count="1"/>
+  </item>
+
+  <!-- Vesper Cutter -->
+  <item>
+    
+    <production id="14120" count="1"/>
+  </item>
+
+  <!-- Vesper Cutter - Haste -->
+  <item>
+    
+    <production id="14118" count="1"/>
+  </item>
+
+  <!-- Vesper Cutter - Health -->
+  <item>
+    
+    <production id="14119" count="1"/>
+  </item>
+
+  <!-- Vesper Fighter - Critical Stun -->
+  <item>
+    
+    <production id="14132" count="1"/>
+  </item>
+
+  <!-- Vesper Fighter - Focus -->
+  <item>
+    
+    <production id="14130" count="1"/>
+  </item>
+
+  <!-- Vesper Fighter - Health -->
+  <item>
+    
+    <production id="14131" count="1"/>
+  </item>
+
+  <!-- Vesper Nagan - Focus -->
+  <item>
+    
+    <production id="14159" count="1"/>
+  </item>
+
+  <!-- Vesper Nagan - Health -->
+  <item>
+    
+    <production id="14158" count="1"/>
+  </item>
+
+  <!-- Vesper Nagan - Haste -->
+  <item>
+    
+    <production id="14157" count="1"/>
+  </item>
+
+  <!-- Vesper Pincer - Focus -->
+  <item>
+   
+    <production id="14153" count="1"/>
+  </item>
+
+  <!-- Vesper Pincer - Haste -->
+  <item>
+    
+    <production id="14151" count="1"/>
+  </item>
+
+  <!-- Vesper Pincer - Health -->
+  <item>
+    
+    <production id="14152" count="1"/>
+  </item>
+
+  <!-- Vesper Retributer - Health -->
+  <item>
+    
+    <production id="14140" count="1"/>
+  </item>
+
+  <!-- Vesper Retributer - HP Drain -->
+  <item>
+    
+    <production id="14141" count="1"/>
+  </item>
+
+  <!-- Vesper Retributer - HP Regeneration -->
+  <item>
+    
+    <production id="14139" count="1"/>
+  </item>
+
+  <!-- Vesper Shaper - Critical Damage -->
+  <item>
+    
+    <production id="14127" count="1"/>
+  </item>
+
+  <!-- Vesper Shaper - HP Drain -->
+  <item>
+    
+    <production id="14128" count="1"/>
+  </item>
+
+  <!-- Vesper Shaper - Haste -->
+  <item>
+    
+    <production id="14129" count="1"/>
+  </item>
+
+  <!-- Vesper Sheutjeh - Cheap Shot -->
+  <item>
+    
+    <production id="14154" count="1"/>
+  </item>
+
+  <!-- Vesper Sheutjeh - Critical Slow -->
+  <item>
+    
+    <production id="14156" count="1"/>
+  </item>
+
+  <!-- Vesper Sheutjeh - Focus -->
+  <item>
+    
+    <production id="14155" count="1"/>
+  </item>
+
+  <!-- Vesper Singer - Empower -->
+  <item>
+    
+    <production id="14145" count="1"/>
+  </item>
+
+  <!-- Vesper Singer - Magic Hold -->
+  <item>
+    
+    <production id="14147" count="1"/>
+  </item>
+
+  <!-- Vesper Singer - MP Regeneration -->
+  <item>
+    
+    <production id="14146" count="1"/>
+  </item>
+
+  <!-- Vesper Slasher - Focus -->
+  <item>
+    
+    <production id="14123" count="1"/>
+  </item>
+
+  <!-- Vesper Slasher - Haste -->
+  <item>
+    
+    <production id="14121" count="1"/>
+  </item>
+
+  <!-- Vesper Slasher - Health -->
+  <item>
+    
+    <production id="14122" count="1"/>
+  </item>
+
+  <!-- Vesper Stormer - Guidance -->
+  <item>
+    
+    <production id="14134" count="1"/>
+  </item>
+
+  <!-- Vesper Stormer - Haste -->
+  <item>
+    
+    <production id="14135" count="1"/>
+  </item>
+
+  <!-- Vesper Stormer - Health -->
+  <item>
+    
+    <production id="14133" count="1"/>
+  </item>
+
+  <!-- Vesper Thrower - Cheap Shot -->
+  <item>
+    
+    <production id="14148" count="1"/>
+  </item>
+
+  <!-- Vesper Thrower - Focus -->
+  <item>
+    
+    <production id="14149" count="1"/>
+  </item>
+
+  <!-- Vesper Thrower - Critical Slow -->
+  <item>
+    
+    <production id="14150" count="1"/>
+  </item>
+
+  <!-- Vesper Dual Sword -->
+  <item>
+    
+    <production id="52" count="1"/>
+  </item>
+
+  <!-- Vesper Dual Daggers -->
+  <item>
+    
+    <production id="13884" count="1"/>
+  </item>
+  
+	<!-- Icarus Hammer - Anger -->
+	<item>
+		
+		
+		<production id="10452" count="1" />
+	</item>
+
+	<!-- Icarus Hammer - Rsk. Focus -->
+	<item>
+		
+		
+		<production id="10454" count="1" />
+	</item>
+
+	<!-- Icarus Hammer - Health -->
+	<item>
+		
+		
+		<production id="10453" count="1" />
+	</item>
+
+	<!-- Icarus Hand - Focus -->
+	<item>
+		
+		
+		<production id="10459" count="1" />
+	</item>
+
+	<!-- Icarus Hand - Haste -->
+	<item>
+		
+		
+		<production id="10460" count="1" />
+	</item>
+
+	<!-- Icarus Hand - Rsk. Evasion -->
+	<item>
+		
+		
+		<production id="10458" count="1" />
+	</item>
+
+	<!-- Icarus Heavy Arms - Focus -->
+	<item>
+		
+		
+		<production id="10437" count="1" />
+	</item>
+
+	<!-- Icarus Heavy Arms - Health -->
+	<item>
+		
+		
+		<production id="10438" count="1" />
+	</item>
+
+	<!-- Icarus Heavy Arms - Light -->
+	<item>
+		
+		
+		<production id="10439" count="1" />
+	</item>
+
+	<!-- Icarus Sawsword Focus -->
+	<item>
+		
+		
+		<production id="10434" count="1" />
+	</item>
+
+	<!-- Icarus Sawsword Health -->
+	<item>
+		
+		
+		<production id="10435" count="1" />
+	</item>
+
+	<!-- Icarus Sawsword Light -->
+	<item>
+		
+		
+		<production id="10436" count="1" />
+	</item>
+
+	<!-- Icarus Shooter - Cheap Shot -->
+	<item>
+		
+		
+		<production id="10467" count="1" />
+	</item>
+
+	<!-- Icarus Shooter - Focus -->
+	<item>
+		
+		
+		<production id="10469" count="1" />
+	</item>
+
+	<!-- Icarus Shooter - Guidance -->
+	<item>
+		
+		
+		<production id="10468" count="1" />
+	</item>
+
+	<!-- Icarus Spirit - Acumen -->
+	<item>
+		
+		
+		<production id="10440" count="1" />
+	</item>
+
+	<!-- Icarus Spirit - Conversion -->
+	<item>
+		
+		
+		<production id="10442" count="1" />
+	</item>
+
+	<!-- Icarus Spirit - Mana Up -->
+	<item>
+		
+		
+		<production id="10441" count="1" />
+	</item>
+
+	<!-- Icarus Spitter - Cheap Shot -->
+	<item>
+		
+		
+		<production id="10443" count="1" />
+	</item>
+
+	<!-- Icarus Spitter - Focus -->
+	<item>
+		
+		
+		<production id="10445" count="1" />
+	</item>
+
+	<!-- Icarus Spitter - Guidance -->
+	<item>
+		
+		
+		<production id="10444" count="1" />
+	</item>
+
+	<!-- Icarus Stinger - Focus -->
+	<item>
+		
+		
+		<production id="10461" count="1" />
+	</item>
+
+	<!-- Icarus Stinger - Health -->
+	<item>
+		
+		
+		<production id="10462" count="1" />
+	</item>
+
+	<!-- Icarus Stinger - Light -->
+	<item>
+		
+		
+		<production id="10463" count="1" />
+	</item>
+
+	<!-- Icarus Trident - Anger -->
+	<item>
+		
+		
+		<production id="10449" count="1" />
+	</item>
+
+	<!-- Icarus Trident - Critical Stun -->
+	<item>
+		
+		
+		<production id="10450" count="1" />
+	</item>
+
+	<!-- Icarus Trident - Light -->
+	<item>
+		
+		
+		<production id="10451" count="1" />
+	</item>
+
+	<!-- Icarus Wingblade - Focus -->
+	<item>
+		
+		
+		<production id="10464" count="1" />
+	</item>
+
+	<!-- Icarus Wingblade - Health -->
+	<item>
+		
+		
+		<production id="10465" count="1" />
+	</item>
+
+	<!-- Icarus Wingblade - Light -->
+	<item>
+		
+		
+		<production id="10466" count="1" />
+	</item>
+
+	<!-- Icarus Hall - Conversion -->
+	<item>
+		
+		
+		<production id="10456" count="1" />
+	</item>
+
+	<!-- Icarus Disperser - Critical Damage -->
+	<item>
+		
+		
+		<production id="10448" count="1" />
+	</item>
+
+	<!-- Icarus Disperser - Evasion -->
+	<item>
+		
+		
+		<production id="10447" count="1" />
+	</item>
+
+	<!-- Icarus Disperser - Focus -->
+	<item>
+		
+		
+		<production id="10446" count="1" />
+	</item>
+
+	<!-- Icarus Hall - Acumen -->
+	<item>
+		
+		
+		<production id="10457" count="1" />
+	</item>
+
+	<!-- Icarus Hall - Mana Up -->
+	<item>
+		
+		
+		<production id="10455" count="1" />
+	</item>
+
+	<!-- Icarus Dual Sword -->
+	<item>
+		
+		
+		<production id="10415" count="1" />
+	</item>
+
+	<!-- Icarus Dual Sword -->
+	<item>
+		
+		
+		<production id="13883" count="1" />
+	</item>
+	<!-- Dynasty Phantom - Acumen -->
+	<item>
+		
+		
+		<production id="9860" count="1" />
+	</item>
+
+	<!-- Dynasty Phantom - Conversion -->
+	<item>
+		
+		
+		<production id="9862" count="1" />
+	</item>
+
+	<!-- Dynasty Phantom - Mana Up -->
+	<item>
+		
+		
+		<production id="9861" count="1" />
+	</item>
+
+	<!-- Dynasty Sword - Focus -->
+	<item>
+		
+		
+		<production id="9854" count="1" />
+	</item>
+
+	<!-- Dynasty Sword - Health -->
+	<item>
+		
+		
+		<production id="9855" count="1" />
+	</item>
+
+	<!-- Dynasty Sword - Light -->
+	<item>
+		
+		
+		<production id="9856" count="1" />
+	</item>
+
+	<!-- Dynasty Rapier - Focus -->
+	<item>
+		
+		
+		<production id="9377" count="1" />
+	</item>
+
+	<!-- Dynasty Rapier - Health -->
+	<item>
+		
+		
+		<production id="9378" count="1" />
+	</item>
+
+	<!-- Dynasty Rapier - Light -->
+	<item>
+		
+		
+		<production id="9379" count="1" />
+	</item>
+
+	<!-- Dynasty Halberd - Anger -->
+	<item>
+		
+		
+		<production id="9869" count="1" />
+	</item>
+
+	<!-- Dynasty Halberd - Critical Stun -->
+	<item>
+		
+		
+		<production id="9870" count="1" />
+	</item>
+
+	<!-- Dynasty Halberd - Light -->
+	<item>
+		
+		
+		<production id="9871" count="1" />
+	</item>
+
+	<!-- Dynasty Bagh-Nakh - Haste -->
+	<item>
+		
+		
+		<production id="9880" count="1" />
+	</item>
+
+	<!-- Dynasty Bagh-Nakh - Rsk. Evasion -->
+	<item>
+		
+		
+		<production id="9878" count="1" />
+	</item>
+
+	<!-- Dynasty Bagh-Nakh - Rsk. Haste -->
+	<item>
+		
+		
+		<production id="9879" count="1" />
+	</item>
+
+	<!-- Dynasty Knife - Critical Damage -->
+	<item>
+		
+		
+		<production id="9868" count="1" />
+	</item>
+
+	<!-- Dynasty Knife - Evasion -->
+	<item>
+		
+		
+		<production id="9867" count="1" />
+	</item>
+
+	<!-- Dynasty Knife - Focus -->
+	<item>
+		
+		
+		<production id="9866" count="1" />
+	</item>
+
+	<!-- Dynasty Crossbow - Cheap Shot -->
+	<item>
+		
+		
+		<production id="9385" count="1" />
+	</item>
+
+	<!-- Dynasty Crossbow - Focus -->
+	<item>
+		
+		
+		<production id="9387" count="1" />
+	</item>
+
+	<!-- Dynasty Crossbow - Guidance -->
+	<item>
+		
+		
+		<production id="9386" count="1" />
+	</item>
+
+	<!-- Dynasty Bow - Cheap Shot -->
+	<item>
+		
+		
+		<production id="9863" count="1" />
+	</item>
+
+	<!-- Dynasty Bow - Focus -->
+	<item>
+		
+		
+		<production id="9865" count="1" />
+	</item>
+
+	<!-- Dynasty Bow - Guidance -->
+	<item>
+		
+		
+		<production id="9864" count="1" />
+	</item>
+
+	<!-- Dynasty Cudgel - Anger -->
+	<item>
+		
+		
+		<production id="9872" count="1" />
+	</item>
+
+	<!-- Dynasty Cudgel - Health -->
+	<item>
+		
+		
+		<production id="9873" count="1" />
+	</item>
+
+	<!-- Dynasty Cudgel - Rsk. Focus -->
+	<item>
+		
+		
+		<production id="9874" count="1" />
+	</item>
+
+	<!-- Dynasty Blade - Focus -->
+	<item>
+		
+		
+		<production id="9857" count="1" />
+	</item>
+
+	<!-- Dynasty Blade - Health -->
+	<item>
+		
+		
+		<production id="9858" count="1" />
+	</item>
+
+	<!-- Dynasty Blade - Light -->
+	<item>
+		
+		
+		<production id="9859" count="1" />
+	</item>
+
+	<!-- Dynasty Staff - Acumen -->
+	<item>
+		
+		
+		<production id="10529" count="1" />
+	</item>
+
+	<!-- Dynasty Staff - Conversion -->
+	<item>
+		
+		
+		<production id="10528" count="1" />
+	</item>
+
+	<!-- Dynasty Staff - Mana Up -->
+	<item>
+		
+		
+		<production id="10527" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9875" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9876" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9877" count="1" />
+	</item>
+
+	<!-- Dynasty Crusher - Anger -->
+	<item>
+		
+		
+		<production id="10530" count="1" />
+	</item>
+
+	<!-- Dynasty Crusher - Health -->
+	<item>
+		
+		
+		<production id="10531" count="1" />
+	</item>
+
+	<!-- Dynasty Crusher - Rsk. Focus -->
+	<item>
+		
+		
+		<production id="10532" count="1" />
+	</item>
+
+	<!-- Dynasty Dual Sword -->
+	<item>
+		
+		
+		<production id="10004" count="1" />
+	</item>
+
+	<!-- Dynasty Dual Daggers -->
+	<item>
+		
+		
+		<production id="13882" count="1" />
+	</item>
+	<!-- Arcana Mace - Acumen -->
+  <item>
+     
+    <production id="6608" count="1"/>
+  </item>
+
+  <!-- Arcana Mace - Mana Up -->
+  <item>
+     
+    <production id="6610" count="1"/>
+  </item>
+
+  <!-- Arcana Mace - MP Regeneration -->
+  <item>
+     
+    <production id="6609" count="1"/>
+  </item>
+
+  <!-- Tallum Blade*Dark Legion's Edge -->
+  <item>
+     
+    <production id="6580" count="1"/>
+  </item>
+
+  <!-- Saint Spear - Haste -->
+  <item>
+     
+    <production id="6601" count="1"/>
+  </item>
+
+  <!-- Saint Spear - Health -->
+  <item>
+     
+    <production id="6599" count="1"/>
+  </item>
+
+  <!-- Saint Spear - Guidance -->
+  <item>
+     
+    <production id="6600" count="1"/>
+  </item>
+
+  <!-- Demon Splinter - Focus -->
+  <item>
+     
+    <production id="6602" count="1"/>
+  </item>
+
+  <!-- Demon Splinter - Health -->
+  <item>
+     
+    <production id="6603" count="1"/>
+  </item>
+
+  <!-- Demon Splinter - Critical Stun -->
+  <item>
+     
+    <production id="6604" count="1"/>
+  </item>
+
+  <!-- Angel Slayer - Critical Damage -->
+  <item>
+     
+    <production id="6590" count="1"/>
+  </item>
+
+  <!-- Angel Slayer - Haste -->
+  <item>
+     
+    <production id="6592" count="1"/>
+  </item>
+
+  <!-- Angel Slayer - HP Drain -->
+  <item>
+     
+    <production id="6591" count="1"/>
+  </item>
+
+  <!-- Draconic Bow - Cheap Shot -->
+  <item>
+     
+    <production id="7576" count="1"/>
+  </item>
+
+  <!-- Draconic Bow - Critical Slow -->
+  <item>
+     
+    <production id="7578" count="1"/>
+  </item>
+
+  <!-- Draconic Bow - Focus -->
+  <item>
+     
+    <production id="7577" count="1"/>
+  </item>
+
+  <!-- Shining Bow - Cheap Shot -->
+  <item>
+     
+    <production id="6593" count="1"/>
+  </item>
+
+  <!-- Shining Bow - Critical Slow -->
+  <item>
+     
+    <production id="6595" count="1"/>
+  </item>
+
+  <!-- Shining Bow - Focus -->
+  <item>
+     
+    <production id="6594" count="1"/>
+  </item>
+
+  <!-- Forgotten Blade - Focus -->
+  <item>
+     
+    <production id="6583" count="1"/>
+  </item>
+
+  <!-- Forgotten Blade - Haste -->
+  <item>
+     
+    <production id="6581" count="1"/>
+  </item>
+
+  <!-- Forgotten Blade - Health -->
+  <item>
+     
+    <production id="6582" count="1"/>
+  </item>
+
+  <!-- Basalt Battlehammer - Health -->
+  <item>
+     
+    <production id="6585" count="1"/>
+  </item>
+
+  <!-- Basalt Battlehammer - HP Drain -->
+  <item>
+     
+    <production id="6584" count="1"/>
+  </item>
+
+  <!-- Basalt Battlehammer - HP Regeneration -->
+  <item>
+     
+    <production id="6586" count="1"/>
+  </item>
+
+  <!-- Heavens Divider - Focus -->
+  <item>
+     
+    <production id="6607" count="1"/>
+  </item>
+
+  <!-- Heavens Divider - Haste -->
+  <item>
+     
+    <production id="6605" count="1"/>
+  </item>
+
+  <!-- Heavens Divider - Health -->
+  <item>
+     
+    <production id="6606" count="1"/>
+  </item>
+
+  <!-- Dragon Hunter Axe - Health -->
+  <item>
+     
+    <production id="6597" count="1"/>
+  </item>
+
+  <!-- Dragon Hunter Axe - HP Drain -->
+  <item>
+     
+    <production id="6598" count="1"/>
+  </item>
+
+  <!-- Dragon Hunter Axe - HP Regeneration -->
+  <item>
+     
+    <production id="6596" count="1"/>
+  </item>
+
+  <!-- Imperial Staff - Empower -->
+  <item>
+     
+    <production id="6587" count="1"/>
+  </item>
+
+  <!-- Imperial Staff - Magic Hold -->
+  <item>
+     
+    <production id="6589" count="1"/>
+  </item>
+
+  <!-- Imperial Staff - MP Regeneration -->
+  <item>
+     
+    <production id="6588" count="1"/>
+  </item>
+  <!-- Imperial Staff - Empower -->
+  <item>
+     
+    <production id="9369" count="1"/>
+  </item>
+
+  <!-- Imperial Staff - Magic Hold -->
+  <item>
+     
+    <production id="9370" count="1"/>
+  </item>
+
+  <!-- Imperial Staff - MP Regeneration -->
+  <item>
+     
+    <production id="9371" count="1"/>
+  </item>
+  <!-- Imperial Staff - Empower -->
+  <item>
+     
+    <production id="9365" count="1"/>
+  </item>
+
+  <!-- Imperial Staff - Magic Hold -->
+  <item>
+     
+    <production id="9366" count="1"/>
+  </item>
+
+  <!-- Imperial Staff - MP Regeneration -->
+  <item>
+     
+    <production id="9367" count="1"/>
+  </item>
+    <!-- Imperial Staff - Empower -->
+  <item>
+     
+    <production id="9373" count="1"/>
+  </item>
+
+  <!-- Imperial Staff - Magic Hold -->
+  <item>
+     
+    <production id="9374" count="1"/>
+  </item>
+
+  <!-- Imperial Staff - MP Regeneration -->
+  <item>
+     
+    <production id="9375" count="1"/>
+  </item>
+  <!-- Barakiel's Axe - Health -->
+  <item>
+     
+    <production id="8794" count="1"/>
+  </item>
+
+
+  <!-- Barakiel's Axe - Haste -->
+  <item>
+     
+    <production id="8795" count="1"/>
+  </item>
+    
+
+  <!-- Barakiel's Axe - Focus -->
+  <item>
+     
+    <production id="8796" count="1"/>
+  </item>
+
+
+
+  <!-- Behemoth's Tuning Fork - Focus -->
+  <item>
+     
+    <production id="8798" count="1"/>
+  </item>
+
+
+  <!-- Behemoth's Tuning Fork - Health -->
+  <item>
+     
+    <production id="8797" count="1"/>
+  </item>
+
+
+  <!-- Behemoth's Tuning Fork - Anger -->
+  <item>
+     
+    <production id="8799" count="1"/>
+  </item>
+
+
+
+  <!-- Cabrio's Hand - Conversion -->
+  <item>
+     
+    <production id="8815" count="1"/>
+  </item>
+
+
+  <!-- Cabrio's Hand - Mana Up -->
+  <item>
+     
+    <production id="8816" count="1"/>
+  </item>
+
+
+  <!-- Cabrio's Hand - Magic Silence -->
+  <item>
+     
+    <production id="8817" count="1"/>
+  </item>
+
+
+
+  <!-- Daimon Crystal - Mana Up -->
+  <item>
+     
+    <production id="8818" count="1"/>
+  </item>
+
+
+
+  <!-- Daimon Crystal - Acumen -->
+  <item>
+     
+    <production id="8819" count="1"/>
+  </item>
+
+
+  <!-- Daimon Crystal - Magic Mental Shield -->
+  <item>
+     
+    <production id="8820" count="1"/>
+  </item>
+
+
+  <!-- Soul Bow - Cheap Shot -->
+  <item>
+     
+    <production id="5611" count="1"/>
+  </item>
+
+
+  <!-- Soul Bow - Critical Poison -->
+  <item>
+     
+    <production id="5613" count="1"/>
+  </item>
+
+
+  <!-- Soul Bow - Quick Recovery -->
+  <item>
+     
+    <production id="5612" count="1"/>
+  </item>
+  
+
+  <!-- Shyeed's Bow - Cheap Shot -->
+  <item>
+     
+    <production id="8806" count="1"/>
+  </item>
+
+
+  <!-- Shyeed's Bow - Focus -->
+  <item>
+     
+    <production id="8807" count="1"/>
+  </item>
+
+
+  <!-- Shyeed's Bow - Quick Recovery -->
+  <item>
+     
+    <production id="8808" count="1"/>
+  </item>
+
+
+
+  <!-- Soul Separator - Guidance -->
+  <item>
+     
+    <production id="5617" count="1"/>
+  </item>
+
+
+  <!-- Soul Separator - Critical Damage -->
+  <item>
+     
+    <production id="5618" count="1"/>
+  </item>
+
+
+  <!-- Soul Separator - Rsk Haste -->
+  <item>
+     
+    <production id="5619" count="1"/>
+  </item>
+
+
+
+  <!-- Naga Storm - Focus  -->
+  <item>
+     
+    <production id="8800" count="1"/>
+  </item>
+
+
+  <!-- Naga Storm - Critical Damage -->
+  <item>
+     
+    <production id="8801" count="1"/>
+  </item>
+
+
+  
+  <!-- Naga Storm - Back Blow -->
+  <item>
+     
+    <production id="8802" count="1"/>
+  </item>
+
+
+  
+  <!-- Damascus*Tallum Blade -->
+  <item>
+     
+    <production id="8938" count="1"/>
+  </item>
+
+
+  <!-- Dragon Grinder - Rsk. Evasion  -->
+  <item>
+     
+    <production id="5623" count="1"/>
+  </item>
+
+
+ 
+  <!-- Dragon Grinder - Guidance  -->
+  <item>
+     
+    <production id="5624" count="1"/>
+  </item>
+
+
+  <!-- Dragon Grinder - Health  -->
+  <item>
+     
+    <production id="5625" count="1"/>
+  </item>
+
+
+
+  <!-- Sobekk's Hurricane - Rsk. Haste  -->
+  <item>
+     
+    <production id="8809" count="1"/>
+  </item>
+
+
+ 
+  <!-- Sobekk's Hurricane  - Haste  -->
+  <item>
+     
+    <production id="8810" count="1"/>
+  </item>
+
+
+  <!-- Sobekk's Hurricane - Critical Drain  -->
+  <item>
+     
+    <production id="8811" count="1"/>
+  </item>
+
+
+
+  <!-- Tallum Glaive - Guidance -->
+  <item>
+     
+    <production id="5632" count="1"/>
+  </item>
+
+
+  <!-- Tallum Glaive - Health -->
+  <item>
+     
+    <production id="5633" count="1"/>
+  </item>
+
+
+  <!-- Tallum Glaive - Wide Blow -->
+  <item>
+     
+    <production id="5634" count="1"/>
+  </item>
+
+
+  <!-- Tiphon's Spear - Critical Stun -->
+  <item>
+     
+    <production id="8803" count="1"/>
+  </item>
+
+
+
+  <!-- Tiphon's Spear - Towering Blow -->
+  <item>
+     
+    <production id="8804" count="1"/>
+  </item>
+
+
+
+  <!-- Tiphon's Spear - Wild Blow -->
+  <item>
+     
+    <production id="8805" count="1"/>
+  </item>
+
+
+  
+  <!-- Sword of Miracles - Magic Power  -->
+  <item>
+     
+    <production id="5641" count="1"/>
+  </item>
+
+
+
+  <!-- Sword of Miracles - Magic Silence  -->
+  <item>
+     
+    <production id="5642" count="1"/>
+  </item>
+
+
+
+  <!-- Sword of Miracles - Acumen  -->
+  <item>
+     
+    <production id="5643" count="1"/>
+  </item>
+
+
+ 
+  <!-- Dark Legion's Edge - Critical Damage   -->
+  <item>
+     
+    <production id="5647" count="1"/>
+  </item>
+
+
+  
+  <!-- Dark Legion's Edge - Health   -->
+  <item>
+     
+    <production id="5648" count="1"/>
+  </item>
+
+
+
+  <!-- Dark Legion's Edge - Rsk Focus   -->
+  <item>
+     
+    <production id="5649" count="1"/>
+  </item>
+
+
+
+
+  <!-- Sword of Ipos - Focus   -->
+  <item>
+     
+    <production id="8791" count="1"/>
+  </item>
+
+
+  <!-- Sword of Ipos - Haste   -->
+  <item>
+     
+    <production id="8792" count="1"/>
+  </item>
+
+
+  <!-- Sword of Ipos - Health   -->
+  <item>
+     
+    <production id="8793" count="1"/>
+  </item>
+
+
+  
+  <!-- Themis' Tongue - Mana Up -->
+  <item>
+     
+    <production id="8812" count="1"/>
+  </item>
+
+
+
+  <!-- Themis' Tongue - Magic Focus -->
+  <item>
+     
+    <production id="8814" count="1"/>
+  </item>
+
+
+   <!-- Themis' Tongue - Magic Mental Shield  -->
+  <item>
+     
+    <production id="8813" count="1"/>
+  </item>
+  <!-- Sword of Damascus [Focus] -->
+  <item>
+     
+    <production id="4717" count="1"/>
+  </item>
+
+  <!-- Sword of Damascus [Critical Damage] -->
+  <item>
+     
+    <production id="4718" count="1"/>
+  </item>
+
+  <!-- Sword of Damascus [Haste] -->
+  <item>
+     
+    <production id="4719" count="1"/>
+  </item>
+
+  <!-- Bow of Peril [Guidance] -->
+  <item>
+     
+    <production id="4828" count="1"/>
+  </item>
+
+  <!-- Bow of Peril [Quick Recovery] -->
+  <item>
+     
+    <production id="4829" count="1"/>
+  </item>
+
+  <!-- Bow of Peril [Cheap Shot] -->
+  <item>
+     
+    <production id="4830" count="1"/>
+  </item>
+
+  <!-- Kris [Evasion] -->
+  <item>
+     
+    <production id="4777" count="1"/>
+  </item>
+
+  <!-- Kris [Focus] -->
+  <item>
+     
+    <production id="4778" count="1"/>
+  </item>
+
+  <!-- Kris [Back Blow] -->
+  <item>
+     
+    <production id="4779" count="1"/>
+  </item>
+
+  <!-- Art of Battle Axe [Health] -->
+  <item>
+     
+    <production id="4753" count="1"/>
+  </item>
+
+  <!-- Art of Battle Axe [Rsk. Focus] -->
+  <item>
+     
+    <production id="4754" count="1"/>
+  </item>
+
+  <!-- Art of Battle Axe [Haste] -->
+  <item>
+     
+    <production id="4755" count="1"/>
+  </item>
+
+  <!-- Sword of Valhalla [Acumen] -->
+  <item>
+     
+    <production id="7722" count="1"/>
+  </item>
+
+  <!-- Sword of Valhalla [Magic Weakness] -->
+  <item>
+     
+    <production id="7723" count="1"/>
+  </item>
+
+  <!-- Sword of Valhalla [Magic Regeneration] -->
+  <item>
+     
+    <production id="7724" count="1"/>
+  </item>
+
+  <!-- Bellion Cestus [Critical Drain] -->
+  <item>
+     
+    <production id="4804" count="1"/>
+  </item>
+
+  <!-- Bellion Cestus [Critical Poison] -->
+  <item>
+     
+    <production id="4805" count="1"/>
+  </item>
+
+  <!-- Bellion Cestus [Rsk. Haste] -->
+  <item>
+     
+    <production id="4806" count="1"/>
+  </item>
+
+  <!-- Samurai Long Sword*Samurai Long Sword -->
+  <item>
+     
+    <production id="2626" count="1"/>
+  </item>
+
+  <!-- Lance [Anger] -->
+  <item>
+     
+    <production id="4858" count="1"/>
+  </item>
+
+  <!-- Lance [Critical Stun] -->
+  <item>
+     
+    <production id="4859" count="1"/>
+  </item>
+
+  <!-- Lance [Long Blow] -->
+  <item>
+     
+    <production id="4860" count="1"/>
+  </item>
+
+  <!-- Staff of Evil Spirits [Bodily Blessing] -->
+  <item>
+    
+    <production id="4901" count="1"/>
+  </item>
+
+  <!-- Staff of Evil Spirits [Magic Focus] -->
+  <item>
+    
+    <production id="4900" count="1"/>
+  </item>
+
+  <!-- Great Sword [Health] -->
+  <item>
+     
+    <production id="4723" count="1"/>
+  </item>
+
+  <!-- Great Sword [Critical Damage] -->
+  <item>
+     
+    <production id="4724" count="1"/>
+  </item>
+
+  <!-- Great Sword [Focus] -->
+  <item>
+     
+    <production id="4725" count="1"/>
+  </item>
+  <item>
+		 
+		<production id="4708" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4709" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4710" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4822" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4823" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4824" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4774" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4775" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4776" count="1" />
+	</item>
+	<item>
+		 
+		<production id="6313" count="1" />
+	</item>
+	<item>
+		 
+		<production id="6314" count="1" />
+	</item>
+	<item>
+		 
+		<production id="6315" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4795" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4796" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4797" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4744" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4745" count="1" />
+	</item>
+	<item>
+		 
+		<production id="4746" count="1" />
+	</item>
+	<item>
+		 
+		<production id="2582" count="1" />
+	</item>
+	<item>
+		 
+		<production id="129" count="1" />
+	</item>
+	<item>
+		 
+		<production id="2499" count="1" />
+	</item>
+	<item>
+		 
+		<production id="130" count="1" />
+	</item>
+	<item>
+		 
+		<production id="297" count="1" />
+	</item>
+	<item>
+		 
+		<production id="294" count="1" />
+	</item>
+	<item>
+		 
+		<production id="295" count="1" />
+	</item>
+	<item>
+		 
+		<production id="262" count="1" />
+	</item>
+	<item>
+		 
+		<production id="7828" count="1" />
+	</item>
+	<item>
+		 
+		<production id="2516" count="1" />
+	</item>
+	<item>
+		 
+		<production id="2537" count="1" />
+	</item>
+	<item>
+		 
+		<production id="238" count="1" />
+	</item>
+	<item>
+		 
+		<production id="241" count="1" />
+	</item>
+	<item>
+		 
+		<production id="225" count="1" />
+	</item>
+	<item>
+		 
+		<production id="224" count="1" />
+	</item>
+	<item>
+		 
+		<production id="280" count="1" />
+	</item>
+	<item>
+		 
+		<production id="279" count="1" />
+	</item>
+	<item>
+		 
+		<production id="189" count="1" />
+	</item>
+	<item>
+		 
+		<production id="158" count="1" />
+	</item>
+	<item>
+		 
+		<production id="169" count="1" />
+	</item>
+	<item>
+		 
+		<production id="7881" count="1" />
+	</item>
+	<item>
+		 
+		<production id="124" count="1" />
+	</item>
+	<item>
+		 
+		<production id="70" count="1" />
+	</item>
+	<item>
+		 
+		<production id="190" count="1" />
+	</item>
+	<item>
+		 
+		<production id="187" count="1" />
+	</item>
+	<item>
+		 
+		<production id="7896" count="1" />
+	</item>
+	
+</list>

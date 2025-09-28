@@ -1,0 +1,1 @@
+INSERT INTO `sunrise_globalconfigs` VALUES ('Features', 'eventNoblessOnRess', 'Enables automatic nobless on revive. The players are renoblessed on event/round start or revive. Put \'true\' or \'false\'.', 'true', '1');

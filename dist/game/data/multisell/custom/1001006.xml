@@ -1,0 +1,532 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<item>
+		
+		
+		<production id="9416" count="1" />
+		<production id="9421" count="1" />
+		<production id="9422" count="1" />
+		<production id="9423" count="1" />
+		<production id="9424" count="1" />
+		<production id="9441" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9420" count="1" />
+		<production id="9421" count="1" />
+		<production id="9422" count="1" />
+		<production id="9423" count="1" />
+		<production id="9424" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9419" count="1" />
+		<production id="9421" count="1" />
+		<production id="9422" count="1" />
+		<production id="9423" count="1" />
+		<production id="9424" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9417" count="1" />
+		<production id="9421" count="1" />
+		<production id="9422" count="1" />
+		<production id="9423" count="1" />
+		<production id="9424" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9418" count="1" />
+		<production id="9421" count="1" />
+		<production id="9422" count="1" />
+		<production id="9423" count="1" />
+		<production id="9424" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9425" count="1" />
+		<production id="9428" count="1" />
+		<production id="9429" count="1" />
+		<production id="9430" count="1" />
+		<production id="9431" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9427" count="1" />
+		<production id="9428" count="1" />
+		<production id="9429" count="1" />
+		<production id="9430" count="1" />
+		<production id="9431" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9426" count="1" />
+		<production id="9428" count="1" />
+		<production id="9429" count="1" />
+		<production id="9430" count="1" />
+		<production id="9431" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="10168" count="1" />
+		<production id="9428" count="1" />
+		<production id="9429" count="1" />
+		<production id="9430" count="1" />
+		<production id="9431" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="10127" count="1" />
+		<production id="9428" count="1" />
+		<production id="9429" count="1" />
+		<production id="9430" count="1" />
+		<production id="9431" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="10214" count="1" />
+		<production id="9428" count="1" />
+		<production id="9429" count="1" />
+		<production id="9430" count="1" />
+		<production id="9431" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9432" count="1" />
+		<production id="9437" count="1" />
+		<production id="9438" count="1" />
+		<production id="9439" count="1" />
+		<production id="9440" count="1" />
+		<production id="12812" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9434" count="1" />
+		<production id="9437" count="1" />
+		<production id="9438" count="1" />
+		<production id="9439" count="1" />
+		<production id="9440" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9433" count="1" />
+		<production id="9437" count="1" />
+		<production id="9438" count="1" />
+		<production id="9439" count="1" />
+		<production id="9440" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9436" count="1" />
+		<production id="9437" count="1" />
+		<production id="9438" count="1" />
+		<production id="9439" count="1" />
+		<production id="9440" count="1" />
+	</item>
+	<item>
+		
+		
+		<production id="9435" count="1" />
+		<production id="9437" count="1" />
+		<production id="9438" count="1" />
+		<production id="9439" count="1" />
+		<production id="9440" count="1" />
+	</item>
+	
+	<!-- Draconic Leather Armor -->
+  <item>
+    
+    <production id="6379" count="1"/>
+    <production id="6381" count="1"/>
+    <production id="6380" count="1"/>
+    <production id="6382" count="1"/>
+  </item>
+
+  <!-- Imperial Crusader Heavy Armor -->
+  <item>
+    
+    <production id="6373" count="1"/>
+    <production id="6374" count="1"/>
+    <production id="6375" count="1"/>
+    <production id="6376" count="1"/>
+    <production id="6378" count="1"/>
+	<production id="6377" count="1"/>
+  </item>
+
+  <!-- Major Arcana Robe Armor -->
+  <item>
+    
+    <production id="6383" count="1"/>
+    <production id="6384" count="1"/>
+    <production id="6385" count="1"/>
+    <production id="6386" count="1"/>
+	<production id="12811" count="1"/>
+  </item>
+  
+  <!-- Majestic Heavy Armor -->
+  <item>
+    
+    <production id="2383" count="1"/>
+    <production id="2419" count="1"/>
+    <production id="5774" count="1"/>
+    <production id="5786" count="1"/>
+  </item>
+
+  <!-- Majestic Leather Armor -->
+  <item>
+    
+    <production id="2395" count="1"/>
+    <production id="2419" count="1"/>
+    <production id="5775" count="1"/>
+    <production id="5787" count="1"/>
+  </item>
+
+  <!-- Majestic Robe Armor -->
+  <item>
+    
+    <production id="2409" count="1"/>
+    <production id="2419" count="1"/>
+    <production id="5776" count="1"/>
+    <production id="5788" count="1"/>
+  </item>
+
+  <!-- Tallum Heavy Armor -->
+  <item>
+    
+    <production id="2382" count="1"/>
+    <production id="547" count="1"/>
+    <production id="5768" count="1"/>
+    <production id="5780" count="1"/>
+  </item>
+
+  <!-- Tallum Leather Armor -->
+  <item>
+    
+    <production id="2393" count="1"/>
+    <production id="547" count="1"/>
+    <production id="5769" count="1"/>
+    <production id="5781" count="1"/>
+  </item>
+
+  <!-- Tallum Robe Armor -->
+  <item>
+    
+    <production id="2400" count="1"/>
+    <production id="2405" count="1"/>
+    <production id="547" count="1"/>
+    <production id="5770" count="1"/>
+    <production id="5782" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Heavy Armor -->
+  <item>
+    
+    <production id="365" count="1"/>
+    <production id="388" count="1"/>
+    <production id="512" count="1"/>
+    <production id="5765" count="1"/>
+    <production id="5777" count="1"/>
+    <production id="641" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Light Armor -->
+  <item>
+    
+    <production id="2385" count="1"/>
+    <production id="2389" count="1"/>
+    <production id="512" count="1"/>
+    <production id="5766" count="1"/>
+    <production id="5778" count="1"/>
+  </item>
+
+  <!-- Dark Crystal Robe Armor -->
+  <item>
+    
+    <production id="2407" count="1"/>
+    <production id="512" count="1"/>
+    <production id="5767" count="1"/>
+    <production id="5779" count="1"/>
+  </item>
+
+  <!-- Nightmare Heavy Armor -->
+  <item>
+    
+    <production id="374" count="1"/>
+    <production id="2418" count="1"/>
+    <production id="5771" count="1"/>
+    <production id="5783" count="1"/>
+    <production id="2498" count="1"/>
+  </item>
+
+  <!-- Nightmare Leather Armor -->
+  <item>
+    
+    <production id="2394" count="1"/>
+    <production id="2418" count="1"/>
+    <production id="5772" count="1"/>
+    <production id="5784" count="1"/>
+  </item>
+
+  <!-- Nightmare Robe Armor -->
+  <item>
+    
+    <production id="2408" count="1"/>
+    <production id="2418" count="1"/>
+    <production id="5773" count="1"/>
+    <production id="5785" count="1"/>
+  </item>
+
+    <!-- Apella Heavy -->
+  <item>
+    
+    <production id="7861" count="1"/>
+    <production id="7860" count="1"/>
+    <production id="7862" count="1"/>
+    <production id="7863" count="1"/>
+  </item>
+  
+    <!-- Apella Light -->
+  <item>
+    
+    <production id="7864" count="1"/>
+    <production id="7860" count="1"/>
+    <production id="7865" count="1"/>
+    <production id="7866" count="1"/>
+  </item>
+  
+    <!-- Apella Robe -->
+  <item>
+    
+    <production id="7867" count="1"/>
+    <production id="7860" count="1"/>
+    <production id="7868" count="1"/>
+    <production id="7869" count="1"/>
+  </item>
+  
+  <!-- Blue Wolf Heavy Armor -->
+  <item>
+    
+    <production id="358" count="1"/>
+    <production id="2380" count="1"/>
+    <production id="5718" count="1"/>
+    <production id="5734" count="1"/>
+    <production id="2416" count="1"/>
+    <production id="673" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Leather Armor -->
+  <item>
+    
+    <production id="2391" count="1"/>
+    <production id="2416" count="1"/>
+    <production id="5719" count="1"/>
+    <production id="5735" count="1"/>
+  </item>
+
+  <!-- Blue Wolf Robe Armor -->
+  <item>
+    
+    <production id="2398" count="1"/>
+    <production id="2403" count="1"/>
+    <production id="2416" count="1"/>
+    <production id="5736" count="1"/>
+    <production id="5720" count="1"/>
+  </item>
+
+  <!-- Avadon Heavy Armor -->
+  <item>
+    
+    <production id="2376" count="1"/>
+    <production id="2379" count="1"/>
+    <production id="2415" count="1"/>
+    <production id="5714" count="1"/>
+    <production id="5730" count="1"/>
+    <production id="673" count="1"/>
+  </item>
+
+  <!-- Avadon Leather Armor -->
+  <item>
+    
+    <production id="2390" count="1"/>
+    <production id="2415" count="1"/>
+    <production id="5715" count="1"/>
+    <production id="5731" count="1"/>
+  </item>
+
+  <!-- Avadon Robe Armor -->
+  <item>
+    
+    <production id="2406" count="1"/>
+    <production id="673" count="1"/>
+    <production id="2415" count="1"/>
+    <production id="5716" count="1"/>
+    <production id="5732" count="1"/>
+  </item>
+
+  <!-- Doom Heavy Armor -->
+  <item>
+    
+    <production id="2381" count="1"/>
+    <production id="2417" count="1"/>
+    <production id="5722" count="1"/>
+    <production id="5738" count="1"/>
+    <production id="110" count="1"/>
+  </item>
+
+  <!-- Doom Leather Armor -->
+  <item>
+    
+    <production id="2392" count="1"/>
+    <production id="2417" count="1"/>
+    <production id="5723" count="1"/>
+    <production id="5739" count="1"/>
+  </item>
+
+  <!-- Doom Robe Armor -->
+  <item>
+    
+    <production id="2399" count="1"/>
+    <production id="2404" count="1"/>
+    <production id="2417" count="1"/>
+    <production id="5724" count="1"/>
+    <production id="5740" count="1"/>
+  </item>
+
+  <!-- Zubei's Heavy Armor -->
+  <item>
+    
+    <production id="357" count="1"/>
+    <production id="383" count="1"/>
+    <production id="503" count="1"/>
+    <production id="5710" count="1"/>
+    <production id="5726" count="1"/>
+    <production id="633" count="1"/>
+  </item>
+
+  <!-- Zubei's Leather Armor -->
+  <item>
+    
+    <production id="2384" count="1"/>
+    <production id="2388" count="1"/>
+    <production id="503" count="1"/>
+    <production id="5711" count="1"/>
+    <production id="5727" count="1"/>
+  </item>
+
+  <!-- Zubei's Robe Armor -->
+  <item>
+    
+    <production id="2397" count="1"/>
+    <production id="503" count="1"/>
+    <production id="2402" count="1"/>
+    <production id="5712" count="1"/>
+    <production id="5728" count="1"/>
+  </item>
+  
+  <item>
+		
+		<production id="439" count="1" />
+		<production id="471" count="1" />
+		<production id="2430" count="1" />
+		<production id="2454" count="1" />
+	</item>
+	<item>
+		
+		<production id="441" count="1" />
+		<production id="472" count="1" />
+		<production id="2435" count="1" />
+		<production id="2459" count="1" />
+	</item>
+	<item>
+		
+		<production id="60" count="1" />
+		<production id="568" count="1" />
+		<production id="517" count="1" />
+		<production id="107" count="1" />
+	</item>
+	<item>
+		
+		<production id="356" count="1" />
+		<production id="2438" count="1" />
+		<production id="2462" count="1" />
+		<production id="2414" count="1" />
+		<production id="2497" count="1" />
+	</item>
+	<item>
+		
+		<production id="400" count="1" />
+		<production id="420" count="1" />
+		<production id="2436" count="1" />
+		<production id="2460" count="1" />
+	</item>
+	<item>
+		
+		<production id="401" count="1" />
+		<production id="2437" count="1" />
+		<production id="2461" count="1" />
+	</item>
+	
+	<item>
+		
+		<production id="58" count="1" />
+		<production id="59" count="1" />
+		<production id="47" count="1" />
+		<production id="628" count="1" />
+	</item>
+	<item>
+		
+		<production id="352" count="1" />
+		<production id="2378" count="1" />
+		<production id="2411" count="1" />
+		<production id="2425" count="1" />
+		<production id="2449" count="1" />
+		<production id="2493" count="1" />
+	</item>
+	<item>
+		
+		<production id="394" count="1" />
+		<production id="416" count="1" />
+		<production id="2422" count="1" />
+		<production id="2446" count="1" />
+	</item>
+	<item>
+		
+		<production id="395" count="1" />
+		<production id="417" count="1" />
+		<production id="2424" count="1" />
+		<production id="2448" count="1" />
+	</item>
+	<item>
+		
+		<production id="436" count="1" />
+		<production id="469" count="1" />
+		<production id="2447" count="1" />
+	</item>
+	<item>
+		
+		<production id="437" count="1" />
+		<production id="470" count="1" />
+		<production id="2450" count="1" />
+	</item>
+	
+</list>

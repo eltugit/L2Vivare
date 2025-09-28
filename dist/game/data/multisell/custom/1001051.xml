@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Elegia Cuirass -->
+<item>
+<ingredient id="100108" count="1000" />
+<production id="16168" count="1" enchantmentLevel="16"/>
+<production id="15572" count="1" enchantmentLevel="16"/>
+<production id="15578" count="1" enchantmentLevel="16"/>
+<production id="15581" count="1" enchantmentLevel="16"/>
+<production id="15584" count="1" enchantmentLevel="16"/>
+<production id="15587" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Elegia Hauberk -->
+<item>
+<ingredient id="100108" count="1000" />
+<production id="16169" count="1" enchantmentLevel="16"/>
+<production id="15573" count="1" enchantmentLevel="16"/>
+<production id="15579" count="1" enchantmentLevel="16"/>
+<production id="15582" count="1" enchantmentLevel="16"/>
+<production id="15585" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Elegia Tunic -->
+<item>
+<ingredient id="100108" count="1000" />
+<production id="16170" count="1" enchantmentLevel="16"/>
+<production id="15574" count="1" enchantmentLevel="16"/>
+<production id="15580" count="1" enchantmentLevel="16"/>
+<production id="15583" count="1" enchantmentLevel="16"/>
+<production id="15586" count="1" enchantmentLevel="16"/>
+<production id="15588" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Vorpal Cuirass -->
+<item>
+<ingredient id="100108" count="1000" />
+<production id="16171" count="1" enchantmentLevel="16"/>
+<production id="15589" count="1" enchantmentLevel="16"/>
+<production id="15595" count="1" enchantmentLevel="16"/>
+<production id="15598" count="1" enchantmentLevel="16"/>
+<production id="15601" count="1" enchantmentLevel="16"/>
+<production id="15604" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Vorpal Hauberk -->
+<item>
+<ingredient id="100108" count="1000" />
+<production id="16172" count="1" enchantmentLevel="16"/>
+<production id="15590" count="1" enchantmentLevel="16"/>
+<production id="15596" count="1" enchantmentLevel="16"/>
+<production id="15599" count="1" enchantmentLevel="16"/>
+<production id="15602" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Vorpal Tunic -->
+<item>
+<ingredient id="100108" count="1000" />
+<production id="16173" count="1" enchantmentLevel="16"/>
+<production id="15591" count="1" enchantmentLevel="16"/>
+<production id="15597" count="1" enchantmentLevel="16"/>
+<production id="15600" count="1" enchantmentLevel="16"/>
+<production id="15603" count="1" enchantmentLevel="16"/>
+<production id="15605" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Vesper Noble Breastplate -->
+	<item>
+		<ingredient id="100108" count="1000" />
+		<production id="14523" count="1" enchantmentLevel="16"/>
+		<production id="16837" count="1" enchantmentLevel="16"/>
+		<production id="16843" count="1" enchantmentLevel="16"/>
+		<production id="16846" count="1" enchantmentLevel="16"/>
+		<production id="16849" count="1" enchantmentLevel="16"/>
+		<production id="16321" count="1" enchantmentLevel="16"/>
+	</item>
+
+	<!-- Vesper Noble Leather Breastplate -->
+	<item>
+		<ingredient id="100108" count="1000" />
+		<production id="14524" count="1" enchantmentLevel="16"/>
+		<production id="16838" count="1" enchantmentLevel="16"/>
+		<production id="16844" count="1" enchantmentLevel="16"/>
+		<production id="16847" count="1" enchantmentLevel="16"/>
+		<production id="16850" count="1" enchantmentLevel="16"/>
+	</item>
+
+	<!-- Vesper Noble Tunic -->
+	<item>
+		<ingredient id="100108" count="1000" />
+		<production id="14525" count="1" enchantmentLevel="16"/>
+		<production id="16839" count="1" enchantmentLevel="16"/>
+		<production id="16845" count="1" enchantmentLevel="16"/>
+		<production id="16848" count="1" enchantmentLevel="16"/>
+		<production id="16851" count="1" enchantmentLevel="16"/>
+		<production id="16322" count="1" enchantmentLevel="16"/>
+	</item>
+	<!-- Moirai Noble Breastplate -->
+	<item>
+		<ingredient id="100108" count="1000" />
+		<production id="16174" count="1" enchantmentLevel="16"/>
+		<production id="16289" count="1" enchantmentLevel="16"/>
+		<production id="16295" count="1" enchantmentLevel="16"/>
+		<production id="16298" count="1" enchantmentLevel="16"/>
+		<production id="16301" count="1" enchantmentLevel="16"/>
+		<production id="16304" count="1" enchantmentLevel="16"/>
+	</item>
+
+	<!-- Moirai Noble Leather Breastplate -->
+	<item>
+		<ingredient id="100108" count="1000" />
+		<production id="16175" count="1" enchantmentLevel="16"/>
+		<production id="16290" count="1" enchantmentLevel="16"/>
+		<production id="16296" count="1" enchantmentLevel="16"/>
+		<production id="16299" count="1" enchantmentLevel="16"/>
+		<production id="16302" count="1" enchantmentLevel="16"/>
+	</item>
+
+	<!-- Moirai Noble Tunic -->
+	<item>
+		<ingredient id="100108" count="1000" />
+		<production id="16176" count="1" enchantmentLevel="16"/>
+		<production id="16291" count="1" enchantmentLevel="16"/>
+		<production id="16297" count="1" enchantmentLevel="16"/>
+		<production id="16300" count="1" enchantmentLevel="16"/>
+		<production id="16303" count="1" enchantmentLevel="16"/>
+		<production id="16305" count="1" enchantmentLevel="16"/>
+	</item>
+	
+</list>

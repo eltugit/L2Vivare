@@ -1,0 +1,3 @@
+Character Info: [Character: Dizzy[268522212] - Account: bats22 - IP: 213.230.114.2]
+Bug Type: Fatal
+Message: 212 

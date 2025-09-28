@@ -1,0 +1,3 @@
+Character Info: [Character: Chengdu[268480146] - Account: mazine - IP: 81.249.238.202]
+Bug Type: General
+Message: Daggers miss skills 

@@ -1,0 +1,3 @@
+Character Info: [Character: Pitufina[268827176] - Account: thoner07 - IP: 85.84.102.168]
+Bug Type: General
+Message: Se mueven las screens de buff 

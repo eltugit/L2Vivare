@@ -1,0 +1,3 @@
+Character Info: [Character: White[268535877] - Account: matiksg - IP: 5.173.96.151]
+Bug Type: Balance
+Message: cdl not found storm screamer 

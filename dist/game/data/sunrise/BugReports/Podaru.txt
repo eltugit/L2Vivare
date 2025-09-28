@@ -1,0 +1,3 @@
+Character Info: [Character: Podaru[268482167] - Account: podaru - IP: 95.150.247.0]
+Bug Type: Fatal
+Message: counter critical is not working 

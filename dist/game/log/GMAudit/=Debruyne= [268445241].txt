@@ -1,0 +1,605 @@
+22/09/2025 10:59:59>=Debruyne= [268445241]>L2ItemInstance(id: 100142 count: 0 itemObjId: 268445933)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 10:59:59>=Debruyne= [268445241]>L2ItemInstance(id: 100111 count: 0 itemObjId: 268446949)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:00:29>=Debruyne= [268445241]>admin>no-target>
+22/09/2025 11:00:30>=Debruyne= [268445241]>admin_admin7>no-target>
+22/09/2025 11:00:31>=Debruyne= [268445241]>admin_invis_menu>no-target>
+22/09/2025 11:02:05>=Debruyne= [268445241]>reload html>no-target>
+22/09/2025 11:04:47>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:05:42>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:05:48>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:06:06>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:06:35>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:06:52>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:07:11>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:07:23>=Debruyne= [268445241]>admin>no-target>
+22/09/2025 11:07:41>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:08:17>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:08:41>=Debruyne= [268445241]>reload html>no-target>
+22/09/2025 11:08:44>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:08:56>=Debruyne= [268445241]>setnoble>=Debruyne=>
+22/09/2025 11:11:39>=Debruyne= [268445241]>reload multisell>Grand Olympiad Manager>
+22/09/2025 11:13:12>=Debruyne= [268445241]>reload multisell>Grand Olympiad Manager>
+22/09/2025 11:14:57>=Debruyne= [268445241]>reload multisell>Grand Olympiad Manager>
+22/09/2025 11:16:07>=Debruyne= [268445241]>reload multisell>Grand Olympiad Manager>
+22/09/2025 11:16:23>=Debruyne= [268445241]>summon 100145 1>Grand Olympiad Manager>
+22/09/2025 11:16:23>=Debruyne= [268445241]>Admin(id: 100145 count: 1 name: Talisman Reward Box objId: 268445433)>Grand Olympiad Manager>L2Object referencing this action is: no-reference
+22/09/2025 11:16:25>=Debruyne= [268445241]>Extract(id: 100143 count: 1 name: Talisman - Paralyze Resistance objId: 268445434)>Grand Olympiad Manager>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:16:25>=Debruyne= [268445241]>Consume(id: 100145 count: 0 itemObjId: 268445433)>Grand Olympiad Manager>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:16:56>=Debruyne= [268445241]>L2ItemInstance(id: 100143 count: 0 itemObjId: 268445434)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:19:09>=Debruyne= [268445241]>reload multisell>no-target>
+22/09/2025 11:20:54>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:22:10>=Debruyne= [268445241]>summon 1029163 1>no-target>
+22/09/2025 11:25:08>=Debruyne= [268445241]>reload multisell>Tiat>
+22/09/2025 11:25:24>=Debruyne= [268445241]>reload npc>Tiat>
+22/09/2025 11:25:44>=Debruyne= [268445241]>delete>Tiat>
+22/09/2025 11:26:40>=Debruyne= [268445241]>admin>no-target>
+22/09/2025 11:26:40>=Debruyne= [268445241]>admin_move_to>no-target>
+22/09/2025 11:26:55>=Debruyne= [268445241]>admin_html teleports/WorldAreas.htm>no-target>
+22/09/2025 11:27:08>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:29:21>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:29:52>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 11:31:38>=Debruyne= [268445241]>reload html>no-target>
+22/09/2025 11:32:25>=Debruyne= [268445241]>reload html>no-target>
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 100105 count: 0 itemObjId: 268445574)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 100105 objId: 268445292 name: Festival Adena count: 5000)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 100106 count: 0 itemObjId: 268445575)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 100106 objId: 268445293 name: Golden Apiga count: 5000)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 100103 name: Event Medal)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 9627 name: Giant's Codex - Mastery)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 100101 count: 0 itemObjId: 268445578)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 100101 objId: 268445294 name: Billion Bar count: 5)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 20519 count: 0 itemObjId: 268445579)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 20519 objId: 268445323 name: Ancient Weapon Enchant Crystal (S-Grade) count: 3)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 20520 name: Ancient Armor Enchant Crystal (S-Grade))>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 21582 count: 0 itemObjId: 268445581)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:18>=Debruyne= [268445241]>Mail(id: 21582 objId: 268445891 name: Blessed Olf's T-shirt Enchant Scroll count: 1)>no-target>L2Object referencing this action is: no-reference
+22/09/2025 11:36:28>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+22/09/2025 18:04:11>=Debruyne= [268445241]>admin>no-target>
+22/09/2025 18:04:11>=Debruyne= [268445241]>admin_admin7>no-target>
+22/09/2025 18:04:12>=Debruyne= [268445241]>admin_gmspeed_menu 3>no-target>
+24/09/2025 9:32:21>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 9:32:22>=Debruyne= [268445241]>admin_admin7>no-target>
+24/09/2025 9:32:23>=Debruyne= [268445241]>admin_invis_menu>no-target>
+24/09/2025 9:32:40>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 9:32:41>=Debruyne= [268445241]>admin_admin7>no-target>
+24/09/2025 9:32:42>=Debruyne= [268445241]>admin_invis_menu>no-target>
+24/09/2025 9:35:32>=Debruyne= [268445241]>summon 13518 1>no-target>
+24/09/2025 9:35:32>=Debruyne= [268445241]>Admin(id: 13518 count: 1 name: Event - Top Hat objId: 268445286)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 9:41:07>=Debruyne= [268445241]>reload npc>no-target>
+24/09/2025 9:41:19>=Debruyne= [268445241]>instant_move>no-target>
+24/09/2025 9:42:57>=Debruyne= [268445241]>reload npc>Point Manager>
+24/09/2025 9:43:01>=Debruyne= [268445241]>instant_move>Point Manager>
+24/09/2025 9:43:58>=Debruyne= [268445241]>spawn 541>no-target>
+24/09/2025 9:44:11>=Debruyne= [268445241]>delete>Castle Manager>
+24/09/2025 9:44:28>=Debruyne= [268445241]>delete>Castle Manager>
+24/09/2025 9:46:00>=Debruyne= [268445241]>reload npc>no-target>
+24/09/2025 9:46:02>=Debruyne= [268445241]>instant_move>no-target>
+24/09/2025 9:46:46>=Debruyne= [268445241]>spawn 573>no-target>
+24/09/2025 9:46:59>=Debruyne= [268445241]>delete>Donate Manager>
+24/09/2025 9:47:05>=Debruyne= [268445241]>delete>Donate Manager>
+24/09/2025 9:47:43>=Debruyne= [268445241]>spawn 558>no-target>
+24/09/2025 9:47:57>=Debruyne= [268445241]>delete>Market Manager>
+24/09/2025 9:48:30>=Debruyne= [268445241]>spawn 575>no-target>
+24/09/2025 9:48:33>=Debruyne= [268445241]>delete>Noblesse Manager>
+24/09/2025 9:48:47>=Debruyne= [268445241]>spawn 560>no-target>
+24/09/2025 9:48:59>=Debruyne= [268445241]>delete>Delevel Manager>
+24/09/2025 9:55:40>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 9:55:41>=Debruyne= [268445241]>admin_admin7>no-target>
+24/09/2025 9:55:41>=Debruyne= [268445241]>admin_invis_menu>no-target>
+24/09/2025 9:58:17>=Debruyne= [268445241]>reload npc>Certification Manager>
+24/09/2025 9:58:20>=Debruyne= [268445241]>instant_move>Certification Manager>
+24/09/2025 9:59:28>=Debruyne= [268445241]>reload npc>Donate Manager>
+24/09/2025 9:59:29>=Debruyne= [268445241]>instant_move>Donate Manager>
+24/09/2025 10:00:26>=Debruyne= [268445241]>reload npc>Exclusive Manager>
+24/09/2025 10:00:28>=Debruyne= [268445241]>instant_move>Exclusive Manager>
+24/09/2025 10:01:41>=Debruyne= [268445241]>summon 100112 1>Donate Manager>
+24/09/2025 10:01:41>=Debruyne= [268445241]>Admin(id: 100112 count: 1 name: Talisman - STR objId: 268445338)>Donate Manager>L2Object referencing this action is: no-reference
+24/09/2025 10:01:58>=Debruyne= [268445241]>Multisell(id: 100101 objId: 268445294 name: Billion Bar count: -11)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 10:01:58>=Debruyne= [268445241]>Multisell(id: 57 objId: 268445242 name: Adena count: 11000000000)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 10:02:05>=Debruyne= [268445241]>Multisell(id: 57 objId: 268445242 name: Adena count: -100000000)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 10:02:05>=Debruyne= [268445241]>Multisell(id: 10210 count: 1 name: Enhanced Mithril Bracelet objId: 268445341)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 10:03:18>=Debruyne= [268445241]>reload multisell>Donate Manager>
+24/09/2025 10:03:20>=Debruyne= [268445241]>reload html>Donate Manager>
+24/09/2025 10:03:31>=Debruyne= [268445241]>DonateShop(id: 100108 objId: 268445337 name: Donate Coin count: -1500)>Donate Manager>L2Object referencing this action is: =Debruyne=
+24/09/2025 10:03:39>=Debruyne= [268445241]>DonateShop(id: 100108 objId: 268445337 name: Donate Coin count: -1000)>Donate Manager>L2Object referencing this action is: =Debruyne=
+24/09/2025 10:03:53>=Debruyne= [268445241]>DonateShop(id: 100108 objId: 268445337 name: Donate Coin count: -1000)>Donate Manager>L2Object referencing this action is: =Debruyne=
+24/09/2025 10:03:58>=Debruyne= [268445241]>DonateShop(id: 100108 objId: 268445337 name: Donate Coin count: -1000)>Donate Manager>L2Object referencing this action is: =Debruyne=
+24/09/2025 10:05:23>=Debruyne= [268445241]>reload multisell>Donate Manager>
+24/09/2025 10:05:29>=Debruyne= [268445241]>reload html>Donate Manager>
+24/09/2025 10:06:33>=Debruyne= [268445241]>summon 100111 1>Donate Manager>
+24/09/2025 10:06:33>=Debruyne= [268445241]>Admin(id: 100111 count: 1 name: Vivare of Bracelet objId: 268445385)>Donate Manager>L2Object referencing this action is: no-reference
+24/09/2025 10:06:45>=Debruyne= [268445241]>summon 43223 1>Donate Manager>
+24/09/2025 10:06:45>=Debruyne= [268445241]>Admin(id: 43223 count: 1 name: Vote Bracelet 12 hours objId: 268445386)>Donate Manager>L2Object referencing this action is: no-reference
+24/09/2025 10:06:51>=Debruyne= [268445241]>summon 17049 1>Donate Manager>
+24/09/2025 10:06:51>=Debruyne= [268445241]>Admin(id: 17049 count: 1 name: Enhanced Mithril Bracelet objId: 268445387)>Donate Manager>L2Object referencing this action is: no-reference
+24/09/2025 10:07:13>=Debruyne= [268445241]>Destroy(id: 17049 count: 0 itemObjId: 268445387)>Donate Manager>L2Object referencing this action is: no-reference
+24/09/2025 10:08:10>=Debruyne= [268445241]>admin>Donate Manager>
+24/09/2025 10:08:11>=Debruyne= [268445241]>admin_admin7>Donate Manager>
+24/09/2025 10:08:12>=Debruyne= [268445241]>admin_gmspeed_menu 0>Donate Manager>
+24/09/2025 10:11:00>=Debruyne= [268445241]>reload item>Donate Manager>
+24/09/2025 10:13:35>=Debruyne= [268445241]>reload html>Donate Manager>
+24/09/2025 10:14:24>=Debruyne= [268445241]>reload html>Donate Manager>
+24/09/2025 10:16:55>=Debruyne= [268445241]>reload html>Donate Manager>
+24/09/2025 10:16:57>=Debruyne= [268445241]>reload multisell>Donate Manager>
+24/09/2025 10:17:17>=Debruyne= [268445241]>reload multisell>Donate Manager>
+24/09/2025 10:27:43>=Debruyne= [268445241]>reload config>Donate Manager>
+24/09/2025 10:28:30>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 10:28:30>=Debruyne= [268445241]>admin_admin7>no-target>
+24/09/2025 10:28:31>=Debruyne= [268445241]>admin_gmspeed_menu 3>no-target>
+24/09/2025 10:28:32>=Debruyne= [268445241]>admin_invis_menu>no-target>
+24/09/2025 10:29:37>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 10:29:58>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 10:30:07>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 10:33:34>=Debruyne= [268445241]>spawn 9999>no-target>
+24/09/2025 10:33:39>=Debruyne= [268445241]>delete>Event Register>
+24/09/2025 10:34:29>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 10:34:31>=Debruyne= [268445241]>admin_admin7>no-target>
+24/09/2025 10:34:35>=Debruyne= [268445241]>admin_admin2>no-target>
+24/09/2025 10:34:36>=Debruyne= [268445241]>admin_admin6>no-target>
+24/09/2025 10:34:37>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 10:34:38>=Debruyne= [268445241]>admin_spawn_monster>no-target>
+24/09/2025 10:34:40>=Debruyne= [268445241]>admin_show_npcs>no-target>
+24/09/2025 10:35:14>=Debruyne= [268445241]>summon 1013086 1>no-target>
+24/09/2025 10:36:21>=Debruyne= [268445241]>reload npc>Zariche>
+24/09/2025 10:36:25>=Debruyne= [268445241]>delete>Zariche>
+24/09/2025 10:36:27>=Debruyne= [268445241]>instant_move>no-target>
+24/09/2025 10:37:00>=Debruyne= [268445241]>admin_recall_npc>PvP Manager>
+24/09/2025 10:37:09>=Debruyne= [268445241]>admin_recall_npc>PvP Manager>
+24/09/2025 10:37:15>=Debruyne= [268445241]>admin_recall_npc>PvP Manager>
+24/09/2025 10:38:32>=Debruyne= [268445241]>reload npc>Point Manager>
+24/09/2025 10:38:34>=Debruyne= [268445241]>instant_move>Point Manager>
+24/09/2025 10:39:02>=Debruyne= [268445241]>admin_recall_npc>Castle Manager>
+24/09/2025 10:39:09>=Debruyne= [268445241]>admin_recall_npc>Castle Manager>
+24/09/2025 10:39:12>=Debruyne= [268445241]>admin_recall_npc>Castle Manager>
+24/09/2025 10:39:18>=Debruyne= [268445241]>admin_recall_npc>Castle Manager>
+24/09/2025 10:41:50>=Debruyne= [268445241]>delete>Santa Claus>
+24/09/2025 10:43:02>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 10:43:03>=Debruyne= [268445241]>admin_admin7>no-target>
+24/09/2025 10:43:03>=Debruyne= [268445241]>admin_invis_menu>no-target>
+24/09/2025 10:43:24>=Debruyne= [268445241]>spawn 12006>no-target>
+24/09/2025 10:43:49>=Debruyne= [268445241]>reload npc>no-target>
+24/09/2025 10:43:51>=Debruyne= [268445241]>instant_move>no-target>
+24/09/2025 10:43:57>=Debruyne= [268445241]>delete>Epic Access>
+24/09/2025 10:45:05>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 10:45:06>=Debruyne= [268445241]>admin_admin7>no-target>
+24/09/2025 10:45:07>=Debruyne= [268445241]>admin_event_manage>no-target>
+24/09/2025 10:45:08>=Debruyne= [268445241]>admin_event_manage edit_events_menu edit_events_menu>no-target>
+24/09/2025 10:45:09>=Debruyne= [268445241]>admin_event_manage edit_event TvT>no-target>
+24/09/2025 10:45:11>=Debruyne= [268445241]>admin_event_manage edit_event TvT Rewards>no-target>
+24/09/2025 10:45:12>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu TvT Winner>no-target>
+24/09/2025 10:48:09>=Debruyne= [268445241]>admin_event_manage edit_event_reward 2>no-target>
+24/09/2025 10:48:11>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_min 30>no-target>
+24/09/2025 10:48:13>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_max 30>no-target>
+24/09/2025 10:48:14>=Debruyne= [268445241]>admin_event_manage edit_event_reward_save>no-target>
+24/09/2025 10:48:15>=Debruyne= [268445241]>admin_event_manage edit_event_reward 3>no-target>
+24/09/2025 10:48:27>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_min 10>no-target>
+24/09/2025 10:48:29>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_max 10>no-target>
+24/09/2025 10:48:30>=Debruyne= [268445241]>admin_event_manage edit_event_reward_save>no-target>
+24/09/2025 10:49:04>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu TvT Looser>no-target>
+24/09/2025 10:49:05>=Debruyne= [268445241]>admin_event_manage edit_event_reward 1>no-target>
+24/09/2025 10:49:06>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_min 15>no-target>
+24/09/2025 10:49:06>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_max 15>no-target>
+24/09/2025 10:49:07>=Debruyne= [268445241]>admin_event_manage edit_event_reward_save>no-target>
+24/09/2025 10:49:09>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu TvT Winner>no-target>
+24/09/2025 10:49:11>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu TvT Looser>no-target>
+24/09/2025 10:49:53>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu TvT Winner>no-target>
+24/09/2025 10:49:54>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu TvT Looser>no-target>
+24/09/2025 10:49:56>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu TvT Winner>no-target>
+24/09/2025 10:50:50>=Debruyne= [268445241]>admin_event_manage edit_events_menu edit_events_menu>no-target>
+24/09/2025 10:50:51>=Debruyne= [268445241]>admin_event_manage edit_event CTF>no-target>
+24/09/2025 10:50:53>=Debruyne= [268445241]>admin_event_manage edit_event CTF Rewards>no-target>
+24/09/2025 10:50:53>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu CTF Winner>no-target>
+24/09/2025 10:50:54>=Debruyne= [268445241]>admin_event_manage edit_event_reward 1>no-target>
+24/09/2025 10:50:57>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_min 30>no-target>
+24/09/2025 10:50:58>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_max 30>no-target>
+24/09/2025 10:50:59>=Debruyne= [268445241]>admin_event_manage edit_event_reward_save>no-target>
+24/09/2025 10:51:00>=Debruyne= [268445241]>admin_event_manage edit_event_reward 3>no-target>
+24/09/2025 10:51:02>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_min 10>no-target>
+24/09/2025 10:51:04>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_max 10>no-target>
+24/09/2025 10:51:04>=Debruyne= [268445241]>admin_event_manage edit_event_reward_save>no-target>
+24/09/2025 10:51:06>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu CTF Looser>no-target>
+24/09/2025 10:51:07>=Debruyne= [268445241]>admin_event_manage edit_event_reward 2>no-target>
+24/09/2025 10:51:07>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_min 15>no-target>
+24/09/2025 10:51:08>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_max 15>no-target>
+24/09/2025 10:51:09>=Debruyne= [268445241]>admin_event_manage edit_event_reward_save>no-target>
+24/09/2025 10:51:10>=Debruyne= [268445241]>admin_event_manage edit_events_menu edit_events_menu>no-target>
+24/09/2025 10:51:11>=Debruyne= [268445241]>admin_event_manage edit_event Domination>no-target>
+24/09/2025 10:51:14>=Debruyne= [268445241]>admin_event_manage edit_events_menu edit_events_menu>no-target>
+24/09/2025 10:51:15>=Debruyne= [268445241]>admin_event_manage edit_event DM>no-target>
+24/09/2025 10:51:17>=Debruyne= [268445241]>admin_event_manage edit_event DM Rewards>no-target>
+24/09/2025 10:51:18>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu DM Numbered 1>no-target>
+24/09/2025 10:51:21>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu DM Numbered 2>no-target>
+24/09/2025 10:51:23>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu DM Numbered 3>no-target>
+24/09/2025 10:51:25>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu DM Numbered 5>no-target>
+24/09/2025 10:51:27>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu DM Numbered 6>no-target>
+24/09/2025 10:51:28>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu DM Numbered 7>no-target>
+24/09/2025 10:51:29>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu DM Numbered 8>no-target>
+24/09/2025 10:51:30>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu DM Numbered 9>no-target>
+24/09/2025 10:51:31>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu DM Numbered 10>no-target>
+24/09/2025 10:51:33>=Debruyne= [268445241]>admin_event_manage mini_edit_event 5>no-target>
+24/09/2025 10:51:35>=Debruyne= [268445241]>admin_event_manage edit_events_menu edit_events_menu>no-target>
+24/09/2025 10:51:37>=Debruyne= [268445241]>admin_event_manage edit_event HuntGround>no-target>
+24/09/2025 10:51:39>=Debruyne= [268445241]>admin_event_manage edit_event HuntGround Rewards>no-target>
+24/09/2025 10:51:40>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu HuntGround Winner>no-target>
+24/09/2025 10:51:41>=Debruyne= [268445241]>admin_event_manage edit_event_reward 1>no-target>
+24/09/2025 10:51:43>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_min 30>no-target>
+24/09/2025 10:51:44>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_max 30>no-target>
+24/09/2025 10:51:46>=Debruyne= [268445241]>admin_event_manage edit_event_reward_save>no-target>
+24/09/2025 10:51:47>=Debruyne= [268445241]>admin_event_manage edit_event_reward 3>no-target>
+24/09/2025 10:51:49>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_min 10>no-target>
+24/09/2025 10:51:51>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_max 10>no-target>
+24/09/2025 10:51:51>=Debruyne= [268445241]>admin_event_manage edit_event_reward_save>no-target>
+24/09/2025 10:51:53>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu HuntGround Looser>no-target>
+24/09/2025 10:51:53>=Debruyne= [268445241]>admin_event_manage edit_event_reward 2>no-target>
+24/09/2025 10:51:55>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_min 15>no-target>
+24/09/2025 10:51:56>=Debruyne= [268445241]>admin_event_manage edit_event_reward_set_max 15>no-target>
+24/09/2025 10:51:56>=Debruyne= [268445241]>admin_event_manage edit_event_reward_save>no-target>
+24/09/2025 10:51:58>=Debruyne= [268445241]>admin_event_manage edit_event_reward_menu HuntGround Winner>no-target>
+24/09/2025 10:52:04>=Debruyne= [268445241]>admin_event_manage edit_events_menu edit_events_menu>no-target>
+24/09/2025 10:59:37>=Debruyne= [268445241]>pz_advance>no-target>
+24/09/2025 11:00:53>=Debruyne= [268445241]>reload npc>Taklacan Vivare>
+24/09/2025 11:01:05>=Debruyne= [268445241]>reload npc>Taklacan Vivare>
+24/09/2025 11:02:34>=Debruyne= [268445241]>reload npc>Taklacan Vivare>
+24/09/2025 11:02:59>=Debruyne= [268445241]>reload npc>Taklacan Vivare>
+24/09/2025 11:03:44>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:04:05>=Debruyne= [268445241]>reload npc>Executor of Vivare>
+24/09/2025 11:04:15>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:04:20>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:04:23>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:04:27>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:04:31>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:05:01>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:06:27>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:06:36>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:09:21>=Debruyne= [268445241]>DonateShop(id: 100108 objId: 268445337 name: Donate Coin count: -1000)>Ghost of Peasant Leader>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:09:28>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:09:29>=Debruyne= [268445241]>admin_admin7>no-target>
+24/09/2025 11:09:29>=Debruyne= [268445241]>admin_invis_menu>no-target>
+24/09/2025 11:10:10>=Debruyne= [268445241]>kill>Ghost of Peasant Leader>
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 100101 count: 1 name: Billion Bar objId: 268445737)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 100110 count: 39 name: Clan Point objId: 268445738)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 9627 count: 6 name: Giant's Codex - Mastery objId: 268445739)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 9627 count: 6 name: Giant's Codex - Mastery objId: 268445740)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 6577 count: 2 name: Blessed Scroll: Enchant Weapon (S-Grade) objId: 268445741)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 6578 count: 4 name: Blessed Scroll: Enchant Armor (S-Grade) objId: 268445742)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 6570 count: 2 name: Blessed Scroll: Enchant Armor (A-Grade) objId: 268445743)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 6572 count: 3 name: Blessed Scroll: Enchant Armor (B-Grade) objId: 268445744)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 20519 count: 1 name: Ancient Weapon Enchant Crystal (S-Grade) objId: 268445745)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:10>=Debruyne= [268445241]>Loot(id: 20520 count: 1 name: Ancient Armor Enchant Crystal (S-Grade) objId: 268445746)>Ghost of Peasant Leader>L2Object referencing this action is: Ghost of Peasant Leader
+24/09/2025 11:10:13>=Debruyne= [268445241]>res>Ghost of Peasant Leader>
+24/09/2025 11:10:38>=Debruyne= [268445241]>Pickup(id: 20520 objId: 268445580 name: Ancient Armor Enchant Crystal (S-Grade) count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:10:46>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:10:48>=Debruyne= [268445241]>Pickup(id: 20519 objId: 268445323 name: Ancient Weapon Enchant Crystal (S-Grade) count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:10:52>=Debruyne= [268445241]>Pickup(id: 9627 objId: 268445577 name: Giant's Codex - Mastery count: 6)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:10:53>=Debruyne= [268445241]>Pickup(id: 6570 count: 2 name: Blessed Scroll: Enchant Armor (A-Grade) objId: 268445755)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:10:54>=Debruyne= [268445241]>Pickup(id: 9627 objId: 268445577 name: Giant's Codex - Mastery count: 6)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:10:55>=Debruyne= [268445241]>Pickup(id: 6577 count: 2 name: Blessed Scroll: Enchant Weapon (S-Grade) objId: 268445756)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:10:58>=Debruyne= [268445241]>Pickup(id: 6578 count: 4 name: Blessed Scroll: Enchant Armor (S-Grade) objId: 268445757)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:10:59>=Debruyne= [268445241]>Pickup(id: 100101 objId: 268445294 name: Billion Bar count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:10:59>=Debruyne= [268445241]>Pickup(id: 100110 count: 39 name: Clan Point objId: 268445758)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:11:02>=Debruyne= [268445241]>Pickup(id: 6572 count: 3 name: Blessed Scroll: Enchant Armor (B-Grade) objId: 268445759)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:11:18>=Debruyne= [268445241]>heal>Ghost of Peasant Leader>
+24/09/2025 11:12:38>=Debruyne= [268445241]>reload npc>Ghost of Peasant Leader>
+24/09/2025 11:13:24>=Debruyne= [268445241]>reload npc>Ghost of Peasant Leader>
+24/09/2025 11:13:44>=Debruyne= [268445241]>reload npc>Ghost of Peasant Leader>
+24/09/2025 11:14:19>=Debruyne= [268445241]>reload npc>Ghost of Peasant Leader>
+24/09/2025 11:14:42>=Debruyne= [268445241]>reload npc>Ghost of Peasant Leader>
+24/09/2025 11:14:52>=Debruyne= [268445241]>reload npc>Ghost of Peasant Leader>
+24/09/2025 11:19:48>=Debruyne= [268445241]>reload npc>Ghost of Peasant Leader>
+24/09/2025 11:19:54>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:21:48>=Debruyne= [268445241]>reload npc>Shilen's Messenger Cabrio>
+24/09/2025 11:25:16>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:25:17>=Debruyne= [268445241]>admin_move_to>no-target>
+24/09/2025 11:25:17>=Debruyne= [268445241]>admin_html teleports/raid.htm>no-target>
+24/09/2025 11:25:19>=Debruyne= [268445241]>admin_html teleports/raid/raid_special.htm>no-target>
+24/09/2025 11:25:20>=Debruyne= [268445241]>admin_move_to 17723 108915 -6493>no-target>
+24/09/2025 11:26:13>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:26:15>=Debruyne= [268445241]>admin_move_to>no-target>
+24/09/2025 11:26:15>=Debruyne= [268445241]>admin_html teleports/raid.htm>no-target>
+24/09/2025 11:26:16>=Debruyne= [268445241]>admin_html teleports/raid/raid_special.htm>no-target>
+24/09/2025 11:26:17>=Debruyne= [268445241]>admin_move_to -21610 181594 -5734>no-target>
+24/09/2025 11:26:35>=Debruyne= [268445241]>er_advance>no-target>
+24/09/2025 11:26:47>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:26:48>=Debruyne= [268445241]>admin_move_to>no-target>
+24/09/2025 11:26:49>=Debruyne= [268445241]>admin_html teleports/raid.htm>no-target>
+24/09/2025 11:26:50>=Debruyne= [268445241]>admin_html teleports/raid/raid_special.htm>no-target>
+24/09/2025 11:26:51>=Debruyne= [268445241]>admin_move_to 115213 16623 10080>no-target>
+24/09/2025 11:27:08>=Debruyne= [268445241]>instant_move>no-target>
+24/09/2025 11:29:36>=Debruyne= [268445241]>delete>Angelic Vortex>
+24/09/2025 11:29:41>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:29:42>=Debruyne= [268445241]>admin_move_to>no-target>
+24/09/2025 11:29:46>=Debruyne= [268445241]>admin_html teleports/WorldAreas.htm>no-target>
+24/09/2025 11:29:48>=Debruyne= [268445241]>admin_html teleports/WorldAreas/GiranTerritory.htm>no-target>
+24/09/2025 11:29:57>=Debruyne= [268445241]>admin_move_to 154623 121134 -3809>no-target>
+24/09/2025 11:30:02>=Debruyne= [268445241]>delete>Heart of Warding>
+24/09/2025 11:30:03>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:30:04>=Debruyne= [268445241]>admin_move_to>no-target>
+24/09/2025 11:30:05>=Debruyne= [268445241]>admin_html teleports/raid.htm>no-target>
+24/09/2025 11:30:06>=Debruyne= [268445241]>admin_html teleports/raid/raid_80.htm>no-target>
+24/09/2025 11:30:12>=Debruyne= [268445241]>admin_move_to 189400 -105702 -782>no-target>
+24/09/2025 11:30:17>=Debruyne= [268445241]>delete>Heart of Volcano>
+24/09/2025 11:34:02>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:34:03>=Debruyne= [268445241]>admin_admin7>no-target>
+24/09/2025 11:34:03>=Debruyne= [268445241]>admin_invis_menu>no-target>
+24/09/2025 11:34:07>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:34:08>=Debruyne= [268445241]>admin_move_to>no-target>
+24/09/2025 11:34:09>=Debruyne= [268445241]>admin_html teleports/raid.htm>no-target>
+24/09/2025 11:34:10>=Debruyne= [268445241]>admin_html teleports/raid/raid_special.htm>no-target>
+24/09/2025 11:34:12>=Debruyne= [268445241]>admin_move_to -21610 181594 -5734>no-target>
+24/09/2025 11:34:41>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:35:26>=Debruyne= [268445241]>spawn 29163>no-target>
+24/09/2025 11:35:58>=Debruyne= [268445241]>delete>Tiat>
+24/09/2025 11:37:35>=Debruyne= [268445241]>reload npc>no-target>
+24/09/2025 11:37:54>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:37:54>=Debruyne= [268445241]>admin_move_to>no-target>
+24/09/2025 11:37:56>=Debruyne= [268445241]>admin_html teleports/OtherLocations.htm>no-target>
+24/09/2025 11:37:58>=Debruyne= [268445241]>admin_move_to -114542 -251005 -2992>no-target>
+24/09/2025 11:37:59>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:38:00>=Debruyne= [268445241]>admin_move_to>no-target>
+24/09/2025 11:38:01>=Debruyne= [268445241]>admin_html teleports/OtherLocations.htm>no-target>
+24/09/2025 11:38:01>=Debruyne= [268445241]>admin_move_to -113360 -244676 -15536>no-target>
+24/09/2025 11:38:12>=Debruyne= [268445241]>spawn 29163>no-target>
+24/09/2025 11:38:24>=Debruyne= [268445241]>delete>Tiat>
+24/09/2025 11:38:29>=Debruyne= [268445241]>spawn 29163>no-target>
+24/09/2025 11:39:13>=Debruyne= [268445241]>reload npc>Tiat>
+24/09/2025 11:41:31>=Debruyne= [268445241]>reload npc>Tiat>
+24/09/2025 11:43:12>=Debruyne= [268445241]>reload npc>Tiat>
+24/09/2025 11:43:56>=Debruyne= [268445241]>delete>Tiat>
+24/09/2025 11:44:01>=Debruyne= [268445241]>spawn 29176>no-target>
+24/09/2025 11:44:33>=Debruyne= [268445241]>reload npc>Zaken>
+24/09/2025 11:45:26>=Debruyne= [268445241]>spawn 29163>no-target>
+24/09/2025 11:46:58>=Debruyne= [268445241]>reload npc>no-target>
+24/09/2025 11:47:06>=Debruyne= [268445241]>delete>Tiat>
+24/09/2025 11:47:07>=Debruyne= [268445241]>delete>Zaken>
+24/09/2025 11:47:39>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 11:47:41>=Debruyne= [268445241]>summon 9592 1>no-target>
+24/09/2025 11:47:41>=Debruyne= [268445241]>Admin(id: 9592 count: 1 name: Mithril Bracelet objId: 268445299)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:48:56>=Debruyne= [268445241]>spawn 80001>no-target>
+24/09/2025 11:49:47>=Debruyne= [268445241]>kill>Baium>
+24/09/2025 11:49:47>=Debruyne= [268445241]>Loot(id: 100108 count: 500 name: Donate Coin objId: 268445307)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:49:47>=Debruyne= [268445241]>Loot(id: 100101 count: 100 name: Billion Bar objId: 268445308)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:49:47>=Debruyne= [268445241]>Loot(id: 100110 count: 400 name: Clan Point objId: 268445309)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:49:47>=Debruyne= [268445241]>Loot(id: 9627 count: 400 name: Giant's Codex - Mastery objId: 268445310)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:49:47>=Debruyne= [268445241]>Loot(id: 20521 count: 2 name: Divine Weapon Enchant Crystal (S-Grade) objId: 268445311)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:49:47>=Debruyne= [268445241]>Loot(id: 20522 count: 4 name: Divine Armor Enchant Crystal (S-Grade) objId: 268445312)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:49:47>=Debruyne= [268445241]>Loot(id: 21582 count: 8 name: Blessed Olf's T-shirt Enchant Scroll objId: 268445313)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:49:47>=Debruyne= [268445241]>Loot(id: 55536 count: 1 name: Epic Boss of Cloak objId: 268445314)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:49:49>=Debruyne= [268445241]>delete>Baium>
+24/09/2025 11:49:58>=Debruyne= [268445241]>Pickup(id: 55536 name: Epic Boss of Cloak)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:49:59>=Debruyne= [268445241]>Pickup(id: 20522 count: 4 name: Divine Armor Enchant Crystal (S-Grade) objId: 268445315)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:49:59>=Debruyne= [268445241]>Pickup(id: 21582 objId: 268445891 name: Blessed Olf's T-shirt Enchant Scroll count: 8)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:50:03>=Debruyne= [268445241]>Pickup(id: 9627 objId: 268445577 name: Giant's Codex - Mastery count: 400)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:50:04>=Debruyne= [268445241]>Pickup(id: 100110 objId: 268445758 name: Clan Point count: 400)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:50:06>=Debruyne= [268445241]>Pickup(id: 100101 objId: 268445294 name: Billion Bar count: 100)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:50:06>=Debruyne= [268445241]>Pickup(id: 100108 objId: 268445337 name: Donate Coin count: 500)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:50:10>=Debruyne= [268445241]>Pickup(id: 20521 count: 2 name: Divine Weapon Enchant Crystal (S-Grade) objId: 268445317)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:50:49>=Debruyne= [268445241]>spawn 80001>no-target>
+24/09/2025 11:52:19>=Debruyne= [268445241]>Multisell(id: 22123 count: 1 name: Soulshot Large Pack (S-Grade) objId: 268445356)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:21>=Debruyne= [268445241]>Skill(id: 22086 count: 10000 name: Soulshot (S-Grade) objId: 268445357)>Baium>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:52:21>=Debruyne= [268445241]>Consume(id: 22123 count: 0 itemObjId: 268445356)>Baium>L2Object referencing this action is: =Debruyne=
+24/09/2025 11:52:23>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:23>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:24>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:25>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:25>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:25>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:26>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:26>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:27>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:27>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:27>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:27>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:28>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:28>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:28>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:29>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:30>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:30>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:30>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:31>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:31>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:31>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:32>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:32>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:33>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:33>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:34>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:34>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:34>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:35>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:35>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:36>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:36>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:36>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:37>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:37>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:37>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:38>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:38>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:38>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:39>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:39>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:40>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:40>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:40>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:41>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:41>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:42>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:42>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:42>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:42>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:43>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:44>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:46>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:46>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:46>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:47>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:47>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:48>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:48>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:49>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:49>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:49>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:50>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:50>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:51>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:51>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:51>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:52>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:52>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:52>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:53>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:53>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:54>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:54>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:55>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:55>=Debruyne= [268445241]>reload npc>Baium>
+24/09/2025 11:52:55>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:56>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:57>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:57>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:52:57>=Debruyne= [268445241]>Loot(id: 100108 count: 1000 name: Donate Coin objId: 268445358)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:57>=Debruyne= [268445241]>Loot(id: 100101 count: 100 name: Billion Bar objId: 268445359)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:57>=Debruyne= [268445241]>Loot(id: 100110 count: 400 name: Clan Point objId: 268445360)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:57>=Debruyne= [268445241]>Loot(id: 9627 count: 400 name: Giant's Codex - Mastery objId: 268445361)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:57>=Debruyne= [268445241]>Loot(id: 20521 count: 2 name: Divine Weapon Enchant Crystal (S-Grade) objId: 268445362)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:57>=Debruyne= [268445241]>Loot(id: 20522 count: 6 name: Divine Armor Enchant Crystal (S-Grade) objId: 268445363)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:57>=Debruyne= [268445241]>Loot(id: 21582 count: 4 name: Blessed Olf's T-shirt Enchant Scroll objId: 268445365)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:57>=Debruyne= [268445241]>Loot(id: 55536 count: 1 name: Epic Boss of Cloak objId: 268445366)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:57>=Debruyne= [268445241]>Loot(id: 51172 count: 1 name: Agathion Anakazel Light objId: 268445367)>Baium>L2Object referencing this action is: Baium
+24/09/2025 11:52:57>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Baium>L2Object referencing this action is: no-reference
+24/09/2025 11:53:02>=Debruyne= [268445241]>delete>Baium>
+24/09/2025 11:53:13>=Debruyne= [268445241]>Pickup(id: 51172 name: Agathion Anakazel Light)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:53:13>=Debruyne= [268445241]>Pickup(id: 100108 objId: 268445337 name: Donate Coin count: 1000)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:53:15>=Debruyne= [268445241]>Pickup(id: 20522 objId: 268445315 name: Divine Armor Enchant Crystal (S-Grade) count: 6)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:53:16>=Debruyne= [268445241]>Pickup(id: 21582 objId: 268445891 name: Blessed Olf's T-shirt Enchant Scroll count: 4)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:53:20>=Debruyne= [268445241]>Pickup(id: 55536 name: Epic Boss of Cloak)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:53:22>=Debruyne= [268445241]>Pickup(id: 100110 objId: 268445758 name: Clan Point count: 400)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:53:22>=Debruyne= [268445241]>Pickup(id: 9627 objId: 268445577 name: Giant's Codex - Mastery count: 400)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:53:23>=Debruyne= [268445241]>Pickup(id: 20521 objId: 268445317 name: Divine Weapon Enchant Crystal (S-Grade) count: 2)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:53:24>=Debruyne= [268445241]>Pickup(id: 100101 objId: 268445294 name: Billion Bar count: 100)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 11:53:33>=Debruyne= [268445241]>spawn 80001>no-target>
+24/09/2025 11:54:49>=Debruyne= [268445241]>reload npc>Baium>
+24/09/2025 11:55:18>=Debruyne= [268445241]>delete>Baium>
+24/09/2025 11:55:21>=Debruyne= [268445241]>spawn 80002>no-target>
+24/09/2025 11:59:40>=Debruyne= [268445241]>reload npc>Queen Ant>
+24/09/2025 11:59:48>=Debruyne= [268445241]>delete>Queen Ant>
+24/09/2025 11:59:56>=Debruyne= [268445241]>spawn 80007>no-target>
+24/09/2025 12:15:23>=Debruyne= [268445241]>reload npc>Core>
+24/09/2025 12:15:33>=Debruyne= [268445241]>spawn 80001>no-target>
+24/09/2025 12:15:48>=Debruyne= [268445241]>spawn 80002>no-target>
+24/09/2025 12:16:06>=Debruyne= [268445241]>spawn 80003>no-target>
+24/09/2025 12:16:17>=Debruyne= [268445241]>spawn 80005>no-target>
+24/09/2025 12:16:37>=Debruyne= [268445241]>spawn 80005>no-target>
+24/09/2025 12:16:49>=Debruyne= [268445241]>spawn 80004>no-target>
+24/09/2025 12:17:03>=Debruyne= [268445241]>delete>Freya>
+24/09/2025 12:17:08>=Debruyne= [268445241]>spawn 80006>no-target>
+24/09/2025 12:17:19>=Debruyne= [268445241]>spawn 80007>no-target>
+24/09/2025 12:17:23>=Debruyne= [268445241]>spawn 80008>no-target>
+24/09/2025 12:17:29>=Debruyne= [268445241]>reload npc>Orfen>
+24/09/2025 12:17:36>=Debruyne= [268445241]>delete>Queen Ant>
+24/09/2025 12:17:36>=Debruyne= [268445241]>delete>Orfen>
+24/09/2025 12:17:37>=Debruyne= [268445241]>delete>Core>
+24/09/2025 12:17:38>=Debruyne= [268445241]>delete>Freya>
+24/09/2025 12:17:38>=Debruyne= [268445241]>delete>Core>
+24/09/2025 12:17:39>=Debruyne= [268445241]>delete>Baium>
+24/09/2025 12:17:39>=Debruyne= [268445241]>delete>Antharas>
+24/09/2025 12:17:40>=Debruyne= [268445241]>delete>Frintezza>
+24/09/2025 12:17:41>=Debruyne= [268445241]>delete>Valakas>
+24/09/2025 12:18:15>=Debruyne= [268445241]>spawn 80009>no-target>
+24/09/2025 12:18:55>=Debruyne= [268445241]>spawn 80010>no-target>
+24/09/2025 12:19:46>=Debruyne= [268445241]>spawn 80011>no-target>
+24/09/2025 12:19:48>=Debruyne= [268445241]>reload npc>no-target>
+24/09/2025 12:19:55>=Debruyne= [268445241]>delete>Beleth>
+24/09/2025 12:20:04>=Debruyne= [268445241]>delete>Zaken>
+24/09/2025 12:20:26>=Debruyne= [268445241]>spawn 80014>no-target>
+24/09/2025 12:20:39>=Debruyne= [268445241]>spawn 80013>no-target>
+24/09/2025 12:21:38>=Debruyne= [268445241]>delete>Freya>
+24/09/2025 12:21:46>=Debruyne= [268445241]>spawn 80012>no-target>
+24/09/2025 12:23:07>=Debruyne= [268445241]>reload npc>Sailren>
+24/09/2025 12:24:13>=Debruyne= [268445241]>reload npc>Sailren>
+24/09/2025 12:24:18>=Debruyne= [268445241]>delete>Sailren>
+24/09/2025 12:24:19>=Debruyne= [268445241]>delete>Darion>
+24/09/2025 12:24:19>=Debruyne= [268445241]>delete>Baylor>
+24/09/2025 12:28:05>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:28:57>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:29:07>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:29:17>=Debruyne= [268445241]>spawn 31688>no-target>
+24/09/2025 12:29:26>=Debruyne= [268445241]>spawn 31688>no-target>
+24/09/2025 12:29:35>=Debruyne= [268445241]>spawn 31688>no-target>
+24/09/2025 12:29:44>=Debruyne= [268445241]>spawn 31688>no-target>
+24/09/2025 12:29:54>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:30:01>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:30:12>=Debruyne= [268445241]>spawn 31690>no-target>
+24/09/2025 12:30:24>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:34:14>=Debruyne= [268445241]>admin>no-target>
+24/09/2025 12:34:14>=Debruyne= [268445241]>admin_create_item>no-target>
+24/09/2025 12:34:19>=Debruyne= [268445241]>admin_create_item 20519 1>no-target>
+24/09/2025 12:34:19>=Debruyne= [268445241]>Admin(id: 20519 objId: 268445323 name: Ancient Weapon Enchant Crystal (S-Grade) count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:34:27>=Debruyne= [268445241]>admin_create_item 20520 1>no-target>
+24/09/2025 12:34:27>=Debruyne= [268445241]>Admin(id: 20520 objId: 268445580 name: Ancient Armor Enchant Crystal (S-Grade) count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:34:47>=Debruyne= [268445241]>admin_create_item 21582 1>no-target>
+24/09/2025 12:34:47>=Debruyne= [268445241]>Admin(id: 21582 objId: 268445891 name: Blessed Olf's T-shirt Enchant Scroll count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:36:44>=Debruyne= [268445241]>reload multisell>no-target>
+24/09/2025 12:37:43>=Debruyne= [268445241]>summon 100145 1>no-target>
+24/09/2025 12:37:43>=Debruyne= [268445241]>Admin(id: 100145 count: 1 name: Talisman Reward Box objId: 268445795)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:37:44>=Debruyne= [268445241]>Extract(id: 100141 count: 1 name: Talisman - Resistance to Sleep objId: 268445796)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:44>=Debruyne= [268445241]>Consume(id: 100145 count: 0 itemObjId: 268445795)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:51>=Debruyne= [268445241]>summon 100145 1>no-target>
+24/09/2025 12:37:51>=Debruyne= [268445241]>Admin(id: 100145 count: 1 name: Talisman Reward Box objId: 268445797)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:37:51>=Debruyne= [268445241]>summon 100145 1>no-target>
+24/09/2025 12:37:51>=Debruyne= [268445241]>Admin(id: 100145 objId: 268445797 name: Talisman Reward Box count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:37:52>=Debruyne= [268445241]>summon 100145 1>no-target>
+24/09/2025 12:37:52>=Debruyne= [268445241]>Admin(id: 100145 objId: 268445797 name: Talisman Reward Box count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:37:52>=Debruyne= [268445241]>summon 100145 1>no-target>
+24/09/2025 12:37:52>=Debruyne= [268445241]>Admin(id: 100145 objId: 268445797 name: Talisman Reward Box count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:37:52>=Debruyne= [268445241]>summon 100145 1>no-target>
+24/09/2025 12:37:52>=Debruyne= [268445241]>Admin(id: 100145 objId: 268445797 name: Talisman Reward Box count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:37:53>=Debruyne= [268445241]>summon 100145 1>no-target>
+24/09/2025 12:37:53>=Debruyne= [268445241]>Admin(id: 100145 objId: 268445797 name: Talisman Reward Box count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:37:53>=Debruyne= [268445241]>summon 100145 1>no-target>
+24/09/2025 12:37:53>=Debruyne= [268445241]>Admin(id: 100145 objId: 268445797 name: Talisman Reward Box count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 12:37:55>=Debruyne= [268445241]>Extract(id: 100140 count: 1 name: Talisman - Resistance to Stun objId: 268445798)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:55>=Debruyne= [268445241]>Consume(id: 100145 objId: 268445797 name: Talisman Reward Box count: -1)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:56>=Debruyne= [268445241]>Extract(id: 100143 count: 1 name: Talisman - Paralyze Resistance objId: 268445799)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:56>=Debruyne= [268445241]>Consume(id: 100145 objId: 268445797 name: Talisman Reward Box count: -1)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:56>=Debruyne= [268445241]>Extract(id: 100139 count: 1 name: Talisman - MEN objId: 268445800)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:56>=Debruyne= [268445241]>Consume(id: 100145 objId: 268445797 name: Talisman Reward Box count: -1)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:56>=Debruyne= [268445241]>Extract(id: 100136 count: 1 name: Talisman - CON objId: 268445801)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:56>=Debruyne= [268445241]>Consume(id: 100145 objId: 268445797 name: Talisman Reward Box count: -1)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:57>=Debruyne= [268445241]>Extract(id: 100143 count: 1 name: Talisman - Paralyze Resistance objId: 268445802)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:57>=Debruyne= [268445241]>Consume(id: 100145 objId: 268445797 name: Talisman Reward Box count: -1)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:57>=Debruyne= [268445241]>Extract(id: 100137 count: 1 name: Talisman - WIT objId: 268445803)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:57>=Debruyne= [268445241]>Consume(id: 100145 objId: 268445797 name: Talisman Reward Box count: -1)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:57>=Debruyne= [268445241]>Extract(id: 100143 count: 1 name: Talisman - Paralyze Resistance objId: 268445804)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:37:57>=Debruyne= [268445241]>Consume(id: 100145 count: 0 itemObjId: 268445797)>no-target>L2Object referencing this action is: =Debruyne=
+24/09/2025 12:44:52>=Debruyne= [268445241]>reload config>no-target>
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 100105 count: 0 itemObjId: 268446244)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 100105 objId: 268445292 name: Festival Adena count: 5000)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 100106 count: 0 itemObjId: 268446245)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 100106 objId: 268445293 name: Golden Apiga count: 5000)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 100103 count: 0 itemObjId: 268446246)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 100103 objId: 268445576 name: Event Medal count: 25)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 9627 count: 0 itemObjId: 268446247)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 9627 objId: 268445577 name: Giant's Codex - Mastery count: 10)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 100101 count: 0 itemObjId: 268446248)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 100101 objId: 268445294 name: Billion Bar count: 5)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 20519 count: 0 itemObjId: 268446249)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 20519 objId: 268445323 name: Ancient Weapon Enchant Crystal (S-Grade) count: 1)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 20520 count: 0 itemObjId: 268446250)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 20520 objId: 268445580 name: Ancient Armor Enchant Crystal (S-Grade) count: 2)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:14:17>=Debruyne= [268445241]>Mail(id: 100145 name: Talisman Reward Box)>no-target>L2Object referencing this action is: no-reference
+24/09/2025 13:17:24>=Debruyne= [268445241]>admin>=Debruyne=>
+24/09/2025 13:17:25>=Debruyne= [268445241]>admin_admin7>=Debruyne=>
+24/09/2025 13:17:26>=Debruyne= [268445241]>admin_invis_menu>=Debruyne=>
+24/09/2025 13:37:49>=Debruyne= [268445241]>Enchant(id: 20521 objId: 268445317 name: Divine Weapon Enchant Crystal (S-Grade) count: -1)>=Debruyne=>L2Object referencing this action is: Skull Edge - Haste
+24/09/2025 13:45:41>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100141 count: 0 itemObjId: 268445796)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100143 count: 0 itemObjId: 268445799)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100140 count: 0 itemObjId: 268445798)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100139 count: 0 itemObjId: 268445800)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100136 count: 0 itemObjId: 268445801)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100143 count: 0 itemObjId: 268445802)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100137 count: 0 itemObjId: 268445803)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100143 count: 0 itemObjId: 268445804)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 43223 count: 0 itemObjId: 268445386)>no-target>L2Object referencing this action is: no-reference

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="51166" type="Armor" name="Agathion Astaron">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_april_july_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511660-1" />
+    </item>
+    <item id="51167" type="Armor" name="Agathion Volver">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_jan_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511670-1" />
+    </item>
+    <item id="51168" type="Armor" name="Agathion Isadora">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_feb_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511680-1" />
+    </item>
+    <item id="51169" type="Armor" name="Agathion Melis">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_nov_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511690-1" />
+    </item>
+    <item id="51170" type="Armor" name="Agathion Exile">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_april_aug_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511700-1" />
+    </item>
+    <item id="51171" type="Armor" name="Agathion Embryo">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_dec_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511710-1" />
+    </item>
+    <item id="51172" type="Armor" name="Agathion Anakazel Light">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_june_skill_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511720-1" />
+    </item>
+    <item id="51173" type="Armor" name="Agathion Phasian">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_april_sep_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511730-1" />
+    </item>
+    <item id="51174" type="Armor" name="Agathion Wizard">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_april_sep_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511740-1" />
+    </item>
+    <item id="51175" type="Armor" name="Agathion Anakazel Dark">
+        <set name="icon" val="BranchAsuki4.accessary_sign_agathion_april_sep_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="lbracelet" />
+        <set name="material" val="SILVER" />
+        <set name="weight" val="150" />
+        <set name="is_tradable" val="true" />
+        <set name="is_dropable" val="true" />
+        <set name="is_sellable" val="false" />
+        <set name="unequip_skill" val="3267-1" />
+        <set name="item_skill" val="3267-1;511750-1" />
+    </item>
+    
+</list>

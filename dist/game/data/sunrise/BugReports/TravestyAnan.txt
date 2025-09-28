@@ -1,0 +1,3 @@
+Character Info: [Character: TravestyAnan[268485188] - Account: jeffsps - IP: 187.19.182.250]
+Bug Type: Other
+Message: MP Potion acaba muito rápido. Diminuir o reuse ficaria show. 

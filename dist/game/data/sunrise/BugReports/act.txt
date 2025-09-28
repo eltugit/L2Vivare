@@ -1,0 +1,3 @@
+Character Info: [Character: act[268448903] - Account: argento2024 - IP: 186.19.220.57]
+Bug Type: Fatal
+Message: repair: damage dager broken 

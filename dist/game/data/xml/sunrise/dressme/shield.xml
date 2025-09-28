@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/dressme/shield.xsd">
+
+    <shield number="1" id="2497" name="Full Plate Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="2" id="673" name="Avadon Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="3" id="633" name="Zubei's Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="4" id="110" name="Doom Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="5" id="641" name="Dark Crystal Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="6" id="2498" name="Shield of Nightmare" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="7" id="6377" name="Imperial Crusader Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="8" id="9441" name="Dynasty Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="9" id="13471" name="Vesper Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="10" id="15621" name="Moirai Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="11" id="15604" name="Vorpal Shield" isShield="True">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="12" id="12811" name="Arcana Sigil">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="13" id="12812" name="Dynasty Sigil">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="14" id="12813" name="Vesper Sigil">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="15" id="15622" name="Moirai Sigil">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="16" id="15605" name="Vorpal Sigil">
+		<price id="57" count="1" />
+	</shield>
+	<shield number="17" id="55623" name="Shield Anakazel" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="18" id="55624" name="Shield Bernstein A" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="19" id="55625" name="Shield Bernstein B" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="20" id="55626" name="Shield Freya" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="21" id="55627" name="Shield Helios" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="22" id="55628" name="Shield Hunchback" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="23" id="55629" name="Shield Ice Knight" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="24" id="55630" name="Shield Istina" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="25" id="55631" name="Shield Kelbim" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="26" id="55632" name="Shield Kunda" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="27" id="55633" name="Shield Mahum" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="28" id="55634" name="Shield Marshal" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="29" id="55635" name="Shield Mask" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="30" id="55636" name="Shield Pailaka" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="31" id="55637" name="Shield Scarab A" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="32" id="55638" name="Shield Scarab B" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="33" id="55639" name="Shield Lizardman" isShield="True">
+		<price id="99888" count="1" />
+	</shield>	
+	<shield number="34" id="55640" name="Shield Tigar" isShield="True">
+		<price id="99888" count="1" />
+	</shield>	
+	<shield number="35" id="55641" name="Shield Vampire" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="36" id="71731" name="Shield Blue Emerald" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="37" id="71732" name="Sigil Blue Emerald">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="38" id="71750" name="Shield Red Emerald" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="39" id="71751" name="Sigil Red Emerald">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="40" id="71876" name="Shield Green Emerald" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="41" id="71877" name="Sigil Green Emerald">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="42" id="71895" name="Shield Purple Emerald" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="43" id="71896" name="Sigil Purple Emerald">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="44" id="71914" name="Shield Black Emerald" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="45" id="71915" name="Sigil Black Emerald">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="46" id="71933" name="Shield White Emerald" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="47" id="71934" name="Sigil White Emerald">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="48" id="55560" name="Shield Emerald" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+    <shield number="49" id="55561" name="Sigil Emerald">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="50" id="71855" name="Shield Blue Vesper" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="51" id="71856" name="Sigil Blue Vesper">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="52" id="60087" name="Shield Oddysey" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="53" id="60088" name="Sigil Oddysey">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="54" id="71975" name="Shield Black Aura" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+    <shield number="55" id="70628" name="Sigil Black Aura">
+		<price id="99888" count="1" />
+	</shield>
+	<shield number="56" id="33342" name="Shield Ice Invoke" isShield="True">
+		<price id="99888" count="1" />
+	</shield>
+    <shield number="57" id="33345" name="Sigil Ice Invoke">
+		<price id="99888" count="1" />
+	</shield>
+	
+</list>

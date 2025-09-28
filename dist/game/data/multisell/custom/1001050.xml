@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<!-- Eternal Core Sword -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15983" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Eternal Core Sword -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15984" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Eternal Core Sword -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15985" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Mamba Edge -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15986" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Mamba Edge -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15987" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Mamba Edge -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15988" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Eversor Mace -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15989" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Eversor Mace -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15990" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Eversor Mace -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15991" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Contristo Hammer -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15992" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Contristo Hammer -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15993" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Contristo Hammer -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15994" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Lava Saw -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15995" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Lava Saw -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15996" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Lava Saw -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15997" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Jade Claw -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15998" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Jade Claw -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="15999" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Jade Claw -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16000" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Demitelum -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16001" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Demitelum -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16002" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Demitelum -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16003" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Sacredium -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16004" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Sacredium -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16005" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Sacredium -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16006" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Cyclic Cane -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16007" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Cyclic Cane -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16008" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Cyclic Cane -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16009" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Archangel Sword -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16010" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Archangel Sword -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16011" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Archangel Sword -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16012" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Recurve Throne Bow -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16013" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Recurve Throne Bow -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16014" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Recurve Throne Bow -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16015" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Heavenstare Rapier -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16016" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Heavenstare Rapier -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16017" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Heavenstare Rapier -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16018" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Pyseal Blade -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16019" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Pyseal Blade -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16020" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Pyseal Blade -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16021" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Throne Crossbow -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16022" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Throne Crossbow -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16023" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Throne Crossbow -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16024" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Mamba Edge Dual Daguers -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16157" count="1" enchantmentLevel="16"/>
+</item>
+<!-- Mamba Core Dual Sword -->
+<item>
+<ingredient id="100108" count="500"/>
+<production id="16159" count="1" enchantmentLevel="16"/>
+</item>
+
+
+</list>

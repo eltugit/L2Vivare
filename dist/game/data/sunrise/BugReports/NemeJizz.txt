@@ -1,0 +1,3 @@
+Character Info: [Character: NemeJizz[268804460] - Account: nemejizz - IP: 78.180.151.195]
+Bug Type: General
+Message: /useskillstand feature does not work. 

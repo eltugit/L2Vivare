@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+    
+	<item id="55000" type="Armor" name="Knight's of Cloak">
+        <set name="icon" val="AeronIcons.godcloak_knight" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="50" />
+			<add stat="pAtk" val="50" />
+			<add stat="mAtk" val="50" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55001" type="Armor" name="Archer's of Cloak">
+        <set name="icon" val="AeronIcons.godcloak_archer" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="50" />
+			<add stat="pAtk" val="50" />
+			<add stat="mAtk" val="50" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55002" type="Armor" name="Enchanter's of Cloak">
+        <set name="icon" val="AeronIcons.godcloak_enchanter" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="50" />
+			<add stat="pAtk" val="50" />
+			<add stat="mAtk" val="50" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55003" type="Armor" name="Healer's of Cloak">
+        <set name="icon" val="AeronIcons.godcloak_healer" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="50" />
+			<add stat="pAtk" val="50" />
+			<add stat="mAtk" val="50" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55004" type="Armor" name="Rogue's of Cloak">
+        <set name="icon" val="AeronIcons.godcloak_rogue" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="50" />
+			<add stat="pAtk" val="50" />
+			<add stat="mAtk" val="50" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55005" type="Armor" name="Warrior's of Cloak">
+        <set name="icon" val="AeronIcons.godcloak_warrior" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="50" />
+			<add stat="pAtk" val="50" />
+			<add stat="mAtk" val="50" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55006" type="Armor" name="Summoner's of Cloak">
+        <set name="icon" val="AeronIcons.godcloak_summoner" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="50" />
+			<add stat="pAtk" val="50" />
+			<add stat="mAtk" val="50" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55007" type="Armor" name="Wizard's of Cloak">
+        <set name="icon" val="AeronIcons.godcloak_wizard" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="50" />
+			<add stat="mDef" val="50" />
+			<add stat="pAtk" val="50" />
+			<add stat="mAtk" val="50" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="55011" type="Armor" name="Aden of Cloak">
+        <set name="icon" val="icon.vesper_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_castle_num;{5}}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="5" />
+			</and>
+		</cond>
+        <for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+			<add stat="pAtk" val="150" />
+			<add stat="mAtk" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55012" type="Armor" name="Dion of Cloak">
+        <set name="icon" val="icon.vesper_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_castle_num;{2}}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="2" />
+			</and>
+		</cond>
+        <for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+			<add stat="pAtk" val="150" />
+			<add stat="mAtk" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55013" type="Armor" name="Giran of Cloak">
+        <set name="icon" val="icon.vesper_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_castle_num;{3}}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="3" />
+			</and>
+		</cond>
+        <for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+			<add stat="pAtk" val="150" />
+			<add stat="mAtk" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55014" type="Armor" name="Gludio of Cloak">
+        <set name="icon" val="icon.vesper_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_castle_num;{1}}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="1" />
+			</and>
+		</cond>
+        <for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+			<add stat="pAtk" val="150" />
+			<add stat="mAtk" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55015" type="Armor" name="Goddard of Cloak">
+        <set name="icon" val="icon.vesper_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_castle_num;{7}}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="7" />
+			</and>
+		</cond>
+        <for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+			<add stat="pAtk" val="150" />
+			<add stat="mAtk" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55016" type="Armor" name="Innadril of Cloak">
+        <set name="icon" val="icon.vesper_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_castle_num;{6}}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="6" />
+			</and>
+		</cond>
+        <for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+			<add stat="pAtk" val="150" />
+			<add stat="mAtk" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55017" type="Armor" name="Oren of Cloak">
+        <set name="icon" val="icon.vesper_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_castle_num;{4}}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="4" />
+			</and>
+		</cond>
+        <for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+			<add stat="pAtk" val="150" />
+			<add stat="mAtk" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55018" type="Armor" name="Rune of Cloak">
+        <set name="icon" val="icon.vesper_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_castle_num;{8}}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="8" />
+			</and>
+		</cond>
+        <for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+			<add stat="pAtk" val="150" />
+			<add stat="mAtk" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="55019" type="Armor" name="Schuttgart of Cloak">
+        <set name="icon" val="icon.vesper_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="equip_condition" val="{{ec_castle;1};{ec_castle_num;{9}}}" />
+		<cond msgId="1518">
+			<and>
+				<player castle="9" />
+			</and>
+		</cond>
+        <for>
+			<add stat="pDef" val="150" />
+			<add stat="mDef" val="150" />
+			<add stat="pAtk" val="150" />
+			<add stat="mAtk" val="150" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="34009" type="Armor" name="Red Heroic of Cloak">
+        <set name="icon" val="iconv6.custom_i.oly_red" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="34010" type="Armor" name="Blue Heroic of Cloak">
+        <set name="icon" val="iconv6.custom_i.oly_blue" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="34011" type="Armor" name="Green Heroic of Cloak">
+        <set name="icon" val="iconv6.custom_i.oly_green" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+       <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="34012" type="Armor" name="Purple Heroic of Cloak">
+        <set name="icon" val="iconv6.custom_i.oly_purp" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="34013" type="Armor" name="Black Heroic of Cloak">
+        <set name="icon" val="iconv6.custom_i.oly_black" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="34014" type="Armor" name="White Heroic of Cloak">
+        <set name="icon" val="iconv6.custom_i.oly_white" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="30023" type="Armor" name="Radiant Light of Cloak">
+        <set name="icon" val="unique_cloak.White_cloak_icon" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+       <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="30024" type="Armor" name="Radiant Darkness of Cloak">
+        <set name="icon" val="unique_cloak.Black_cloak_icon" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+       <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="30025" type="Armor" name="Light of Cloak">
+        <set name="icon" val="unique_cloak.White_cl_icon" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+       <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+    <item id="30026" type="Armor" name="Darkness of Cloak">
+        <set name="icon" val="unique_cloak.Black_cl_icon" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+       <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="60090" type="Armor" name="Odyssey of Cloak">
+        <set name="icon" val="Odyssey_Acc_AS.cloak_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="34025" type="Armor" name="Black Exalted of Cloak">
+        <set name="icon" val="AeronIcons.nobleblack" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="34015" type="Armor" name="Halloween of Cloak">
+        <set name="icon" val="BranchSys3.g_halloween_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="81013" type="Armor" name="Exalted of Cloak">
+        <set name="icon" val="iconv6.cloak_noblesse2_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36050" type="Armor" name="Royal of Cloak">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Dino_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="55536" type="Armor" name="Epic Boss of Cloak">
+        <set name="icon" val="AeronIcons.betacloak" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="55027" type="Armor" name="Twitch of Cloak">
+        <set name="icon" val="SkirmishIcons.twitch_cloak" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="55537" type="Armor" name="Youtube of Cloak">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36000" type="Armor" name="Cloak of TakaGRP">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36001" type="Armor" name="Cloak of GR3M0RY">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36002" type="Armor" name="Cloak of KamikazeS">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36003" type="Armor" name="Cloak of NightGrp">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36004" type="Armor" name="Cloak of NordestePower">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36005" type="Armor" name="Cloak of Prodigy">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36006" type="Armor" name="Cloak of Reich">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36007" type="Armor" name="Cloak of Akatsuki">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36008" type="Armor" name="Cloak of Caos">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36009" type="Armor" name="Cloak of Apathy">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36010" type="Armor" name="Cloak of Panda">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36011" type="Armor" name="Cloak of POCs">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36012" type="Armor" name="Cloak of Wolves">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36013" type="Armor" name="Cloak of Anomaly">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36014" type="Armor" name="Cloak of Prime">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36015" type="Armor" name="Cloak of LaFirma">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36016" type="Armor" name="Cloak of HennaGrp">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36017" type="Armor" name="Cloak of Interpol">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36018" type="Armor" name="Cloak of BlackRoses">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36019" type="Armor" name="Cloak of Yakuza">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36020" type="Armor" name="Cloak of Lovehatetragedy">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36021" type="Armor" name="Cloak of Destiny">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	<item id="36022" type="Armor" name="Cloak of Gahzina">
+        <set name="icon" val="Avengers_PP.YouTube_cloack_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="back" />
+        <set name="crystal_type" val="S80" />
+        <set name="material" val="CLOTH" />
+        <set name="weight" val="220" />
+		<set name="is_tradable" val="false" />
+        <set name="is_dropable" val="false" />
+        <set name="is_sellable" val="false" />
+        <for>
+			<add stat="pDef" val="100" />
+			<add stat="mDef" val="100" />
+			<add stat="pAtk" val="100" />
+			<add stat="mAtk" val="100" />
+			<enchant stat="pDef" val="0" />
+		</for>
+    </item>
+	
+</list>

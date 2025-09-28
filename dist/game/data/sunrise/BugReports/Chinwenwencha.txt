@@ -1,0 +1,3 @@
+Character Info: [Character: Chinwenwencha[268581301] - Account: aletiti - IP: 127.0.0.1]
+Bug Type: Balance
+Message: 0 balance .!. 

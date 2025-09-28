@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55623" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55624" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55625" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55626" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55627" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55628" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55629" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55630" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55631" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55632" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55633" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55634" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55635" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55636" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55637" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55638" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55639" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55640" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55641" count="1"/>
+</item>
+
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55560" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="55561" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71731" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71732" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71750" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71751" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71876" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71877" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71895" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71896" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71914" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71915" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71933" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71934" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71855" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71856" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="60087" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="60088" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="71975" count="1"/>
+</item>
+<item>
+    <ingredient id="100108" count="750" />
+    <production id="70628" count="1"/>
+</item>
+
+</list>

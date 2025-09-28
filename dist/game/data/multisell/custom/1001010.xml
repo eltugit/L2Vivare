@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<item>
+		<ingredient id="9912" count="10" />
+		<production id="17277" count="1" />
+	</item><!-- Простой Кодекс -->
+	<item>
+		<ingredient id="9912" count="100" />
+		<production id="6622" count="1" />
+	</item><!-- Кодекс Дисциплина -->
+	<item>
+		<ingredient id="9912" count="1000" />
+		<production id="9627" count="1" />
+	</item><!-- Кодекс Мастер -->
+	<item>
+		<ingredient id="9912" count="2000" />
+		<production id="9626" count="1" />
+	</item><!-- Простой Кодекс -->
+	<item>
+		<ingredient id="9912" count="3000" />
+		<production id="9625" count="1" />
+	</item><!-- Простой Кодекс -->
+</list>

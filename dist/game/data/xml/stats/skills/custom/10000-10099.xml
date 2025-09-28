@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/skills.xsd">
+	<skill id="10000" levels="1" name="Mana Drug">
+		<set name="displayId" val="2288" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="itemConsumeId" val="726" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="10000" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect count="3" name="ManaHealOverTime" abnormalTime="5" val="1.5" abnormalLvl="1" abnormalType="mp_recover" />
+		</for>
+	</skill>
+	<skill id="10001" levels="1" name="Mana Potion">
+		<set name="displayId" val="2288" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="itemConsumeId" val="728" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="A1" />
+		<set name="reuseDelay" val="8000" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="ManaHeal" noicon="1" val="1000" />
+		</for>
+	</skill>
+	<skill id="10002" levels="1" name="Custom Trap skill">
+		<!-- Use this skill if you want to handle trap activation in scripts(example Seed of Destruction Spawn Traps) -->
+		<set name="targetType" val="AURA" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill -->
+		<set name="operateType" val="P" />
+	</skill>
+	<skill id="10003" levels="1" name="HEAVY NERF">
+        <set name="blockedInOlympiad" val="true" />
+        <set name="excludedFromCheck" val="true" />
+        <set name="magicLvl" val="80" />
+        <set name="operateType" val="P" />
+        <set name="targetType" val="SELF" />
+        <for>
+            <mul stat="pAtk" val="0.5">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="mAtk" val="0.5">
+                <using kind="HEAVY" />
+            </mul>
+        </for>
+	</skill>
+	<skill id="10004" levels="1" name="BOW NERF">
+        <set name="blockedInOlympiad" val="true" />
+        <set name="excludedFromCheck" val="true" />
+        <set name="magicLvl" val="80" />
+        <set name="operateType" val="P" />
+        <set name="targetType" val="SELF" />
+        <for>
+            <mul stat="pAtk" val="0.5">
+                <using kind="BOW,CROSSBOW" />
+            </mul>
+            <mul stat="mAtk" val="0.5">
+                <using kind="BOW,CROSSBOW" />
+            </mul>
+        </for>
+	</skill>
+	<skill id="511660" levels="1" name="Agathion Astaron">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1606" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	<skill id="511670" levels="1" name="Agathion Volver">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1607" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	<skill id="511680" levels="1" name="Agathion Isadora">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1608" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	<skill id="511690" levels="1" name="Agathion Melis">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1609" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	<skill id="511700" levels="1" name="Agathion Exile">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1610" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	<skill id="511710" levels="1" name="Agathion Embryo">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1611" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	<skill id="511720" levels="1" name="Agathion Anakazel Light">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1612" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	<skill id="511730" levels="1" name="Agathion Phasian">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1613" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	<skill id="511740" levels="1" name="Agathion Wizard">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1614" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	<skill id="511750" levels="1" name="Agathion Anakazel Dark">
+		<!-- Confirmed CT2.5 -->
+		<set name="hitTime" val="3000" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="magicLvl" val="85" />
+		<set name="npcId" val="1615" />
+		<set name="operateType" val="A1" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="SummonAgathion" noicon="1" />
+		</for>
+	</skill>
+	
+	<skill id="511751" levels="6" name="Talisman of Godness">
+        <!-- Confirmed CT2.5 -->
+        <table name="#maxCp"> 100 200 300 400 500 600 </table>
+        <table name="#maxHp"> 100 200 300 400 500 600 </table>
+        <table name="#pAtkSpd"> 5 10 20 30 40 50 </table>
+        <table name="#mAtkSpd"> 5 10 20 30 40 50 </table>
+        <table name="#critRate"> 0 5 10 15 20 25 </table>
+        <table name="#mCritRate"> 0 1 1 1 1 1 </table>
+        <table name="#mAtk"> 0 0 56 56 156 356 </table>
+        <table name="#pAtk"> 0 0 53 53 103 303 </table>
+        <set name="magicLvl" val="1" />
+        <set name="operateType" val="P" />
+        <set name="targetType" val="SELF" />
+        <for>
+            <add stat="maxCp" val="#maxCp" />
+            <add stat="maxHp" val="#maxHp" />
+            <add stat="pAtkSpd" val="#pAtkSpd" />
+            <add stat="mAtkSpd" val="#mAtkSpd" />
+            <add stat="critRate" val="#critRate" />
+            <add stat="mCritRate" val="#mCritRate" />
+            <add stat="mAtk" val="#mAtk" />
+            <add stat="pAtk" val="#pAtk" />
+        </for>
+    </skill>
+</list>

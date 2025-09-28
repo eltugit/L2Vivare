@@ -1,0 +1,3 @@
+Character Info: [Character: Palurda[269189834] - Account: efsile95 - IP: 83.61.207.133]
+Bug Type: General
+Message: Acrobatic Move Passive not working 

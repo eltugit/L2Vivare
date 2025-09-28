@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/gabriel/SpecialCraft.xsd">
+<!--  Não Usar nomes com espaço
+Possiveis raridades
+rarity="NONE"
+rarity="COMMON"
+rarity="MEDIUM"
+rarity="RARE"
+transactionId="x" é um variavel global. Então mantenha a orden crescente globalmente
+ -->
+    <SpecialCraft category="Talisman">
+        <SubCategory subCategory="Diamond">
+            <Item transactionId="1" itemId="100120"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100119" count="1"/>
+                <ingredient id="100119" count="1"/>
+                <production id="100119" count="1" chance="59.50" rarity="NONE"/>
+                <production id="100120" count="1" chance="40.50" rarity="COMMON"/>
+            </Item>
+            <Item transactionId="2" itemId="100121"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100120" count="1"/>
+                <ingredient id="100120" count="1"/>
+                <production id="100120" count="1" chance="69.50" rarity="NONE"/>
+                <production id="100121" count="1" chance="30.50" rarity="MEDIUM"/>
+            </Item>
+            <Item transactionId="3" itemId="100122"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100121" count="1"/>
+                <ingredient id="100121" count="1"/>
+                <production id="100121" count="1" chance="79.50" rarity="NONE"/>
+                <production id="100122" count="1" chance="20.50" rarity="RARE"/>
+            </Item>	
+            <Item transactionId="4" itemId="100123"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100122" count="1"/>
+                <ingredient id="100122" count="1"/>
+                <production id="100122" count="1" chance="89.50" rarity="NONE"/>
+                <production id="100123" count="1" chance="10.50" rarity="RARE"/>
+            </Item>		
+        </SubCategory>
+		<SubCategory subCategory="Garnet">
+            <Item transactionId="5" itemId="100125"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100124" count="1"/>
+                <ingredient id="100124" count="1"/>
+                <production id="100124" count="1" chance="59.50" rarity="NONE"/>
+                <production id="100125" count="1" chance="40.50" rarity="COMMON"/>
+            </Item>
+            <Item transactionId="6" itemId="100126"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100125" count="1"/>
+                <ingredient id="100125" count="1"/>
+                <production id="100125" count="1" chance="69.50" rarity="NONE"/>
+                <production id="100126" count="1" chance="30.50" rarity="MEDIUM"/>
+            </Item>
+            <Item transactionId="7" itemId="100127"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100126" count="1"/>
+                <ingredient id="100126" count="1"/>
+                <production id="100126" count="1" chance="79.50" rarity="NONE"/>
+                <production id="100127" count="1" chance="20.50" rarity="RARE"/>
+            </Item>
+            <Item transactionId="8" itemId="100128"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100127" count="1"/>
+                <ingredient id="100127" count="1"/>
+                <production id="100127" count="1" chance="89.50" rarity="NONE"/>
+                <production id="100128" count="1" chance="10.50" rarity="RARE"/>
+            </Item>
+        </SubCategory>
+		<SubCategory subCategory="Jade">
+            <Item transactionId="9" itemId="100130"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100129" count="1"/>
+                <ingredient id="100129" count="1"/>
+                <production id="100129" count="1" chance="59.50" rarity="NONE"/>
+                <production id="100130" count="1" chance="40.50" rarity="COMMON"/>
+            </Item>
+            <Item transactionId="10" itemId="100131"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100130" count="1"/>
+                <ingredient id="100130" count="1"/>
+                <production id="100130" count="1" chance="69.50" rarity="NONE"/>
+                <production id="100131" count="1" chance="30.50" rarity="MEDIUM"/>
+            </Item>
+            <Item transactionId="11" itemId="100132"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100131" count="1"/>
+                <ingredient id="100131" count="1"/>
+                <production id="100131" count="1" chance="79.50" rarity="NONE"/>
+                <production id="100132" count="1" chance="20.50" rarity="RARE"/>
+            </Item>		
+            <Item transactionId="12" itemId="100133"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100132" count="1"/>
+                <ingredient id="100132" count="1"/>
+                <production id="100132" count="1" chance="89.50" rarity="NONE"/>
+                <production id="100133" count="1" chance="10.50" rarity="RARE"/>
+            </Item>			
+        </SubCategory>
+		<SubCategory subCategory="Pearl">
+            <Item transactionId="13" itemId="100135"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100134" count="1"/>
+                <ingredient id="100134" count="1"/>
+                <production id="100134" count="1" chance="59.50" rarity="NONE"/>
+                <production id="100135" count="1" chance="40.50" rarity="COMMON"/>
+            </Item>
+            <Item transactionId="14" itemId="100136"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100135" count="1"/>
+                <ingredient id="100135" count="1"/>
+                <production id="100135" count="1" chance="69.50" rarity="NONE"/>
+                <production id="100136" count="1" chance="30.50" rarity="MEDIUM"/>
+            </Item>
+            <Item transactionId="15" itemId="100137"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100136" count="1"/>
+                <ingredient id="100136" count="1"/>
+                <production id="100136" count="1" chance="79.50" rarity="NONE"/>
+                <production id="100137" count="1" chance="20.50" rarity="RARE"/>
+            </Item>		
+            <Item transactionId="16" itemId="100138"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100137" count="1"/>
+                <ingredient id="100137" count="1"/>
+                <production id="100137" count="1" chance="89.50" rarity="NONE"/>
+                <production id="100138" count="1" chance="10.50" rarity="RARE"/>
+            </Item>			
+        </SubCategory>
+		<SubCategory subCategory="Ruby">
+            <Item transactionId="17" itemId="100140"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100139" count="1"/>
+                <ingredient id="100139" count="1"/>
+                <production id="100139" count="1" chance="59.50" rarity="NONE"/>
+                <production id="100140" count="1" chance="40.50" rarity="COMMON"/>
+            </Item>
+            <Item transactionId="18" itemId="100141"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100140" count="1"/>
+                <ingredient id="100140" count="1"/>
+                <production id="100140" count="1" chance="69.50" rarity="NONE"/>
+                <production id="100141" count="1" chance="30.50" rarity="MEDIUM"/>
+            </Item>
+            <Item transactionId="19" itemId="100142"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100141" count="1"/>
+                <ingredient id="100141" count="1"/>
+                <production id="100141" count="1" chance="79.50" rarity="NONE"/>
+                <production id="100142" count="1" chance="20.50" rarity="RARE"/>
+            </Item>		
+            <Item transactionId="20" itemId="100143"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100142" count="1"/>
+                <ingredient id="100142" count="1"/>
+                <production id="100142" count="1" chance="89.50" rarity="NONE"/>
+                <production id="100143" count="1" chance="10.50" rarity="RARE"/>
+            </Item>			
+        </SubCategory>
+		<SubCategory subCategory="Sapphire">
+            <Item transactionId="21" itemId="100145"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100144" count="1"/>
+                <ingredient id="100144" count="1"/>
+                <production id="100144" count="1" chance="59.50" rarity="NONE"/>
+                <production id="100145" count="1" chance="40.50" rarity="COMMON"/>
+            </Item>
+            <Item transactionId="22" itemId="100146"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100145" count="1"/>
+                <ingredient id="100145" count="1"/>
+                <production id="100145" count="1" chance="69.50" rarity="NONE"/>
+                <production id="100146" count="1" chance="30.50" rarity="MEDIUM"/>
+            </Item>
+            <Item transactionId="23" itemId="100147"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100146" count="1"/>
+                <ingredient id="100146" count="1"/>
+                <production id="100146" count="1" chance="79.50" rarity="NONE"/>
+                <production id="100147" count="1" chance="20.50" rarity="RARE"/>
+            </Item>		
+            <Item transactionId="24" itemId="100148"> <!--  Item q ele vai gerar com Menas chance  -->
+                <ingredient id="100147" count="1"/>
+                <ingredient id="100147" count="1"/>
+                <production id="100147" count="1" chance="89.50" rarity="NONE"/>
+                <production id="100148" count="1" chance="10.50" rarity="RARE"/>
+            </Item>			
+        </SubCategory>
+    </SpecialCraft>
+	
+    <!-- <SpecialCraft category="Armor"> -->
+        <!-- <SubCategory subCategory="Armor_1"> -->
+            <!-- <Item transactionId="8" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="RARE"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="9" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="10" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="COMMON"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+        <!-- <SubCategory subCategory="Armor_2"> -->
+            <!-- <Item transactionId="11" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+    <!-- </SpecialCraft> -->
+    <!-- <SpecialCraft category="Books"> -->
+        <!-- <SubCategory subCategory="Books_1"> -->
+            <!-- <Item transactionId="12" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+    <!-- </SpecialCraft> -->
+    <!-- <SpecialCraft category="Jewelry"> -->
+        <!-- <SubCategory subCategory="Jewelry_1"> -->
+            <!-- <Item transactionId="13" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="14" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="15" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+        <!-- <SubCategory subCategory="Jewelry_2"> -->
+            <!-- <Item transactionId="16" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="17" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="18" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="19" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="20" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="21" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="22" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+        <!-- <SubCategory subCategory="Jewelry_3"> -->
+            <!-- <Item transactionId="23" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+        <!-- <SubCategory subCategory="Jewelry_4"> -->
+            <!-- <Item transactionId="24" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+    <!-- </SpecialCraft> -->
+    <!-- <SpecialCraft category="Misc"> -->
+        <!-- <SubCategory subCategory="Misc_1"> -->
+            <!-- <Item transactionId="25" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+        <!-- <SubCategory subCategory="Misc_2"> -->
+            <!-- <Item transactionId="26" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+        <!-- <SubCategory subCategory="Misc_3"> -->
+            <!-- <Item transactionId="27" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+        <!-- <SubCategory subCategory="Misc_4"> -->
+            <!-- <Item transactionId="28" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+        <!-- <SubCategory subCategory="Misc_5"> -->
+            <!-- <Item transactionId="29" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+    <!-- </SpecialCraft> -->
+    <!-- <SpecialCraft category="Event"> -->
+        <!-- <SubCategory subCategory="Event"> -->
+            <!-- <Item transactionId="30" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="31" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+            <!-- <Item transactionId="32" itemId="15722"> -->
+                <!-- <ingredient id="57" count="10" /> -->
+                <!-- <ingredient id="57" count="20" /> -->
+                <!-- <production id="14164" count="1" enchantmentLevel="25" chance="85.50" rarity="NONE"/> -->
+                <!-- <production id="15722" count="1" enchantmentLevel="25" chance="14.50" rarity="MEDIUM"/> -->
+            <!-- </Item> -->
+        <!-- </SubCategory> -->
+    <!-- </SpecialCraft> -->
+
+</list>

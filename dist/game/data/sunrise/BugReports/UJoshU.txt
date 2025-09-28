@@ -1,0 +1,3 @@
+Character Info: [Character: UJoshU[268815197] - Account: glicerio15 - IP: 181.65.125.112]
+Bug Type: General
+Message: CourseDeathLink, low damage and titan more damage 

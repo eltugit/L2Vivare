@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/gabriel/challengerZone.xsd">
+	<extremezone zoneId="82010" name="Beleth" imageName="beleth">
+        <playerTeleport>
+            <locationTeleportPlayer x="16333" y="211188" z="-9360" />
+            <locationTeleportPlayer x="18297" y="213140" z="-9358" />
+            <locationTeleportPlayer x="16320" y="215114" z="-9358" />
+            <locationTeleportPlayer x="14445" y="213134" z="-9358" />
+        </playerTeleport>
+        <locationSpawnNpc x="16323" y="213139" z="-9354" />
+        <zoneInfo name="Beleth Checker" id="82010" minZ="-9400" maxZ="-9300">
+            <node X="15947" Y="212757" />
+            <node X="15951" Y="213522" />
+            <node X="16686" Y="213510" />
+            <node X="16698" Y="212774" />
+        </zoneInfo>
+    </extremezone>
+</list>

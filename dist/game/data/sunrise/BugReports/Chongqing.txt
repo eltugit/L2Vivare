@@ -1,0 +1,3 @@
+Character Info: [Character: Chongqing[269198135] - Account: efsile94 - IP: 95.122.182.129]
+Bug Type: Misuse
+Message: Dagger miss skills if people run 

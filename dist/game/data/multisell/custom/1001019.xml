@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+
+	<item>
+		<ingredient id="100103" count="500" />
+		
+		
+		<production id="4422" count="1" />
+	</item><!-- Большой Дракон Ветра -->
+	<item>
+		<ingredient id="100103" count="500" />
+		
+		
+		<production id="4423" count="1" />
+	</item><!-- Большой Дракон Звезд -->
+	<item>
+		<ingredient id="100103" count="500" />
+		
+		
+		<production id="4424" count="1" />
+	</item><!-- Большой Дракон Сумерек -->
+	
+
+
+</list>

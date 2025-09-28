@@ -1,0 +1,3 @@
+Character Info: [Character: Zhemchuzhnaya[268451062] - Account: argento3000 - IP: 186.23.85.214]
+Bug Type: Fatal
+Message: fix counter critical the prophet is not working 

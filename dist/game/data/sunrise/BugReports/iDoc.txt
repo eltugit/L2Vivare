@@ -1,0 +1,3 @@
+Character Info: [Character: iDoc[269039438] - Account: dualpower23 - IP: 186.19.103.8]
+Bug Type: Fatal
+Message: Gks can use heavy by equipping the set on a subclass and then changing to Gk subclass... it has no penalty 

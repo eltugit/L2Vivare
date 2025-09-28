@@ -1,0 +1,3 @@
+Character Info: [Character: Ruth[269083890] - Account: lorenzo - IP: 2.32.0.156]
+Bug Type: General
+Message: Tank skill shield deflect magic dont work good i think,dont reflect 100%damage back but only whit a chance 

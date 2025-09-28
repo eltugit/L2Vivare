@@ -1,0 +1,3 @@
+Character Info: [Character: Tianjin[268449440] - Account: franxesco23 - IP: 37.134.72.201]
+Bug Type: General
+Message: daguer miss skill, fix please 

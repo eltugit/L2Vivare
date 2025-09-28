@@ -1,0 +1,3 @@
+Character Info: [Character: Crybaby[268445545] - Account: kevindb - IP: 177.45.175.217]
+Bug Type: General
+Message: fix heal monlight sentinel 

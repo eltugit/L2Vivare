@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/skills.xsd">
+	<skill id="98765" levels="1" name="HEAVY NERF">
+        <set name="blockedInOlympiad" val="true" />
+        <set name="excludedFromCheck" val="true" />
+        <set name="magicLvl" val="80" />
+        <set name="operateType" val="P" />
+        <set name="targetType" val="SELF" />
+        <for>
+            <mul stat="pDef" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="pAtk" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="mAtk" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="rEvas" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="mAtkSpd" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="critRate" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="runSpd" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="maxHp" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="pAtkSpd" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+            <mul stat="accCombat" val="0.1">
+                <using kind="HEAVY" />
+            </mul>
+        </for>
+	</skill>
+</list>

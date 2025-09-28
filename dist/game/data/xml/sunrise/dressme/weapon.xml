@@ -1,0 +1,1269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/dressme/weapon.xsd">
+
+
+	<weapon id="6581" name="Sword Forgotten" type="SWORD">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="6599" name="Pole Saint" type="POLE">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="6602" name="Fist Demon" type="DUALFIST">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="6580" name="Dual Legion" type="DUAL">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="6590" name="Dagger Angel" type="DAGGER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="7577" name="Bow Draconic" type="BOW">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="6584" name="Blunt Basalt" type="BLUNT">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="6605" name="Big Sword Heavens" type="SWORD" isBig="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="6596" name="Big Blunt Dragon" type="BLUNT" isBig="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9369" name="Ancient Gram" type="ANCIENTSWORD">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9365" name="Rapier Laevatein" type="RAPIER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9373" name="Crossbow Sarnga" type="CROSSBOW">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10434" name="Sword Saw" type="SWORD">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10440" name="Sword Spirit" type="SWORD" isMagic="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10449" name="Pole Trident" type="POLE">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10458" name="Fist Hand" type="DUALFIST">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10415" name="Dual Icarus" type="DUAL">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10447" name="Dagger Disperser" type="DAGGER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10444" name="Bow Spitter" type="BOW">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10452" name="Blunt Hammer" type="BLUNT">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10456" name="Blunt Hall" type="BLUNT" isMagic="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10437" name="Big Sword Heavy" type="SWORD" isBig="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10464" name="Ancient Wing" type="ANCIENTSWORD">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10461" name="Rapier Stinger" type="RAPIER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10468" name="Crossbow Shooter" type="CROSSBOW">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="13883" name="Dual Daggers Icarus" type="DUALDAGGER">
+		<price id="57" count="1" />
+	</weapon>
+		<weapon id="9854" name="Sword Dynasty" type="SWORD">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9860" name="Sword Phantom" type="SWORD" isMagic="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9869" name="Pole Halberd" type="POLE">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9878" name="Fist Bagh" type="DUALFIST">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10004" name="Dual Dynasty" type="DUAL">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9866" name="Dagger Knife" type="DAGGER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9863" name="Bow Dynasty" type="BOW">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9876" name="Blunt Cudgel" type="BLUNT" isMagic="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9857" name="Big Sword Dynasty" type="SWORD" isBig="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10532" name="Big Blunt Crusher" type="BLUNT" isBig="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="10529" name="Big Blunt Staff" type="BLUNT" isBig="true" isMagic="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9377" name="Rapier Dynasty" type="RAPIER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="9386" name="Crossbow Dynasty" type="CROSSBOW">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="13882" name="Dual Daggers Dynasty" type="DUALDAGGER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14118" name="Sword Cutter" type="SWORD">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14125" name="Sword Buster" type="SWORD" isMagic="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14133" name="Pole Stormer" type="POLE">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14130" name="Fist Fighter" type="DUALFIST">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="52" name="Dual Vesper" type="DUAL">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14128" name="Dagger Shaper" type="DAGGER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14149" name="Bow Thrower" type="BOW">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="15859" name="Skull Carnium" type="BOW">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14137" name="Blunt Avenger" type="BLUNT">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14142" name="Blunt Caster" type="BLUNT" isMagic="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14121" name="Big Sword Slasher" type="SWORD" isBig="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14139" name="Big Blunt Retributer" type="BLUNT" isBig="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14145" name="Big Blunt Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14157" name="Ancient Nagan" type="ANCIENTSWORD">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14151" name="Rapier Pincer" type="RAPIER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="14155" name="Crossbow Sheutjeh" type="CROSSBOW">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="13884" name="Dual Daggers Vesper" type="DUALDAGGER">
+		<price id="57" count="1" />
+	</weapon>
+	<weapon id="55643" name="Antharas Ancient Sword" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55642" name="Antharas Crossbow" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55644" name="Antharas Sword" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55645" name="Antharas Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55646" name="Antharas Phantom" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55647" name="Antharas Bow" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55648" name="Antharas Sharper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55649" name="Antharas Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55650" name="Antharas Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55651" name="Antharas Fist" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55652" name="Antharas Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+    <weapon id="55653" name="Antharas Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55654" name="Valakas Rapier" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55655" name="Valakas Crossbow" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55656" name="Valakas Bow" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55657" name="Valakas Sharper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55658" name="Valakas Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55659" name="Valakas Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55660" name="Valakas Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55661" name="Valakas Fist" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+    <weapon id="55662" name="Valakas Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55663" name="Valakas Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55664" name="Lindvior Rapier" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55665" name="Lindvior Ancient Sword" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55666" name="Lindvior Crossbow" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55667" name="Lindvior Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55668" name="Lindvior Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55669" name="Lindvior Bow" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55670" name="Lindvior Sharper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55671" name="Lindvior Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55672" name="Lindvior Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55673" name="Lindvior Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55674" name="Lindvior Fist" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55675" name="Lindvior Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+    <weapon id="55676" name="Lindvior Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55677" name="Lindvior Staff" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55678" name="Lindvior Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>	
+	<weapon id="55689" name="Ice Helios Rapier" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55690" name="Ice Helios Ancient Sword" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55691" name="Ice Helios Crossbow" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55679" name="Ice Helios Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55687" name="Ice Helios Phantom" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55682" name="Ice Helios Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55688" name="Ice Helios Bow" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55680" name="Ice Helios Sharper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55684" name="Ice Helios Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55683" name="Ice Helios Fist" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55693" name="Ice Helios Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+    <weapon id="55692" name="Ice Helios Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55686" name="Ice Helios Staff" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55681" name="Ice Helios Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55685" name="Ice Helios Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55704" name="Fire Helios Rapier" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55705" name="Fire Helios Ancient Sword" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55706" name="Fire Helios Crossbow" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55694" name="Fire Helios Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55702" name="Fire Helios Phantom" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55697" name="Fire Helios Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55703" name="Fire Helios Bow" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55695" name="Fire Helios Sharper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55699" name="Fire Helios Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55698" name="Fire Helios Fist" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55708" name="Fire Helios Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+    <weapon id="55707" name="Fire Helios Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55701" name="Fire Helios Staff" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55696" name="Fire Helios Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55700" name="Fire Helios Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55719" name="Shadow Rapier" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55720" name="Shadow Ancient Sword" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55721" name="Shadow Crossbow" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55709" name="Shadow Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55711" name="Shadow Phantom" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55710" name="Shadow Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55715" name="Shadow Bow" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55713" name="Shadow Sharper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55718" name="Shadow Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55714" name="Shadow Fist" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55716" name="Shadow Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+    <weapon id="55717" name="Shadow Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55712" name="Shadow Staff" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	
+	<weapon id="55900" name="Infinity Blade" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55901" name="Infinity Cleaver" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55902" name="Infinity Axe" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55903" name="Infinity Rod" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55904" name="Infinity Crusher" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55905" name="Infinity Scepter" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55906" name="Infinity Stinger" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55907" name="Infinity Fang" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55908" name="Infinity Bow" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55909" name="Infinity Wing" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55910" name="Infinity Spear" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55911" name="Infinity Rapier" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55912" name="Infinity Sword" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55913" name="Infinity Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	
+	<weapon id="55544" name="Emerald Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55545" name="Emerald Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55546" name="Emerald Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55547" name="Emerald Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55548" name="Emerald Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55549" name="Emerald Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55550" name="Emerald Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55551" name="Emerald Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55552" name="Emerald Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55553" name="Emerald Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55554" name="Emerald Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55555" name="Emerald Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55556" name="Emerald Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55557" name="Emerald Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55558" name="Emerald Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="55559" name="Emerald Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	
+	<weapon id="71714" name="Blue Emerald Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71715" name="Blue Emerald Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71716" name="Blue Emerald Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71717" name="Blue Emerald Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71718" name="Blue Emerald Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71719" name="Blue Emerald Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71720" name="Blue Emerald Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71721" name="Blue Emerald Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71722" name="Blue Emerald Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71723" name="Blue Emerald Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71724" name="Blue Emerald Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71725" name="Blue Emerald Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71726" name="Blue Emerald Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71727" name="Blue Emerald Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71728" name="Blue Emerald Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71729" name="Blue Emerald Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71733" name="Red Emerald Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71734" name="Red Emerald Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71735" name="Red Emerald Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71736" name="Red Emerald Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71737" name="Red Emerald Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71738" name="Red Emerald Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71739" name="Red Emerald Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71740" name="Red Emerald Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71741" name="Red Emerald Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71742" name="Red Emerald Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71743" name="Red Emerald Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71744" name="Red Emerald Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71745" name="Red Emerald Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71746" name="Red Emerald Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71747" name="Red Emerald Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71748" name="Red Emerald Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71859" name="Green Emerald Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71860" name="Green Emerald Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71861" name="Green Emerald Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71862" name="Green Emerald Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71863" name="Green Emerald Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71864" name="Green Emerald Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71865" name="Green Emerald Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71866" name="Green Emerald Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71867" name="Green Emerald Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71868" name="Green Emerald Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71869" name="Green Emerald Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71870" name="Green Emerald Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71871" name="Green Emerald Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71872" name="Green Emerald Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71873" name="Green Emerald Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71874" name="Green Emerald Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71878" name="Purple Emerald Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71879" name="Purple Emerald Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71880" name="Purple Emerald Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71881" name="Purple Emerald Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71882" name="Purple Emerald Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71883" name="Purple Emerald Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71884" name="Purple Emerald Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71885" name="Purple Emerald Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71886" name="Purple Emerald Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71887" name="Purple Emerald Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71888" name="Purple Emerald Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71889" name="Purple Emerald Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71890" name="Purple Emerald Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71891" name="Purple Emerald Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71892" name="Purple Emerald Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71893" name="Purple Emerald Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71897" name="Black Emerald Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71898" name="Black Emerald Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71899" name="Black Emerald Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71900" name="Black Emerald Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71901" name="Black Emerald Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71902" name="Black Emerald Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71903" name="Black Emerald Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71904" name="Black Emerald Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71905" name="Black Emerald Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71906" name="Black Emerald Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71907" name="Black Emerald Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71908" name="Black Emerald Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71909" name="Black Emerald Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71910" name="Black Emerald Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71911" name="Black Emerald Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71912" name="Black Emerald Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71916" name="White Emerald Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71917" name="White Emerald Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71918" name="White Emerald Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71919" name="White Emerald Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71920" name="White Emerald Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71921" name="White Emerald Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71922" name="White Emerald Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71923" name="White Emerald Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71924" name="White Emerald Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71925" name="White Emerald Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71926" name="White Emerald Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71927" name="White Emerald Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71928" name="White Emerald Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71929" name="White Emerald Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71930" name="White Emerald Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71931" name="White Emerald Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71838" name="Blue Vesper Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71839" name="Blue Vesper Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71840" name="Blue Vesper Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71841" name="Blue Vesper Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71842" name="Blue Vesper Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71843" name="Blue Vesper Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71844" name="Blue Vesper Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71845" name="Blue Vesper Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71846" name="Blue Vesper Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71847" name="Blue Vesper Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71848" name="Blue Vesper Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71849" name="Blue Vesper Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71850" name="Blue Vesper Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71851" name="Blue Vesper Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71852" name="Blue Vesper Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71853" name="Blue Vesper Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40115" name="Infinity God Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40117" name="Infinity God Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40119" name="Infinity God Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40128" name="Infinity God Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40121" name="Infinity God Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40123" name="Infinity God Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40125" name="Infinity God Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40127" name="Infinity God Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40129" name="Infinity God Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40130" name="Infinity God Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40132" name="Infinity God Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40134" name="Infinity God Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40135" name="Infinity God Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40136" name="Infinity God Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="40137" name="Infinity God Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71961" name="Black Aura Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71964" name="Black Aura Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71962" name="Black Aura Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71965" name="Black Aura Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71968" name="Black Aura Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71967" name="Black Aura Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71966" name="Black Aura Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71969" name="Black Aura Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71963" name="Black Aura Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71960" name="Black Aura Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71971" name="Black Aura Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71972" name="Black Aura Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71973" name="Black Aura Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71974" name="Black Aura Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71976" name="Black Aura Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71970" name="Black Aura Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79005" name="Heaven Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79002" name="Heaven Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79015" name="Heaven Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79007" name="Heaven Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79000" name="Heaven Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79004" name="Heaven Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79009" name="Heaven Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79012" name="Heaven Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79008" name="Heaven Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79010" name="Heaven Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79001" name="Heaven Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79014" name="Heaven Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79013" name="Heaven Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79011" name="Heaven Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79003" name="Heaven Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="79006" name="Heaven Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51502" name="Odyssey Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51520" name="Odyssey Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51508" name="Odyssey Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51514" name="Odyssey Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51505" name="Odyssey Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51523" name="Odyssey Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51529" name="Odyssey Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51511" name="Odyssey Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51517" name="Odyssey Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51543" name="Odyssey Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51526" name="Odyssey Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51532" name="Odyssey Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51535" name="Odyssey Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51538" name="Odyssey Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51542" name="Odyssey Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="51541" name="Odyssey Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71982" name="Flowing Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71979" name="Flowing Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71992" name="Flowing Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71984" name="Flowing Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71977" name="Flowing Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71981" name="Flowing Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71986" name="Flowing Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71989" name="Flowing Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71985" name="Flowing Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71987" name="Flowing Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71978" name="Flowing Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71991" name="Flowing Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71990" name="Flowing Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71988" name="Flowing Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71980" name="Flowing Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="71983" name="Flowing Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90016" name="Akamanah Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90017" name="Akamanah Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90018" name="Akamanah Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90019" name="Akamanah Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90020" name="Akamanah Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90021" name="Akamanah Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90022" name="Akamanah Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90023" name="Akamanah Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90024" name="Akamanah Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90025" name="Akamanah Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90026" name="Akamanah Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90027" name="Akamanah Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90028" name="Akamanah Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90029" name="Akamanah Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90030" name="Akamanah Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90031" name="Akamanah Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90032" name="Zarich Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90033" name="Zarich Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90034" name="Zarich Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90035" name="Zarich Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90036" name="Zarich Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90037" name="Zarich Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90038" name="Zarich Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90039" name="Zarich Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90040" name="Zarich Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90041" name="Zarich Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90042" name="Zarich Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90043" name="Zarich Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90044" name="Zarich Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90045" name="Zarich Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90046" name="Zarich Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90047" name="Zarich Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90048" name="Baium Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90049" name="Baium Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90050" name="Baium Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90051" name="Baium Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90052" name="Baium Retributer" type="BLUNT" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90053" name="Baium Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90054" name="Baium Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90055" name="Baium Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90056" name="Baium Buster" type="SWORD" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90057" name="Baium Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90058" name="Baium Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90059" name="Baium Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90060" name="Baium Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90061" name="Baium Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90062" name="Baium Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="90063" name="Baium Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33348" name="Ice Invoke Shaper" type="DAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33346" name="Ice Invoke Cutter" type="SWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33347" name="Ice Invoke Slasher" type="SWORD" isBig="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33351" name="Ice Invoke Avenger" type="BLUNT">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33349" name="Ice Invoke Fighter" type="DUALFIST">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33350" name="Ice Invoke Stormer" type="POLE">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33354" name="Ice Invoke Thrower" type="BOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33352" name="Ice Invoke Caster" type="BLUNT" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33353" name="Ice Invoke Singer" type="BLUNT" isBig="true" isMagic="true">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33355" name="Ice Invoke Pincer" type="RAPIER">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33357" name="Ice Invoke Nagan" type="ANCIENTSWORD">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33356" name="Ice Invoke Shooter" type="CROSSBOW">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33359" name="Ice Invoke Dual Sword" type="DUAL">
+		<price id="99888" count="1" />
+	</weapon>
+	<weapon id="33358" name="Ice Invoke Dual Dagger" type="DUALDAGGER">
+		<price id="99888" count="1" />
+	</weapon>
+	
+</list>

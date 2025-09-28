@@ -1,0 +1,265 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- S-84 weapon -->
+<!-- © 2011 by NeverMore -->
+
+<list enabled="true" maintainEnchantment="true"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	
+	<item>
+		
+		<production id="22123" count="1" />
+	</item><!-- Пак Ы Сосок ВОЙНАМ -->
+	<item>
+		
+		<production id="22122" count="1" />
+	</item><!-- Пак А Сосок ВОЙНАМ -->
+	<item>
+		
+		<production id="22121" count="1" />
+	</item><!-- Пак Б Сосок ВОЙНАМ -->
+	<item>
+		
+		<production id="22120" count="1" />
+	</item><!-- Пак Ц Сосок ВОЙНАМ -->
+	<item>
+		
+		<production id="22119" count="1" />
+	</item><!-- Пак D Сосок ВОЙНАМ -->
+	<item>
+		
+		<production id="6645" count="10000" />
+	</item><!-- Соски Вона ПЕТА -->
+	<item>
+		
+		<production id="22113" count="1" />
+	</item><!-- Пак Блес Сосок Ы -->
+	<item>
+		
+		<production id="22112" count="1" />
+	</item><!-- Пак Блес Сосок А -->
+	<item>
+		
+		<production id="22111" count="1" />
+	</item><!-- Пак Блес Сосок Б -->
+	<item>
+		
+		<production id="22110" count="1" />
+	</item><!-- Пак Блес Сосок Ц -->
+	<item>
+		
+		<production id="22109" count="1" />
+	</item><!-- Пак Блес Сосок D -->
+	
+	<item>
+		
+		<production id="6647" count="10000" />
+	</item><!-- Соски Блес ПЕТА -->
+	<item>
+		
+		<production id="2508" count="1000" />
+	</item><!-- Проклятая Кость -->
+	<item>
+		
+		<production id="8875" count="1000" />
+	</item><!-- Символ Битвы -->
+	<item>
+		
+		<production id="8876" count="1000" />
+	</item><!-- Магический Символ -->
+	<item>
+		
+		<production id="8873" count="1000" />
+	</item><!-- Кровь Феникса -->
+	<item>
+		
+		<production id="8874" count="1000" />
+	</item><!-- Святая Вода Эйнхасад -->
+	
+	<item>
+		
+		<production id="8599" count="1000" />
+	</item><!-- Свиток Снятия Штрафа Ы -->
+	<item>
+		
+		<production id="2130" count="1000" />
+	</item><!-- Самоцвет Д -->
+	<item>
+		
+		<production id="2131" count="1000" />
+	</item><!-- Самоцвет Ц -->
+	<item>
+		
+		<production id="2132" count="1000" />
+	</item><!-- Самоцвет Б -->
+	<item>
+		
+		<production id="2133" count="1000" />
+	</item><!-- Самоцвет А -->
+	<item>
+		
+		<production id="2134" count="1000" />
+	</item><!-- Самоцвет Ы -->
+	<item>
+		
+		<production id="1785" count="1000" />
+	</item><!-- Руда Души -->
+	<item>
+		
+		<production id="3031" count="1000" />
+	</item><!-- Руда Духов -->
+	<item>
+		
+		<production id="8615" count="1000" />
+	</item><!-- Кристал Призыва -->
+	<item>
+		
+		<production id="8639" count="1000" />
+	</item><!-- Игровая Кость - Черви -->
+	<item>
+		
+		<production id="8627" count="1000" />
+	</item><!-- Игровая Кость - Пики -->
+	<item>
+		
+		<production id="8633" count="1000" />
+	</item><!-- Игровая Кость - Трефы -->
+	<item>
+		
+		<production id="10410" count="1000" />
+	</item><!-- Игровая Кость - Буби -->
+	<item>
+		
+		<production id="10412" count="1000" />
+	</item><!-- Игровая Кость - Буби -->
+	<item>
+		
+		<production id="22071" count="1000" />
+	</item><!-- Сверкающая Стрела Ы -->
+	<item>
+		
+		<production id="9637" count="1000" />
+	</item><!-- Сверкающий Болт Ы -->
+	<item>
+		
+		<production id="5589" count="1000" />
+	</item><!-- Сверкающий Болт Ы -->
+		<item>
+		
+		<production id="1458" count="1000" />
+	</item>
+	<item>
+		
+		<production id="1459" count="1000" />
+	</item>
+	<item>
+		
+		<production id="1460" count="1000" />
+	</item>
+	<item>
+		
+		<production id="1461" count="1000" />
+	</item>
+	<item>
+		
+		<production id="1462" count="1000" />
+	</item>
+	<item>
+		
+		<production id="10112" count="1000" />
+	</item>
+	<item>
+		
+		<production id="728" count="1000" />
+	</item><!-- Магическое Зелье (Большое) -->
+	<item>
+		
+		<production id="1539" count="1000" />
+	</item><!-- Большое зелье Исцеления -->
+	<item>
+		
+		<production id="1374" count="1000" />
+	</item><!-- Большое Зелье Ускорения (Бега) -->
+	<item>
+		
+		<production id="1375" count="1000" />
+	</item><!-- Большое Зелье Стремительной Атаки -->
+	<item>
+		
+		<production id="6036" count="1000" />
+	</item><!-- Большое Зелье Ускорения Магии -->
+	<item>
+		
+		<production id="9570" count="1" />
+	</item>
+	<item>
+		
+		<production id="9571" count="1" />
+	</item>
+	<item>
+		
+		<production id="9572" count="1" />
+	</item>
+	<item>
+		
+		<production id="13071" count="1" />
+	</item>
+	<item>
+		
+		<production id="13072" count="1" />
+	</item>
+	<item>
+		
+		<production id="13073" count="1" />
+	</item>
+	<item>
+		
+		<production id="15826" count="1" />
+	</item>
+	<item>
+		
+		<production id="15827" count="1" />
+	</item>
+	<item>
+		
+		<production id="15828" count="1" />
+	</item>
+	<item>
+		
+		<production id="21579" count="1" />
+	</item>
+	<item>
+		
+		<production id="14681" count="1" />
+	</item>
+	<item>
+		
+		<production id="14680" count="1" />
+	</item>
+	<item>
+		
+		<production id="14679" count="1" />
+	</item>
+	<item>
+		
+		<production id="14678" count="1" />
+	</item>
+	<item>
+		
+		<production id="9451" count="1" />
+	</item>
+	<item>
+		
+		<production id="4295" count="1" />
+	</item>
+	<item>
+		
+		<production id="3865" count="1" />
+	</item>
+	<item>
+		
+		<production id="7267" count="1" />
+	</item>
+	
+</list>

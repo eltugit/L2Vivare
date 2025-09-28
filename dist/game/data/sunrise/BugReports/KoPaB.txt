@@ -1,0 +1,3 @@
+Character Info: [Character: KoPaB[268468864] - Account: cnedd1234 - IP: 78.83.20.149]
+Bug Type: Fatal
+Message: When i click throuth alt+b to changfe the subclass, i get an error 

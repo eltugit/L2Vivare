@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+	<item id="36036" type="Armor" name="Royal Heavy">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t91_u_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="chest" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="2240" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="BRONZE" />
+        <set name="weight" val="7520" />
+        <set name="price" val="46668000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36037" type="Armor" name="Royal Heavy Gaiters">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t91_l_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="HEAVY" />
+        <set name="bodypart" val="legs" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="1400" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="SCALE_OF_DRAGON" />
+        <set name="weight" val="3170" />
+        <set name="price" val="29168000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36038" type="Armor" name="Royal Heavy Gauntlets">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t91_g_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="gloves" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="560" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="LEATHER" />
+        <set name="weight" val="510" />
+        <set name="price" val="11667000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36039" type="Armor" name="Royal Heavy Boots">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t91_b_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="feet" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="560" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="LEATHER" />
+        <set name="weight" val="1070" />
+        <set name="price" val="11667000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36041" type="Armor" name="Royal Leather">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t92_u_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="LIGHT" />
+        <set name="bodypart" val="chest" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="1680" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="BRONZE" />
+        <set name="weight" val="4140" />
+        <set name="price" val="35000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36042" type="Armor" name="Royal Leather Gaiters">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t92_l_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="LIGHT" />
+        <set name="bodypart" val="legs" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="1050" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="SCALE_OF_DRAGON" />
+        <set name="weight" val="1320" />
+        <set name="price" val="21876000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36043" type="Armor" name="Royal Leather Gauntlets">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t92_g_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="gloves" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="560" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="LEATHER" />
+        <set name="weight" val="510" />
+        <set name="price" val="11667000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36044" type="Armor" name="Royal Leather Boots">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t92_b_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="feet" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="560" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="LEATHER" />
+        <set name="weight" val="1070" />
+        <set name="price" val="11667000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36046" type="Armor" name="Royal Robe">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t93_u_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="MAGIC" />
+        <set name="bodypart" val="chest" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="1680" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="BRONZE" />
+        <set name="weight" val="1750" />
+        <set name="price" val="35000000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36047" type="Armor" name="Royal Robe Stockings">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t93_l_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="armor_type" val="MAGIC" />
+        <set name="bodypart" val="legs" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="1050" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="SCALE_OF_DRAGON" />
+        <set name="weight" val="850" />
+        <set name="price" val="21876000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36048" type="Armor" name="Royal Robe Gauntlets">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t93_g_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="gloves" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="560" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="LEATHER" />
+        <set name="weight" val="510" />
+        <set name="price" val="11667000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	<item id="36049" type="Armor" name="Royal Robe Boots">
+        <set name="icon" val="viRUS_NewDino_HF.viRUS_Icon.Armor_t93_b_i00" />
+        <set name="default_action" val="EQUIP" />
+        <set name="bodypart" val="feet" />
+        <set name="immediate_effect" val="true" />
+        <set name="crystal_count" val="560" />
+        <set name="crystal_type" val="S84" />
+        <set name="material" val="LEATHER" />
+        <set name="weight" val="1070" />
+        <set name="price" val="11667000" />
+        <set name="handler" val="DressMeItem" />
+    </item>
+	
+</list>

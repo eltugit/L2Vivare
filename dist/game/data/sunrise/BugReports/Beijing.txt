@@ -1,0 +1,3 @@
+Character Info: [Character: Beijing[269198098] - Account: yagogr2 - IP: 37.14.186.16]
+Bug Type: General
+Message: Daggers miss many skills even from behind 

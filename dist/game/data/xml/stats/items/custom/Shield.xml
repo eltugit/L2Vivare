@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="55623" type="Armor" name="Shield Anakazel">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_01_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55624" type="Armor" name="Shield Bernstein A">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_02_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55625" type="Armor" name="Shield Bernstein B">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_03_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55626" type="Armor" name="Shield Freya">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_04_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55627" type="Armor" name="Shield Helios">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_05_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55628" type="Armor" name="Shield Hunchback">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_06_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55629" type="Armor" name="Shield Ice Knight">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_07_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55630" type="Armor" name="Shield Istina">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_08_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55631" type="Armor" name="Shield Kelbim">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_09_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55632" type="Armor" name="Shield Kunda">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_10_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55633" type="Armor" name="Shield Mahum">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_11_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	
+	<item id="55634" type="Armor" name="Shield Marshal">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_12_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55635" type="Armor" name="Shield Mask">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_13_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55636" type="Armor" name="Shield Palaika">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_14_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55637" type="Armor" name="Shield Scarab A">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_15_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55638" type="Armor" name="Shield Scarab B">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_16_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55639" type="Armor" name="Shield Lizardman">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_19_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55640" type="Armor" name="Shield Tigar">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_20_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55641" type="Armor" name="Shield Vampire">
+		<set name="icon" val="L2Gabri2.viRUS_Icon.viRUS_shield_21_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55560" type="Armor" name="Emerald Shield">
+		<set name="icon" val="LineageWeaponsSW_AS.g_beam_shield" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="55561" type="Armor" name="Emerald Sigil">
+		<set name="icon" val="LineageWeaponsSW_AS.g_beam_sigil" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71731" type="Armor" name="Blue Emerald Shield">
+		<set name="icon" val="AeronIcons.sw_blue_shield" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71732" type="Armor" name="Blue Emerald Sigil">
+		<set name="icon" val="AeronIcons.sw_blue_sigil" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71750" type="Armor" name="Red Emerald Shield">
+		<set name="icon" val="AeronIcons.sw_red_shield" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71751" type="Armor" name="Red Emerald Sigil">
+		<set name="icon" val="AeronIcons.sw_red_sigil" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="60087" type="Armor" name="Oddysey Shield">
+		<set name="icon" val="Odyssey_Weapons_AS.shield_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="60088" type="Armor" name="Oddysey Sigil">
+		<set name="icon" val="Odyssey_Weapons_AS.sigil_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71876" type="Armor" name="Green Emerald Shield">
+		<set name="icon" val="AeronIcons.sw_green_shield" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71877" type="Armor" name="Green Emerald Sigil">
+		<set name="icon" val="AeronIcons.sw_green_sigil" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71895" type="Armor" name="Purple Emerald Shield">
+		<set name="icon" val="AeronIcons.sw_purple_shield" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71896" type="Armor" name="Purple Emerald Sigil">
+		<set name="icon" val="AeronIcons.sw_purple_sigil" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71914" type="Armor" name="Black Emerald Shield">
+		<set name="icon" val="AeronIcons.sw_black_shield" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71915" type="Armor" name="Black Emerald Sigil">
+		<set name="icon" val="AeronIcons.sw_black_sigil" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71933" type="Armor" name="White Emerald Shield">
+		<set name="icon" val="AeronIcons.sw_white_shield" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71934" type="Armor" name="White Emerald Sigil">
+		<set name="icon" val="AeronIcons.sw_white_sigil" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71855" type="Armor" name="Blue Vesper Noble Shield">
+		<set name="icon" val="icon.weapon_vesper_verteidiger_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71856" type="Armor" name="Blue Vesper Noble Sigil">
+		<set name="icon" val="icon.verper_sigil_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="71975" type="Armor" name="Black Aura Shield">
+		<set name="icon" val="AeronWeapons4.Shield1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="70628" type="Armor" name="Black Aura Sigil">
+		<set name="icon" val="AeronWeapons4.sigil1" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="33342" type="Armor" name="Ice Invoke Shield">
+		<set name="icon" val="LineageWeapons4_AS.beranka_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	<item id="33345" type="Armor" name="Ice Invoke Sigil">
+		<set name="icon" val="LineageWeapons4_AS.elos_i11" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="588" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="DAMASCUS" />
+		<set name="weight" val="1130" />
+		
+	</item>
+	
+</list>

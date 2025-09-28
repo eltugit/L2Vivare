@@ -1,0 +1,3 @@
+Character Info: [Character: MarketIn[268510863] - Account: nikostsats - IP: 185.44.145.170]
+Bug Type: General
+Message: get an boos manager for each one with timer 

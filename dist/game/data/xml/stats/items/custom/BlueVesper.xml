@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="71838" type="Weapon" name="Blue Vesper Noble Cutter">
+		<set name="icon" val="icon.weapon_vesper_cutter_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71839" type="Weapon" name="Blue Vesper Noble Shaper">
+		<set name="icon" val="icon.weapon_vesper_shaper_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71840" type="Weapon" name="Blue Vesper Noble Avenger">
+		<set name="icon" val="icon.weapon_vesper_avenger_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71841" type="Weapon" name="Blue Vesper Noble Retributer">
+		<set name="icon" val="icon.weapon_vesper_retributer_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71842" type="Weapon" name="Blue Vesper Noble Slasher">
+		<set name="icon" val="icon.weapon_vesper_slasher_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71843" type="Weapon" name="Blue Vesper Noble Fighter">
+		<set name="icon" val="icon.weapon_vesper_fighter_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71844" type="Weapon" name="Blue Vesper Noble Stormer">
+		<set name="icon" val="icon.weapon_vesper_stormer_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71845" type="Weapon" name="Blue Vesper Noble Caster">
+		<set name="icon" val="icon.weapon_vesper_caster_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71846" type="Weapon" name="Blue Vesper Noble Singer">
+		<set name="icon" val="icon.weapon_vesper_singer_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71847" type="Weapon" name="Blue Vesper Noble Buster">
+		<set name="icon" val="icon.weapon_vesper_burster_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="Sword" />
+		<set name="bodypart" val="rhand" />
+	</item>
+	<item id="71848" type="Weapon" name="Blue Vesper Noble Thrower">
+		<set name="icon" val="icon.weapon_vesper_thrower_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71849" type="Weapon" name="Blue Vesper Noble Pincer">
+		<set name="icon" val="icon.weapon_vesper_pincer_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="rapier" />
+		<set name="bodypart" val="rhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71850" type="Weapon" name="Blue Vesper Noble Nagan">
+		<set name="icon" val="icon.weapon_vesper_nagen_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientSword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71851" type="Weapon" name="Blue Vesper Noble Shooter">
+		<set name="icon" val="icon.weapon_vesper_schutze_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="71852" type="Weapon" name="Blue Vesper Noble Dual Dagger">
+		<set name="icon" val="icon.dual_dagger_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	<item id="71853" type="Weapon" name="Blue Vesper Noble Dual Sword">
+		<set name="icon" val="icon.weapon_dual_sword_i00" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+	</item>
+	
+</list>

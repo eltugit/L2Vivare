@@ -1,0 +1,3 @@
+Character Info: [Character: Yikes[268860739] - Account: bigstar53 - IP: 185.129.114.174]
+Bug Type: General
+Message: Vesper masterwork shield doesnt work. M def doesnt change 

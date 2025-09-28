@@ -1,0 +1,3 @@
+Character Info: [Character: Masoutis[268508295] - Account: tandalos98 - IP: 94.66.221.87]
+Bug Type: Balance
+Message: Please make bottle of souls toggle like hp/mp potions, so soulhound can be played without struggle 

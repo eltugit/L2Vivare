@@ -1,0 +1,3 @@
+Character Info: [Character: Khidell[268813985] - Account: ejbm2 - IP: 138.36.225.39]
+Bug Type: Balance
+Message: fix warp e blink o delay porque usa skil e 1 segundo e meio para o personagem pular e isso meio que fode 

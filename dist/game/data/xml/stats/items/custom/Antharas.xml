@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+
+    <item id="55642" type="Weapon" name="Antharas Sheutjeh">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_suitze_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="crossbow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1580" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55643" type="Weapon" name="Antharas Nagan">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_slasher_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="ancientsword" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1800" />
+		<set name="item_skill" val="3552-1;3653-1;3566-5" />
+		<set name="equip_condition" val="{{ec_race;{5}}}" />
+	</item>
+	<item id="55644" type="Weapon" name="Antharas Cutter">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_cutter_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="sword" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55645" type="Weapon" name="Antharas Slasher">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_slasher_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1740" />
+	</item>
+	<item id="55646" type="Weapon" name="Antharas Buster">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_buster_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="sword" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55647" type="Weapon" name="Antharas Thrower">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_thrower_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="bow" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55648" type="Weapon" name="Antharas Shaper">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_shaper_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dagger" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55649" type="Weapon" name="Antharas Stormer">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_stormer_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="pole" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="BRONZE" />
+		<set name="weight" val="2010" />
+	</item>
+	<item id="55650" type="Weapon" name="Antharas Avenger">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_avenger_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="blunt" />
+		<set name="bodypart" val="rhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="FINE_STEEL" />
+		<set name="weight" val="1740" />
+	</item>
+	<item id="55651" type="Weapon" name="Antharas Fighter">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_fighter_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualfist" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1550" />
+	</item>
+	<item id="55652" type="Weapon" name="Antharas Dual Sword ">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_dual_sword_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dual" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="9872" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="1520" />
+	</item>
+	<item id="55653" type="Weapon" name="Antharas Dual Daggers ">
+		<set name="icon" val="SacriDragonWeaponTex.antaras_dual_dagger_i01" />
+		<set name="handler" val="DressMeItem" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="dualdagger" />
+		<set name="bodypart" val="lrhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="11421" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="2050" />
+	</item>
+	
+</list>

@@ -667,7 +667,8 @@ public final class Config extends AbstractConfigs
 	public static String[] BOTREPORT_RESETPOINT_HOUR;
 	public static long BOTREPORT_REPORT_DELAY;
 	public static boolean BOTREPORT_ALLOW_REPORTS_FROM_SAME_CLAN_MEMBERS;
-	
+	public static String INTERFACE_SETTINGS;
+
 	// --------------------------------------------------
 	// Knownlist Settings
 	// --------------------------------------------------
@@ -2210,7 +2211,106 @@ public final class Config extends AbstractConfigs
 			BOTREPORT_RESETPOINT_HOUR = General.getString("BotReportPointsResetHour", "00:00").split(":");
 			BOTREPORT_REPORT_DELAY = General.getInt("BotReportDelay", 30) * 60000;
 			BOTREPORT_ALLOW_REPORTS_FROM_SAME_CLAN_MEMBERS = General.getBoolean("AllowReportsFromSameClanMembers", false);
-			
+
+			INTERFACE_SETTINGS = "";
+			INTERFACE_SETTINGS += " LoopMacros=";
+			INTERFACE_SETTINGS += General.getBoolean("LoopMacros", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " AntiMirage=";
+			INTERFACE_SETTINGS += General.getBoolean("AntiMirage", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " AutoAugment=";
+			INTERFACE_SETTINGS += General.getBoolean("AutoAugment", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " AutoAttribute=";
+			INTERFACE_SETTINGS += General.getBoolean("AutoAttribute", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " AutoEnchant=";
+			INTERFACE_SETTINGS += General.getBoolean("AutoEnchant", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " AutoSkillEnchant=";
+			INTERFACE_SETTINGS += General.getBoolean("AutoSkillEnchant", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " AutoAssist=";
+			INTERFACE_SETTINGS += General.getBoolean("AutoAssist", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " AutoSoulsAndForces=";
+			INTERFACE_SETTINGS += General.getBoolean("AutoSoulsAndForces", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " AutoPotions=";
+			INTERFACE_SETTINGS += General.getBoolean("AutoPotions", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " TargetInfo=";
+			INTERFACE_SETTINGS += General.getBoolean("TargetInfo", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " RemoveBuffCommands=";
+			INTERFACE_SETTINGS += General.getBoolean("RemoveBuffCommands", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " TargetNextLong=";
+			INTERFACE_SETTINGS += General.getBoolean("TargetNextLong", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OlyTargetWindowClickable=";
+			INTERFACE_SETTINGS += General.getBoolean("OlyTargetWindowClickable", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OlyTriggerTimers=";
+			INTERFACE_SETTINGS += General.getBoolean("OlyTriggerTimers", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OlyStartInfo=";
+			INTERFACE_SETTINGS += General.getBoolean("OlyStartInfo", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OlyDmgCounter=";
+			INTERFACE_SETTINGS += General.getBoolean("OlyDmgCounter", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " Watermark=";
+			INTERFACE_SETTINGS += General.getBoolean("Watermark", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " Watermark_R=";
+			INTERFACE_SETTINGS += General.getString("Watermark_R", "100");
+			INTERFACE_SETTINGS += " Watermark_G=";
+			INTERFACE_SETTINGS += General.getString("Watermark_G", "100");
+			INTERFACE_SETTINGS += " Watermark_B=";
+			INTERFACE_SETTINGS += General.getString("Watermark_B", "100");
+			INTERFACE_SETTINGS += " Watermark_A=";
+			INTERFACE_SETTINGS += General.getString("Watermark_A", "100");
+			INTERFACE_SETTINGS += " Watermark_Text=";
+			INTERFACE_SETTINGS += General.getString("Watermark_Text", "\u007FSomik v1.0 Patch\u007F");
+			INTERFACE_SETTINGS += " OptionsButton1=";
+			INTERFACE_SETTINGS += General.getBoolean("OptionsButton1", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OptionsButton1_Name=";
+			INTERFACE_SETTINGS += General.getString("OptionsButton1_Name", "Button1");
+			INTERFACE_SETTINGS += " OptionsButton1_URL=";
+			INTERFACE_SETTINGS += General.getString("OptionsButton1_URL", "");
+			INTERFACE_SETTINGS += " OptionsButton2=";
+			INTERFACE_SETTINGS += General.getBoolean("OptionsButton2", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OptionsButton2_Name=";
+			INTERFACE_SETTINGS += General.getString("OptionsButton2_Name", "Button2");
+			INTERFACE_SETTINGS += " OptionsButton2_URL=";
+			INTERFACE_SETTINGS += General.getString("OptionsButton2_URL", "");
+			INTERFACE_SETTINGS += " OptionsButton3=";
+			INTERFACE_SETTINGS += General.getBoolean("OptionsButton3", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OptionsButton3_Name=";
+			INTERFACE_SETTINGS += General.getString("OptionsButton3_Name", "Button3");
+			INTERFACE_SETTINGS += " OptionsButton3_URL=";
+			INTERFACE_SETTINGS += General.getString("OptionsButton3_URL", "");
+			INTERFACE_SETTINGS += " OptionsButton4=";
+			INTERFACE_SETTINGS += General.getBoolean("OptionsButton4", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OptionsButton4_Name=";
+			INTERFACE_SETTINGS += General.getString("OptionsButton4_Name", "Button4");
+			INTERFACE_SETTINGS += " OptionsButton4_URL=";
+			INTERFACE_SETTINGS += General.getString("OptionsButton4_URL", "");
+			INTERFACE_SETTINGS += " RemoveBuffCommands=";
+			INTERFACE_SETTINGS += General.getBoolean("RemoveBuffCommands", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " TargetNextLong=";
+			INTERFACE_SETTINGS += General.getBoolean("TargetNextLong", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OlyTargetWindowClickable=";
+			INTERFACE_SETTINGS += General.getBoolean("OlyTargetWindowClickable", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OlyTriggerTimers=";
+			INTERFACE_SETTINGS += General.getBoolean("OlyTriggerTimers", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OlyStartInfo=";
+			INTERFACE_SETTINGS += General.getBoolean("OlyStartInfo", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OlyDmgCounter=";
+			INTERFACE_SETTINGS += General.getBoolean("OlyDmgCounter", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " AutoPlay=";
+			INTERFACE_SETTINGS += General.getBoolean("AutoPlay", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " PremiumOnly_AutoPlay=";
+			INTERFACE_SETTINGS += General.getBoolean("PremiumOnly_AutoPlay", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " PremiumItem_ClassID=";
+			INTERFACE_SETTINGS += General.getString("PremiumItem_ClassID", "0");
+			INTERFACE_SETTINGS += " EnemyCastInfo=";
+			INTERFACE_SETTINGS += General.getBoolean("EnemyCastInfo", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " OlyTargetHealthNumbers=";
+			INTERFACE_SETTINGS += General.getBoolean("OlyTargetHealthNumbers", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " FlagSkill_AutoPlay=";
+			INTERFACE_SETTINGS += General.getBoolean("FlagSkill_AutoPlay", false) ? "1" : "0";
+			INTERFACE_SETTINGS += " FlagSkill_ClassID=";
+			INTERFACE_SETTINGS += General.getString("FlagSkill_ClassID", "0");
+			INTERFACE_SETTINGS += " AutoShots=";
+			INTERFACE_SETTINGS += General.getBoolean("AutoShots", false) ? "1" : "0";
+
+
 			// Load NPC L2Properties file (if exists)
 			final PropertiesParser NPC = new PropertiesParser(NPC_CONFIG_FILE);
 			

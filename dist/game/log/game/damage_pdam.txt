@@ -1,0 +1,2 @@
+[25.09.28 15:49:09] '---': =Debruyne=(268445241) 85 lvl did damage 1711309 with skill Power Strike(3) to Executor of Vivare(268440881) 85 lvl
+[25.09.28 15:49:10] '---': =Debruyne=(268445241) 85 lvl did damage 1694532 with skill Power Strike(3) to Executor of Vivare(268440823) 85 lvl

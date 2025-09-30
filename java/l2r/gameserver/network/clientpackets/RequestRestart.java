@@ -1,18 +1,18 @@
 /*
  * Copyright (C) 2004-2015 L2J Server
- * 
+ *
  * This file is part of L2J Server.
- * 
+ *
  * L2J Server is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
- * 
+ *
  * L2J Server is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
  * General Public License for more details.
- * 
+ *
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
@@ -20,6 +20,7 @@ package l2r.gameserver.network.clientpackets;
 
 import gabriel.CustomMethodes;
 import gabriel.Utils.GabUtils;
+import gabriel.autofarm.manager.AutoPlayManager;
 import gabriel.pvpInstanceZone.ConfigPvPInstance.ConfigPvPInstance;
 import gr.sr.configsEngine.configs.impl.AntibotConfigs;
 import gr.sr.interf.SunriseEvents;
@@ -51,29 +52,29 @@ public final class RequestRestart extends L2GameClientPacket
 {
 	private static final String _C__57_REQUESTRESTART = "[C] 57 RequestRestart";
 	protected static final Logger _logAccounting = Logger.getLogger("accounting");
-	
+
 	@Override
 	protected void readImpl()
 	{
 		// trigger
 	}
-	
+
 	@Override
 	protected void runImpl()
 	{
 		final L2PcInstance player = getClient().getActiveChar();
-		
+
 		if (player == null)
 		{
 			return;
 		}
-		
+
 		if ((player.getActiveEnchantItemId() != L2PcInstance.ID_NONE) || (player.getActiveEnchantAttrItemId() != L2PcInstance.ID_NONE))
 		{
 			sendPacket(RestartResponse.valueOf(false));
 			return;
 		}
-		
+
 		if (player.isLocked())
 		{
 			_log.warn("Player " + player.getName() + " tried to restart during class change.");
@@ -90,7 +91,7 @@ public final class RequestRestart extends L2GameClientPacket
 			sendPacket(RestartResponse.valueOf(false));
 			return;
 		}
-		
+
 		// Chaotic Zone
 		if (player.isInsideZone(ZoneIdType.ZONE_CHAOTIC))
 		{
@@ -98,7 +99,7 @@ public final class RequestRestart extends L2GameClientPacket
 			sendPacket(RestartResponse.valueOf(false));
 			return;
 		}
-		
+
 		// Flag Zone
 		if (player.isInsideZone(ZoneIdType.FLAG))
 		{
@@ -106,7 +107,7 @@ public final class RequestRestart extends L2GameClientPacket
 			sendPacket(RestartResponse.valueOf(false));
 			return;
 		}
-		
+
 		// Antibot farm system
 		if (AntibotConfigs.ENABLE_ANTIBOT_FARM_SYSTEM && player.isFarmBot())
 		{
@@ -114,26 +115,26 @@ public final class RequestRestart extends L2GameClientPacket
 			sendPacket(RestartResponse.valueOf(false));
 			return;
 		}
-		
+
 		if (!player.isGM() && player.isInsideZone(ZoneIdType.NO_RESTART))
 		{
 			player.sendPacket(SystemMessageId.NO_RESTART_HERE);
 			sendPacket(RestartResponse.valueOf(false));
 			return;
 		}
-		
+
 		if (AttackStanceTaskManager.getInstance().hasAttackStanceTask(player) && !(player.isGM() && Config.GM_RESTART_FIGHTING))
 		{
 			if (Config.DEBUG)
 			{
 				_logger.fine("Player " + player.getName() + " tried to logout while fighting.");
 			}
-			
+
 			player.sendPacket(SystemMessageId.CANT_RESTART_WHILE_FIGHTING);
 			sendPacket(RestartResponse.valueOf(false));
 			return;
 		}
-		
+
 		if ((SunriseEvents.isInEvent(player) && !player.isGM()) || (GabUtils.isInPvPInstance(player) && ConfigPvPInstance.ENABLE_PVP_INSTANCE_RESTART))
 		{
 			player.sendMessage("A superior power doesn't allow you to leave the event");
@@ -151,7 +152,7 @@ public final class RequestRestart extends L2GameClientPacket
 			player.sendPacket(RestartResponse.valueOf(false));
 			return;
 		}
-		
+
 		if (player.inObserverMode())
 		{
 			player.sendMessage("You cannot restart while in Olympiad.");
@@ -170,54 +171,56 @@ public final class RequestRestart extends L2GameClientPacket
 				sendPacket(RestartResponse.valueOf(false));
 				return;
 			}
-			
+
 			final L2Party playerParty = player.getParty();
-			
+
 			if (playerParty != null)
 			{
 				player.getParty().broadcastString(player.getName() + " has been removed from the upcoming festival.");
 			}
 		}
-		
+
 		// Remove player from Boss Zone
 		player.removeFromBossZone();
-		
+
 		final L2GameClient client = getClient();
-		
+
 		LogRecord record = new LogRecord(Level.INFO, "Logged out");
 		record.setParameters(new Object[]
 		{
 			client
 		});
 		_logAccounting.log(record);
-		
+
 		// detach the client from the char so that the connection isnt closed in the deleteMe
-        CustomMethodes.checkForOldVisuals(player);
-		player.setClient(null);
-		
-		player.deleteMe();
-		
-		client.setActiveChar(null);
+		CustomMethodes.checkForOldVisuals(player);
 		AntiFeedManager.getInstance().onDisconnect(client);
-		
+		AutoPlayManager.getInstance().onLeaveWorld(player);
+
+		player.setClient(null);
+
+		player.deleteMe();
+
+		client.setActiveChar(null);
+
 		// return the client to the authed status
 		client.setState(GameClientState.AUTHED);
-		
+
 		if (Protection.isProtectionOn())
 		{
 			ProtectionManager.scheduleSendPacketToClient(0L, player);
 		}
         //TODO GABRIEL PROTECTION
 		Protection.doDisconection(getClient());
-		
+
 		sendPacket(RestartResponse.valueOf(true));
-		
+
 		// send char list
 		final CharSelectionInfo cl = new CharSelectionInfo(client.getAccountName(), client.getSessionId().playOkID1);
 		sendPacket(cl);
 		client.setCharSelection(cl.getCharInfo());
 	}
-	
+
 	@Override
 	public String getType()
 	{

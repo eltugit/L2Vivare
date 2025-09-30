@@ -27,6 +27,7 @@ import java.net.ServerSocket;
 import java.util.Calendar;
 import java.util.logging.LogManager;
 
+import gabriel.autofarm.manager.AutoPlayManager;
 import l2r.Config;
 import l2r.FloodProtectorsConfig;
 import l2r.L2DatabaseFactory;
@@ -268,7 +269,8 @@ public class GameServer
 		FishingMonstersData.getInstance();
 		FishingRodsData.getInstance();
 		HennaData.getInstance();
-		
+		AutoPlayManager.getInstance();
+
 		printSection("Product Items");
 		ProductItemData.getInstance();
 		

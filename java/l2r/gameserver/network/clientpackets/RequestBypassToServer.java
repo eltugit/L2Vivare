@@ -18,6 +18,7 @@
  */
 package l2r.gameserver.network.clientpackets;
 
+import gabriel.autofarm.manager.AutoPlayManager;
 import gabriel.cbbCertif.CertificationManager;
 import gabriel.scriptsGab.clan.CommunityClan;
 import gabriel.scriptsGab.forge.Forge;
@@ -54,6 +55,7 @@ import l2r.gameserver.model.items.instance.L2ItemInstance;
 import l2r.gameserver.network.SystemMessageId;
 import l2r.gameserver.network.serverpackets.ActionFailed;
 import l2r.gameserver.network.serverpackets.ConfirmDlg;
+import l2r.gameserver.network.serverpackets.CreatureSay;
 import l2r.gameserver.network.serverpackets.NpcHtmlMessage;
 import l2r.gameserver.util.Broadcast;
 import l2r.gameserver.util.GMAudit;
@@ -83,7 +85,16 @@ public final class RequestBypassToServer extends L2GameClientPacket
 		"_olympiad?command",
 		"manor_menu_select",
 		"admin_",
-        "_certi", "enchantColor", "customAgathion", "script_", "_bbsforge", "gab_"
+        "_certi",
+		"enchantColor",
+		"customAgathion",
+		"script_",
+		"_bbsforge",
+		"gab_",
+		"SomikInterface",
+		"StartAutoPlay",
+		"StopAutoPlay",
+		"AutoShotUse"
 	};
 	
 	// S
@@ -109,6 +120,11 @@ public final class RequestBypassToServer extends L2GameClientPacket
 			_log.info(activeChar.getName() + " send empty requestbypass");
 			activeChar.logout();
 			return;
+		}
+
+		if (activeChar.isGM())
+		{
+			activeChar.sendMessage("bypass: "+ _command);
 		}
 
         Broadcast.sendUsedBypass(activeChar, _command);
@@ -347,6 +363,53 @@ public final class RequestBypassToServer extends L2GameClientPacket
 				if (handler != null)
 				{
 					handler.useBypass("arenachange " + (arenaId - 1), activeChar, null);
+				}
+			}
+			else if (_command.startsWith("SomikInterface"))
+			{
+				if (_command.startsWith("SomikInterface_RequestSettings"))
+				{
+					// Split the input string by "_" delimiter
+					final String[] CommandTokens = _command.split("_");
+
+					// Get the last token from the split result
+					final String LastCommandToken = CommandTokens[CommandTokens.length - 1];
+
+					if(LastCommandToken != "")
+					{
+						activeChar.sendPacket(new CreatureSay(0, Say2.MSNCHAT, activeChar.getName(), Config.INTERFACE_SETTINGS + " Settings=" + LastCommandToken + " "));
+					}
+				}
+				//Can Handle the Confirmation here.
+				//else if (_command.startsWith("SomikInterface_ConfirmSettings"))
+				//{
+				//}
+			}
+			else if (_command.startsWith("StartAutoPlay"))
+			{
+				AutoPlayManager.getInstance().startAutoPlay(activeChar);
+			}
+			else if (_command.startsWith("StopAutoPlay"))
+			{
+				AutoPlayManager.getInstance().stopAutoPlay(activeChar);
+			}
+			else if (_command.startsWith("AutoShotUse"))
+			{
+				StringTokenizer st = new StringTokenizer(_command, "_");
+				if (st.countTokens() == 3)
+				{
+					st.nextToken();
+					int shotItemId = Integer.parseInt(st.nextToken());
+					boolean enabled = st.nextToken().equals("1");
+					if (enabled)
+					{
+						activeChar.addAutoSoulShot(shotItemId);
+						activeChar.rechargeShots(true, true);
+					}
+					else
+					{
+						activeChar.removeAutoSoulShot(shotItemId);
+					}
 				}
 			}
 			else

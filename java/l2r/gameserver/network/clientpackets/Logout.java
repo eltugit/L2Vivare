@@ -20,6 +20,7 @@ package l2r.gameserver.network.clientpackets;
 
 import gabriel.CustomMethodes;
 import gabriel.Utils.GabUtils;
+import gabriel.autofarm.manager.AutoPlayManager;
 import gabriel.pvpInstanceZone.ConfigPvPInstance.ConfigPvPInstance;
 import gr.sr.configsEngine.configs.impl.AntibotConfigs;
 import gr.sr.interf.SunriseEvents;
@@ -169,7 +170,7 @@ public final class Logout extends L2GameClientPacket
         CustomMethodes.checkForOldVisuals(player);
 		player.removeFromBossZone();
 		AntiFeedManager.getInstance().onDisconnect(player.getClient());
-		
+		AutoPlayManager.getInstance().onLeaveWorld(player);
 		LogRecord record = new LogRecord(Level.INFO, "Disconnected");
 		record.setParameters(new Object[]
 		{

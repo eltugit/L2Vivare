@@ -22,6 +22,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
+import gabriel.autofarm.manager.AutoPlayManager;
 import gabriel.events.castleSiegeKoth.CSKOTHEvent;
 import l2r.Config;
 import l2r.features.HWID;
@@ -711,6 +712,8 @@ public class EnterWorld extends L2GameClientPacket
 		
 //		MuseumManager.getInstance().giveReward(activeChar);
 		activeChar.addSharedSkills();
+
+		AutoPlayManager.getInstance().onEnterWorld(activeChar);
 
 		// Unstuck players that had client open when server crashed.
 		activeChar.sendPacket(ActionFailed.STATIC_PACKET);

@@ -603,3 +603,37 @@
 28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100137 count: 0 itemObjId: 268445803)>no-target>L2Object referencing this action is: no-reference
 28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 100143 count: 0 itemObjId: 268445804)>no-target>L2Object referencing this action is: no-reference
 28/09/2025 10:15:35>=Debruyne= [268445241]>L2ItemInstance(id: 43223 count: 0 itemObjId: 268445386)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 15:14:43>=Debruyne= [268445241]>admin>=Debruyne=>
+28/09/2025 15:14:44>=Debruyne= [268445241]>admin_admin7>=Debruyne=>
+28/09/2025 15:18:05>=Debruyne= [268445241]>admin>no-target>
+28/09/2025 15:18:05>=Debruyne= [268445241]>admin_admin7>no-target>
+28/09/2025 15:18:06>=Debruyne= [268445241]>admin_invis_menu>no-target>
+28/09/2025 15:23:39>=Debruyne= [268445241]>admin>no-target>
+28/09/2025 15:43:01>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 15:43:14>=Debruyne= [268445241]>admin>no-target>
+28/09/2025 15:43:15>=Debruyne= [268445241]>admin_admin7>no-target>
+28/09/2025 15:43:16>=Debruyne= [268445241]>admin_invis_menu>no-target>
+28/09/2025 15:43:18>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Certification Manager>L2Object referencing this action is: no-reference
+28/09/2025 15:43:19>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Certification Manager>L2Object referencing this action is: no-reference
+28/09/2025 15:43:20>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Certification Manager>L2Object referencing this action is: no-reference
+28/09/2025 15:43:21>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Certification Manager>L2Object referencing this action is: no-reference
+28/09/2025 15:47:28>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>no-target>L2Object referencing this action is: no-reference
+28/09/2025 15:48:29>=Debruyne= [268445241]>admin>no-target>
+28/09/2025 15:48:29>=Debruyne= [268445241]>admin_admin7>no-target>
+28/09/2025 15:48:30>=Debruyne= [268445241]>admin_invis_menu>no-target>
+28/09/2025 15:48:46>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+28/09/2025 15:48:52>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+28/09/2025 15:48:54>=Debruyne= [268445241]>Community Teleport(id: 57 objId: 268445242 name: Adena count: -1000)>no-target>L2Object referencing this action is: =Debruyne=
+28/09/2025 15:48:56>=Debruyne= [268445241]>admin>no-target>
+28/09/2025 15:48:57>=Debruyne= [268445241]>admin_admin7>no-target>
+28/09/2025 15:48:58>=Debruyne= [268445241]>admin_gmspeed_menu 3>no-target>
+28/09/2025 15:49:09>=Debruyne= [268445241]>Loot(id: 57 objId: 268445242 name: Adena count: 3110617)>Executor of Vivare>L2Object referencing this action is: Executor of Vivare
+28/09/2025 15:49:09>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Executor of Vivare>L2Object referencing this action is: no-reference
+28/09/2025 15:49:10>=Debruyne= [268445241]>Loot(id: 57 objId: 268445242 name: Adena count: 3396216)>Executor of Vivare>L2Object referencing this action is: Executor of Vivare
+28/09/2025 15:49:10>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>Executor of Vivare>L2Object referencing this action is: no-reference
+30/09/2025 12:13:07>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>no-target>L2Object referencing this action is: no-reference
+30/09/2025 12:16:06>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>no-target>L2Object referencing this action is: no-reference
+30/09/2025 12:16:16>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>no-target>L2Object referencing this action is: no-reference
+30/09/2025 12:16:23>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>no-target>L2Object referencing this action is: no-reference
+30/09/2025 12:19:20>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>no-target>L2Object referencing this action is: no-reference
+30/09/2025 12:19:26>=Debruyne= [268445241]>null(id: 22086 objId: 268445357 name: Soulshot (S-Grade) count: -1)>no-target>L2Object referencing this action is: no-reference

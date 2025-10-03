@@ -30,6 +30,7 @@ import gr.sr.configsEngine.configs.impl.CommunityDonateConfigs;
 import gr.sr.configsEngine.configs.impl.CustomServerConfigs;
 import gr.sr.configsEngine.configs.impl.DonateManagerConfigs;
 import gr.sr.main.Conditions;
+import gr.sr.premiumEngine.PremiumDuration;
 import gr.sr.premiumEngine.PremiumHandler;
 import gr.sr.securityEngine.SecurityActions;
 import gr.sr.securityEngine.SecurityType;
@@ -317,7 +318,8 @@ public class DonateBBSManager extends BaseBBSManager
 	private void givePremium(L2PcInstance activeChar, String command)
 	{
 		int _premium_price = 0;
-		switch (commandSeperator(command, " "))
+		String type = commandSeperator(command, " ");
+		switch (type)
 		{
 			case "1":
 				_premium_price = CommunityDonateConfigs.COMMUNITY_DONATE_PREMIUM_PRICE_1_MONTH;
@@ -350,14 +352,29 @@ public class DonateBBSManager extends BaseBBSManager
 			sendHtm(activeChar, "premium", _donationBBSCommand + "_nav;premium");
 			return;
 		}
-		
-		if (!getPayment(activeChar, CommunityDonateConfigs.COMMUNITY_DONATE_PREMIUM_ID, _premium_price))
+
+		if (_premium_price > 0)
 		{
-			sendHtm(activeChar, "premium", _donationBBSCommand + "_nav;premium");
-			return;
+			if (!getPayment(activeChar, CommunityDonateConfigs.COMMUNITY_DONATE_PREMIUM_ID, _premium_price)) {
+				sendHtm(activeChar, "premium", _donationBBSCommand + "_nav;premium");
+				return;
+			}
 		}
-		
-		PremiumHandler.addPremiumServices(Integer.parseInt(commandSeperator(command, " ")), activeChar);
+
+		if (type.equals("0"))
+		{
+			if (activeChar.getAccountVariables().getBoolean("FREE_VIP_USED", false))
+			{
+				return;
+			}
+			activeChar.getAccountVariables().set("FREE_VIP_USED", true);
+			PremiumHandler.addPremiumServices(2, activeChar, PremiumDuration.DAYS);
+		}
+		else
+		{
+			PremiumHandler.addPremiumServices(Integer.parseInt(commandSeperator(command, " ")), activeChar);
+		}
+
 		activeChar.sendMessage("Cogratulations, you are a premium user.");
 		activeChar.sendPacket(new ExShowScreenMessage("Cogratulations, you are a premium user.", 5000));
 		activeChar.broadcastPacket(new MagicSkillUse(activeChar, 6463, 1, 1000, 0));
@@ -982,6 +999,34 @@ public class DonateBBSManager extends BaseBBSManager
 	protected void separateAndSend(String html, L2PcInstance acha)
 	{
 		html = html.replace("\t", "");
+		if (html.contains("%free_vip%"))
+		{
+			String text = "";
+			if (!acha.getAccountVariables().getBoolean("FREE_VIP_USED", false))
+			{
+				text += "<table height=74 background=l2ui_ct1.Windows_DF_TooltipBG>";
+				text += "<tr>";
+				text += "<td>";
+				text += "<table width=500 border=0 cellspacing=4 cellpadding=4 bgcolor=6E7B8B>";
+				text += "<tr>";
+				text += "<td FIXWIDTH=10 align=right valign=top bgcolor=8B0000>";
+				text += "<img src=branchsys2.br_vitality_day_i00 width=32 height=32>";
+				text += "</td>";
+				text += "<td FIXWIDTH=230 align=left valign=top>";
+				text += "<font color=B59A75 name=hs12>VIP Free: 48 Hours</font> &nbsp;<br><font color=B5B5B5 name=CreditTextSmall>2x drop Adena, Knight's Epaulette and +10% bonus in enchant.</font>";
+				text += "</td>";
+				text += "<td FIXWIDTH=155 align=right valign=top bgcolor=8B0000>";
+				text += "Price: <font color=BCEE68>Free!</font>";
+				text += "<button value=Buy action=\"bypass %command%;donatePremium 0\" back=l2ui_ct1.button.button_df_small_down fore=l2ui_ct1.button.button_df_small width=82 height=32/>";
+				text += "</td>";
+				text += "</tr>";
+				text += "</table>";
+				text += "</td>";
+				text += "</tr>";
+				text += "</table>";
+			}
+			html = html.replace("%free_vip%", text);
+		}
 		html = html.replace("%command%", _donationBBSCommand);
 		if (html.length() < 8180)
 		{
